@@ -70,41 +70,33 @@ Generate low-fidelity synthetic monthly multi-sector default-count data and save
 
 ### `01.ipynb`
 
-Data analysis and empirical coarse-graining diagnostics:
-
-* load data;
-* construct the monthly sector panel;
-* compute k-month aggregation and monthly-equivalent default rates;
-* summarize variance scaling, correlation/eigenvalue scaling, sector totals, and a quarterly heatmap.
+Data analysis and empirical coarse-graining diagnostics.
 
 Main outputs:
 
 ```text
-tables/table1_sector_summary.csv
-figures/figure1_monthly_default_rates.png
-figures/figure2_coarse_graining_scaling.png
-figures/figure3_quarterly_heatmap.png
+tables/table1_data_construction_sector_summary.csv
+figures/figure1_empirical_variance_eigenvalue_scaling.png
+figures/figure10_quarterly_sector_default_rate_heatmap.png
 pdata/coarse_graining_summary.csv
 pdata/coarse_grained_default_counts.csv
 ```
 
 ### `02.ipynb`
 
-Empirical eigenmodes:
-
-* monthly sectoral correlation matrix;
-* leading eigenvectors;
-* PC score series;
-* PC score ACFs.
+Empirical eigenmodes and PC score diagnostics.
 
 Main outputs:
 
 ```text
-tables/table3_empirical_eigenmodes.csv
+tables/table3_sector_level_summary_statistics.csv
+figures/figure2_leading_empirical_eigenvectors.png
+figures/figure3_empirical_pc_score_acfs.png
 pdata/monthly_sector_correlation.csv
 pdata/eigenmodes.csv
 pdata/pc_scores.csv
 pdata/pc_score_acf.csv
+pdata/eigenmode_summary.csv
 ```
 
 ### `03.ipynb`
@@ -114,8 +106,8 @@ Factor selection using only common-eps fixed-eigenmode AR(1)--Binomial models. T
 Main outputs:
 
 ```text
-tables/table2_common_eps_factor_selection.csv
-figures/figure4_factor_selection.png
+tables/table2_factor_selection_diagnostics.csv
+figures/figure4_factor_selection_eigenvalue_scaling.png
 pdata/factor_selection.csv
 pdata/selected_factor_dimension.json
 ```
@@ -127,20 +119,18 @@ Final `R = 2` common-eps analysis:
 * fit or load the final `R = 2` common-eps model;
 * compute posterior-style diagnostics;
 * generate posterior predictive paths;
-* perform temporal coarse-graining diagnostics;
-* construct annual correlation matrices;
+* construct annual empirical/PPC correlation matrices;
 * construct posterior-implied rank copulas;
 * summarize sector-wise variance decomposition.
 
 Main outputs:
 
 ```text
-tables/table4_r2_common_eps_parameters.csv
-tables/table5_r2_posterior_predictive_copula_variance.csv
-figures/figure5_r2_factor_diagnostics.png
-figures/figure6_r2_posterior_predictive_coarse_graining.png
-figures/figure7_r2_rank_copula_variance_decomposition.png
-figures/figure10_annual_correlation_matrices.png
+tables/table4_sector_wise_ppc_variance_decomposition.csv
+tables/table5_common_eps_r2_diagnostics.csv
+figures/figure5_annual_empirical_ppc_correlation_matrices.png
+figures/figure6_posterior_mean_f1_f2_trajectory.png
+figures/figure7_posterior_implied_rank_copulas.png
 pdata/r2_common_eps_model.json
 pdata/r2_posterior_predictive_summary.csv
 pdata/copula_summary.csv
@@ -165,12 +155,36 @@ At each forecast origin, fixed eigenmode loadings are recomputed using only the 
 Main outputs:
 
 ```text
-tables/table6_annual_forecast_scores.csv
-tables/table7_forecast_comparison.csv
-figures/figure8_forecast_scores.png
-figures/figure9_forecast_calibration.png
-figures/figure11_cumulative_forecast_log_score.png
+tables/table6_annual_portfolio_forecast_comparison.csv
+tables/table7_sector_level_annual_forecast_comparison.csv
+figures/figure8_annual_portfolio_forecast_diagnostics.png
+figures/figure9_sector_vector_forecast_diagnostics.png
+figures/figure11_additional_annual_portfolio_forecast_diagnostics.png
 pdata/annual_forecast_scores.csv
+```
+
+## Manuscript output map
+
+```text
+Figure 1: figures/figure1_empirical_variance_eigenvalue_scaling.png
+Figure 2: figures/figure2_leading_empirical_eigenvectors.png
+Figure 3: figures/figure3_empirical_pc_score_acfs.png
+Figure 4: figures/figure4_factor_selection_eigenvalue_scaling.png
+Figure 5: figures/figure5_annual_empirical_ppc_correlation_matrices.png
+Figure 6: figures/figure6_posterior_mean_f1_f2_trajectory.png
+Figure 7: figures/figure7_posterior_implied_rank_copulas.png
+Figure 8: figures/figure8_annual_portfolio_forecast_diagnostics.png
+Figure 9: figures/figure9_sector_vector_forecast_diagnostics.png
+Figure 10: figures/figure10_quarterly_sector_default_rate_heatmap.png
+Figure 11: figures/figure11_additional_annual_portfolio_forecast_diagnostics.png
+
+Table 1: tables/table1_data_construction_sector_summary.csv
+Table 2: tables/table2_factor_selection_diagnostics.csv
+Table 3: tables/table3_sector_level_summary_statistics.csv
+Table 4: tables/table4_sector_wise_ppc_variance_decomposition.csv
+Table 5: tables/table5_common_eps_r2_diagnostics.csv
+Table 6: tables/table6_annual_portfolio_forecast_comparison.csv
+Table 7: tables/table7_sector_level_annual_forecast_comparison.csv
 ```
 
 ## Input data format
