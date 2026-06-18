@@ -1,0 +1,2497 @@
+date,sector,obligors,defaulted
+2000-01-31,Basic Materials,1687,11
+2000-01-31,Capital Goods,1692,3
+2000-01-31,Consumer,1770,2
+2000-01-31,Energy,2025,8
+2000-01-31,Finance,2009,16
+2000-01-31,Healthcare,2175,1
+2000-01-31,Technology,2244,5
+2000-01-31,Utilities,2422,6
+2000-02-29,Basic Materials,1602,5
+2000-02-29,Capital Goods,1633,7
+2000-02-29,Consumer,1998,9
+2000-02-29,Energy,1960,9
+2000-02-29,Finance,2131,9
+2000-02-29,Healthcare,1994,6
+2000-02-29,Technology,2219,8
+2000-02-29,Utilities,2400,8
+2000-03-31,Basic Materials,1601,8
+2000-03-31,Capital Goods,1741,9
+2000-03-31,Consumer,1758,2
+2000-03-31,Energy,2016,22
+2000-03-31,Finance,1989,9
+2000-03-31,Healthcare,2248,8
+2000-03-31,Technology,2226,6
+2000-03-31,Utilities,2243,3
+2000-04-30,Basic Materials,1585,6
+2000-04-30,Capital Goods,1715,8
+2000-04-30,Consumer,1959,3
+2000-04-30,Energy,1957,8
+2000-04-30,Finance,2053,8
+2000-04-30,Healthcare,2232,5
+2000-04-30,Technology,2154,9
+2000-04-30,Utilities,2213,12
+2000-05-31,Basic Materials,1697,3
+2000-05-31,Capital Goods,1755,9
+2000-05-31,Consumer,1976,5
+2000-05-31,Energy,2004,4
+2000-05-31,Finance,2057,12
+2000-05-31,Healthcare,2236,7
+2000-05-31,Technology,2191,4
+2000-05-31,Utilities,2239,5
+2000-06-30,Basic Materials,1688,1
+2000-06-30,Capital Goods,1719,11
+2000-06-30,Consumer,1868,9
+2000-06-30,Energy,2072,5
+2000-06-30,Finance,1940,8
+2000-06-30,Healthcare,2143,7
+2000-06-30,Technology,2231,4
+2000-06-30,Utilities,2366,4
+2000-07-31,Basic Materials,1690,5
+2000-07-31,Capital Goods,1801,3
+2000-07-31,Consumer,1881,11
+2000-07-31,Energy,1971,3
+2000-07-31,Finance,2084,8
+2000-07-31,Healthcare,2093,5
+2000-07-31,Technology,2154,5
+2000-07-31,Utilities,2311,4
+2000-08-31,Basic Materials,1728,5
+2000-08-31,Capital Goods,1840,6
+2000-08-31,Consumer,1949,3
+2000-08-31,Energy,1752,6
+2000-08-31,Finance,2179,7
+2000-08-31,Healthcare,1999,7
+2000-08-31,Technology,2141,2
+2000-08-31,Utilities,2201,3
+2000-09-30,Basic Materials,1586,2
+2000-09-30,Capital Goods,1786,2
+2000-09-30,Consumer,1938,3
+2000-09-30,Energy,1861,4
+2000-09-30,Finance,2167,5
+2000-09-30,Healthcare,2055,5
+2000-09-30,Technology,2249,1
+2000-09-30,Utilities,2121,3
+2000-10-31,Basic Materials,1715,2
+2000-10-31,Capital Goods,1819,7
+2000-10-31,Consumer,1858,4
+2000-10-31,Energy,1922,11
+2000-10-31,Finance,2062,6
+2000-10-31,Healthcare,2099,6
+2000-10-31,Technology,2120,10
+2000-10-31,Utilities,2203,5
+2000-11-30,Basic Materials,1700,4
+2000-11-30,Capital Goods,1843,9
+2000-11-30,Consumer,1964,6
+2000-11-30,Energy,1985,9
+2000-11-30,Finance,2054,6
+2000-11-30,Healthcare,2205,6
+2000-11-30,Technology,2055,3
+2000-11-30,Utilities,2276,4
+2000-12-31,Basic Materials,1699,0
+2000-12-31,Capital Goods,1885,2
+2000-12-31,Consumer,1990,6
+2000-12-31,Energy,2049,4
+2000-12-31,Finance,2147,13
+2000-12-31,Healthcare,1999,4
+2000-12-31,Technology,2140,2
+2000-12-31,Utilities,2202,6
+2001-01-31,Basic Materials,1692,3
+2001-01-31,Capital Goods,1881,1
+2001-01-31,Consumer,1939,2
+2001-01-31,Energy,2026,1
+2001-01-31,Finance,2172,11
+2001-01-31,Healthcare,2023,5
+2001-01-31,Technology,2171,6
+2001-01-31,Utilities,2060,4
+2001-02-28,Basic Materials,1648,5
+2001-02-28,Capital Goods,1684,10
+2001-02-28,Consumer,1947,5
+2001-02-28,Energy,1836,8
+2001-02-28,Finance,2026,13
+2001-02-28,Healthcare,2113,3
+2001-02-28,Technology,2186,9
+2001-02-28,Utilities,2123,10
+2001-03-31,Basic Materials,1642,6
+2001-03-31,Capital Goods,1742,10
+2001-03-31,Consumer,1940,3
+2001-03-31,Energy,1935,5
+2001-03-31,Finance,1949,9
+2001-03-31,Healthcare,2056,4
+2001-03-31,Technology,2011,8
+2001-03-31,Utilities,2300,5
+2001-04-30,Basic Materials,1747,4
+2001-04-30,Capital Goods,1596,4
+2001-04-30,Consumer,1981,10
+2001-04-30,Energy,2044,7
+2001-04-30,Finance,2073,14
+2001-04-30,Healthcare,2108,4
+2001-04-30,Technology,2097,2
+2001-04-30,Utilities,2092,5
+2001-05-31,Basic Materials,1656,4
+2001-05-31,Capital Goods,1819,4
+2001-05-31,Consumer,1968,4
+2001-05-31,Energy,1879,6
+2001-05-31,Finance,2104,7
+2001-05-31,Healthcare,2079,4
+2001-05-31,Technology,2171,6
+2001-05-31,Utilities,2066,8
+2001-06-30,Basic Materials,1780,7
+2001-06-30,Capital Goods,1938,8
+2001-06-30,Consumer,1849,2
+2001-06-30,Energy,1979,6
+2001-06-30,Finance,1968,14
+2001-06-30,Healthcare,2062,4
+2001-06-30,Technology,2183,2
+2001-06-30,Utilities,2163,1
+2001-07-31,Basic Materials,1842,4
+2001-07-31,Capital Goods,1725,4
+2001-07-31,Consumer,1925,6
+2001-07-31,Energy,1949,4
+2001-07-31,Finance,2009,12
+2001-07-31,Healthcare,2019,15
+2001-07-31,Technology,2069,4
+2001-07-31,Utilities,2039,3
+2001-08-31,Basic Materials,1570,1
+2001-08-31,Capital Goods,1832,2
+2001-08-31,Consumer,1920,12
+2001-08-31,Energy,1937,6
+2001-08-31,Finance,1960,7
+2001-08-31,Healthcare,2081,5
+2001-08-31,Technology,2129,2
+2001-08-31,Utilities,2013,4
+2001-09-30,Basic Materials,1735,1
+2001-09-30,Capital Goods,1889,5
+2001-09-30,Consumer,2008,2
+2001-09-30,Energy,1919,7
+2001-09-30,Finance,2057,11
+2001-09-30,Healthcare,2026,10
+2001-09-30,Technology,2024,6
+2001-09-30,Utilities,2142,5
+2001-10-31,Basic Materials,1801,5
+2001-10-31,Capital Goods,1785,3
+2001-10-31,Consumer,1865,8
+2001-10-31,Energy,1994,19
+2001-10-31,Finance,2077,16
+2001-10-31,Healthcare,1992,4
+2001-10-31,Technology,1959,1
+2001-10-31,Utilities,1976,1
+2001-11-30,Basic Materials,1757,0
+2001-11-30,Capital Goods,1841,8
+2001-11-30,Consumer,1849,3
+2001-11-30,Energy,1855,7
+2001-11-30,Finance,1870,11
+2001-11-30,Healthcare,2129,4
+2001-11-30,Technology,2037,6
+2001-11-30,Utilities,2068,7
+2001-12-31,Basic Materials,1722,2
+2001-12-31,Capital Goods,1736,4
+2001-12-31,Consumer,1849,6
+2001-12-31,Energy,1957,14
+2001-12-31,Finance,1775,17
+2001-12-31,Healthcare,1975,5
+2001-12-31,Technology,1910,5
+2001-12-31,Utilities,1903,6
+2002-01-31,Basic Materials,1592,6
+2002-01-31,Capital Goods,1883,6
+2002-01-31,Consumer,1992,4
+2002-01-31,Energy,1883,11
+2002-01-31,Finance,1849,13
+2002-01-31,Healthcare,2055,5
+2002-01-31,Technology,1974,4
+2002-01-31,Utilities,2022,5
+2002-02-28,Basic Materials,1825,5
+2002-02-28,Capital Goods,1906,5
+2002-02-28,Consumer,1889,5
+2002-02-28,Energy,1895,23
+2002-02-28,Finance,2149,6
+2002-02-28,Healthcare,1872,3
+2002-02-28,Technology,2056,12
+2002-02-28,Utilities,1956,4
+2002-03-31,Basic Materials,1781,12
+2002-03-31,Capital Goods,1733,9
+2002-03-31,Consumer,1961,8
+2002-03-31,Energy,1960,10
+2002-03-31,Finance,1956,11
+2002-03-31,Healthcare,2071,4
+2002-03-31,Technology,2083,5
+2002-03-31,Utilities,1951,6
+2002-04-30,Basic Materials,1772,6
+2002-04-30,Capital Goods,1676,12
+2002-04-30,Consumer,1729,5
+2002-04-30,Energy,1881,9
+2002-04-30,Finance,1859,20
+2002-04-30,Healthcare,1998,6
+2002-04-30,Technology,2046,5
+2002-04-30,Utilities,2091,2
+2002-05-31,Basic Materials,1828,3
+2002-05-31,Capital Goods,1815,5
+2002-05-31,Consumer,1904,14
+2002-05-31,Energy,1879,16
+2002-05-31,Finance,1956,12
+2002-05-31,Healthcare,1877,7
+2002-05-31,Technology,1893,10
+2002-05-31,Utilities,1949,12
+2002-06-30,Basic Materials,1730,9
+2002-06-30,Capital Goods,1814,5
+2002-06-30,Consumer,1960,10
+2002-06-30,Energy,1910,20
+2002-06-30,Finance,1936,14
+2002-06-30,Healthcare,2035,11
+2002-06-30,Technology,1901,5
+2002-06-30,Utilities,1988,2
+2002-07-31,Basic Materials,1814,6
+2002-07-31,Capital Goods,1832,16
+2002-07-31,Consumer,1822,4
+2002-07-31,Energy,2008,25
+2002-07-31,Finance,1975,12
+2002-07-31,Healthcare,1862,4
+2002-07-31,Technology,1949,5
+2002-07-31,Utilities,2025,6
+2002-08-31,Basic Materials,1897,9
+2002-08-31,Capital Goods,1776,10
+2002-08-31,Consumer,1843,5
+2002-08-31,Energy,1792,8
+2002-08-31,Finance,1839,1
+2002-08-31,Healthcare,1835,1
+2002-08-31,Technology,2111,3
+2002-08-31,Utilities,1927,6
+2002-09-30,Basic Materials,1687,6
+2002-09-30,Capital Goods,1807,12
+2002-09-30,Consumer,1723,8
+2002-09-30,Energy,1930,6
+2002-09-30,Finance,1845,9
+2002-09-30,Healthcare,1865,4
+2002-09-30,Technology,1881,9
+2002-09-30,Utilities,2063,3
+2002-10-31,Basic Materials,1750,8
+2002-10-31,Capital Goods,1815,7
+2002-10-31,Consumer,1789,5
+2002-10-31,Energy,1844,7
+2002-10-31,Finance,1905,9
+2002-10-31,Healthcare,2006,7
+2002-10-31,Technology,1935,6
+2002-10-31,Utilities,2003,3
+2002-11-30,Basic Materials,1706,6
+2002-11-30,Capital Goods,1806,8
+2002-11-30,Consumer,1789,5
+2002-11-30,Energy,1887,17
+2002-11-30,Finance,1822,14
+2002-11-30,Healthcare,1854,2
+2002-11-30,Technology,1882,11
+2002-11-30,Utilities,1880,3
+2002-12-31,Basic Materials,1618,12
+2002-12-31,Capital Goods,1755,19
+2002-12-31,Consumer,1905,3
+2002-12-31,Energy,1856,46
+2002-12-31,Finance,1966,5
+2002-12-31,Healthcare,1791,3
+2002-12-31,Technology,2074,1
+2002-12-31,Utilities,2032,2
+2003-01-31,Basic Materials,1686,9
+2003-01-31,Capital Goods,1717,11
+2003-01-31,Consumer,1867,10
+2003-01-31,Energy,1841,27
+2003-01-31,Finance,1868,16
+2003-01-31,Healthcare,1891,3
+2003-01-31,Technology,1960,5
+2003-01-31,Utilities,1992,1
+2003-02-28,Basic Materials,1661,8
+2003-02-28,Capital Goods,1613,7
+2003-02-28,Consumer,1995,10
+2003-02-28,Energy,1780,14
+2003-02-28,Finance,1891,14
+2003-02-28,Healthcare,1875,12
+2003-02-28,Technology,1958,11
+2003-02-28,Utilities,2026,14
+2003-03-31,Basic Materials,1730,19
+2003-03-31,Capital Goods,1673,11
+2003-03-31,Consumer,1852,4
+2003-03-31,Energy,1865,21
+2003-03-31,Finance,1871,28
+2003-03-31,Healthcare,1860,11
+2003-03-31,Technology,1933,8
+2003-03-31,Utilities,1966,4
+2003-04-30,Basic Materials,1754,15
+2003-04-30,Capital Goods,1599,18
+2003-04-30,Consumer,1727,7
+2003-04-30,Energy,1710,26
+2003-04-30,Finance,1789,23
+2003-04-30,Healthcare,1838,8
+2003-04-30,Technology,1792,7
+2003-04-30,Utilities,1991,11
+2003-05-31,Basic Materials,1803,9
+2003-05-31,Capital Goods,1706,9
+2003-05-31,Consumer,1671,3
+2003-05-31,Energy,1714,22
+2003-05-31,Finance,1795,30
+2003-05-31,Healthcare,1912,7
+2003-05-31,Technology,1861,4
+2003-05-31,Utilities,2056,14
+2003-06-30,Basic Materials,1591,9
+2003-06-30,Capital Goods,1725,22
+2003-06-30,Consumer,1713,5
+2003-06-30,Energy,1759,20
+2003-06-30,Finance,1611,22
+2003-06-30,Healthcare,1872,3
+2003-06-30,Technology,1886,6
+2003-06-30,Utilities,2026,7
+2003-07-31,Basic Materials,1667,12
+2003-07-31,Capital Goods,1641,6
+2003-07-31,Consumer,1801,6
+2003-07-31,Energy,1699,24
+2003-07-31,Finance,1762,25
+2003-07-31,Healthcare,1888,2
+2003-07-31,Technology,1957,4
+2003-07-31,Utilities,2084,8
+2003-08-31,Basic Materials,1636,8
+2003-08-31,Capital Goods,1806,5
+2003-08-31,Consumer,1677,5
+2003-08-31,Energy,1743,12
+2003-08-31,Finance,1827,10
+2003-08-31,Healthcare,1884,0
+2003-08-31,Technology,1920,5
+2003-08-31,Utilities,2011,7
+2003-09-30,Basic Materials,1599,2
+2003-09-30,Capital Goods,1549,7
+2003-09-30,Consumer,1682,1
+2003-09-30,Energy,1717,9
+2003-09-30,Finance,1777,7
+2003-09-30,Healthcare,1825,3
+2003-09-30,Technology,2036,2
+2003-09-30,Utilities,2073,3
+2003-10-31,Basic Materials,1710,12
+2003-10-31,Capital Goods,1730,10
+2003-10-31,Consumer,1692,3
+2003-10-31,Energy,1791,5
+2003-10-31,Finance,1868,10
+2003-10-31,Healthcare,2006,3
+2003-10-31,Technology,1834,4
+2003-10-31,Utilities,2078,1
+2003-11-30,Basic Materials,1668,4
+2003-11-30,Capital Goods,1781,6
+2003-11-30,Consumer,1620,1
+2003-11-30,Energy,1707,12
+2003-11-30,Finance,1726,5
+2003-11-30,Healthcare,1891,2
+2003-11-30,Technology,1972,3
+2003-11-30,Utilities,1932,0
+2003-12-31,Basic Materials,1754,8
+2003-12-31,Capital Goods,1607,5
+2003-12-31,Consumer,1696,5
+2003-12-31,Energy,1763,6
+2003-12-31,Finance,1828,15
+2003-12-31,Healthcare,1857,3
+2003-12-31,Technology,1871,2
+2003-12-31,Utilities,2098,3
+2004-01-31,Basic Materials,1481,4
+2004-01-31,Capital Goods,1449,6
+2004-01-31,Consumer,1772,2
+2004-01-31,Energy,1824,8
+2004-01-31,Finance,1785,10
+2004-01-31,Healthcare,1981,0
+2004-01-31,Technology,1975,3
+2004-01-31,Utilities,1997,9
+2004-02-29,Basic Materials,1490,3
+2004-02-29,Capital Goods,1629,4
+2004-02-29,Consumer,1637,3
+2004-02-29,Energy,1711,11
+2004-02-29,Finance,1776,7
+2004-02-29,Healthcare,1943,1
+2004-02-29,Technology,1972,1
+2004-02-29,Utilities,2070,13
+2004-03-31,Basic Materials,1626,6
+2004-03-31,Capital Goods,1586,8
+2004-03-31,Consumer,1730,6
+2004-03-31,Energy,1586,11
+2004-03-31,Finance,1806,10
+2004-03-31,Healthcare,1969,3
+2004-03-31,Technology,1881,5
+2004-03-31,Utilities,2005,5
+2004-04-30,Basic Materials,1513,5
+2004-04-30,Capital Goods,1641,8
+2004-04-30,Consumer,1659,5
+2004-04-30,Energy,1677,3
+2004-04-30,Finance,1862,7
+2004-04-30,Healthcare,1807,2
+2004-04-30,Technology,1821,2
+2004-04-30,Utilities,2134,7
+2004-05-31,Basic Materials,1554,6
+2004-05-31,Capital Goods,1653,3
+2004-05-31,Consumer,1729,4
+2004-05-31,Energy,1648,8
+2004-05-31,Finance,1656,16
+2004-05-31,Healthcare,1871,2
+2004-05-31,Technology,2062,5
+2004-05-31,Utilities,2051,3
+2004-06-30,Basic Materials,1591,6
+2004-06-30,Capital Goods,1647,12
+2004-06-30,Consumer,1744,6
+2004-06-30,Energy,1595,6
+2004-06-30,Finance,1817,7
+2004-06-30,Healthcare,1805,5
+2004-06-30,Technology,1911,2
+2004-06-30,Utilities,2143,1
+2004-07-31,Basic Materials,1484,5
+2004-07-31,Capital Goods,1648,12
+2004-07-31,Consumer,1706,3
+2004-07-31,Energy,1768,7
+2004-07-31,Finance,1605,11
+2004-07-31,Healthcare,1884,3
+2004-07-31,Technology,1828,3
+2004-07-31,Utilities,2090,4
+2004-08-31,Basic Materials,1495,3
+2004-08-31,Capital Goods,1505,8
+2004-08-31,Consumer,1732,5
+2004-08-31,Energy,1710,6
+2004-08-31,Finance,1682,13
+2004-08-31,Healthcare,1816,1
+2004-08-31,Technology,1842,1
+2004-08-31,Utilities,2068,4
+2004-09-30,Basic Materials,1568,1
+2004-09-30,Capital Goods,1545,6
+2004-09-30,Consumer,1635,8
+2004-09-30,Energy,1667,11
+2004-09-30,Finance,1800,17
+2004-09-30,Healthcare,1795,3
+2004-09-30,Technology,2010,6
+2004-09-30,Utilities,2086,6
+2004-10-31,Basic Materials,1543,3
+2004-10-31,Capital Goods,1627,8
+2004-10-31,Consumer,1604,1
+2004-10-31,Energy,1728,5
+2004-10-31,Finance,1761,3
+2004-10-31,Healthcare,2035,20
+2004-10-31,Technology,2106,12
+2004-10-31,Utilities,2046,7
+2004-11-30,Basic Materials,1673,6
+2004-11-30,Capital Goods,1596,5
+2004-11-30,Consumer,1582,9
+2004-11-30,Energy,1607,11
+2004-11-30,Finance,1668,13
+2004-11-30,Healthcare,1842,9
+2004-11-30,Technology,2029,9
+2004-11-30,Utilities,2183,4
+2004-12-31,Basic Materials,1490,3
+2004-12-31,Capital Goods,1559,12
+2004-12-31,Consumer,1629,6
+2004-12-31,Energy,1772,0
+2004-12-31,Finance,1725,8
+2004-12-31,Healthcare,1907,6
+2004-12-31,Technology,2041,8
+2004-12-31,Utilities,2060,5
+2005-01-31,Basic Materials,1500,1
+2005-01-31,Capital Goods,1678,9
+2005-01-31,Consumer,1589,3
+2005-01-31,Energy,1630,10
+2005-01-31,Finance,1699,5
+2005-01-31,Healthcare,1789,3
+2005-01-31,Technology,1991,9
+2005-01-31,Utilities,2087,1
+2005-02-28,Basic Materials,1458,2
+2005-02-28,Capital Goods,1509,3
+2005-02-28,Consumer,1532,2
+2005-02-28,Energy,1699,7
+2005-02-28,Finance,1746,12
+2005-02-28,Healthcare,1951,5
+2005-02-28,Technology,1992,12
+2005-02-28,Utilities,2188,6
+2005-03-31,Basic Materials,1449,1
+2005-03-31,Capital Goods,1718,9
+2005-03-31,Consumer,1630,6
+2005-03-31,Energy,1633,3
+2005-03-31,Finance,1755,10
+2005-03-31,Healthcare,1963,7
+2005-03-31,Technology,2098,6
+2005-03-31,Utilities,2206,2
+2005-04-30,Basic Materials,1431,1
+2005-04-30,Capital Goods,1534,3
+2005-04-30,Consumer,1583,5
+2005-04-30,Energy,1748,2
+2005-04-30,Finance,1809,7
+2005-04-30,Healthcare,1938,3
+2005-04-30,Technology,2054,6
+2005-04-30,Utilities,2129,4
+2005-05-31,Basic Materials,1481,2
+2005-05-31,Capital Goods,1584,3
+2005-05-31,Consumer,1633,4
+2005-05-31,Energy,1653,7
+2005-05-31,Finance,1904,6
+2005-05-31,Healthcare,1913,0
+2005-05-31,Technology,2058,5
+2005-05-31,Utilities,2220,2
+2005-06-30,Basic Materials,1372,2
+2005-06-30,Capital Goods,1542,4
+2005-06-30,Consumer,1573,0
+2005-06-30,Energy,1737,15
+2005-06-30,Finance,1828,3
+2005-06-30,Healthcare,1948,7
+2005-06-30,Technology,2054,3
+2005-06-30,Utilities,2181,6
+2005-07-31,Basic Materials,1495,1
+2005-07-31,Capital Goods,1619,5
+2005-07-31,Consumer,1512,4
+2005-07-31,Energy,1719,4
+2005-07-31,Finance,1885,11
+2005-07-31,Healthcare,1855,6
+2005-07-31,Technology,2093,2
+2005-07-31,Utilities,2233,3
+2005-08-31,Basic Materials,1470,7
+2005-08-31,Capital Goods,1513,5
+2005-08-31,Consumer,1607,6
+2005-08-31,Energy,1763,8
+2005-08-31,Finance,1840,6
+2005-08-31,Healthcare,2053,2
+2005-08-31,Technology,2012,8
+2005-08-31,Utilities,2291,4
+2005-09-30,Basic Materials,1518,5
+2005-09-30,Capital Goods,1512,8
+2005-09-30,Consumer,1638,4
+2005-09-30,Energy,1843,5
+2005-09-30,Finance,1859,14
+2005-09-30,Healthcare,1933,5
+2005-09-30,Technology,2013,11
+2005-09-30,Utilities,2416,4
+2005-10-31,Basic Materials,1459,6
+2005-10-31,Capital Goods,1559,5
+2005-10-31,Consumer,1549,2
+2005-10-31,Energy,1729,3
+2005-10-31,Finance,1776,8
+2005-10-31,Healthcare,2084,1
+2005-10-31,Technology,2233,6
+2005-10-31,Utilities,2250,3
+2005-11-30,Basic Materials,1306,7
+2005-11-30,Capital Goods,1601,1
+2005-11-30,Consumer,1706,2
+2005-11-30,Energy,1779,9
+2005-11-30,Finance,1862,11
+2005-11-30,Healthcare,2008,3
+2005-11-30,Technology,2112,7
+2005-11-30,Utilities,2152,4
+2005-12-31,Basic Materials,1563,5
+2005-12-31,Capital Goods,1449,5
+2005-12-31,Consumer,1608,3
+2005-12-31,Energy,1674,9
+2005-12-31,Finance,1949,5
+2005-12-31,Healthcare,1927,1
+2005-12-31,Technology,2202,3
+2005-12-31,Utilities,2175,8
+2006-01-31,Basic Materials,1504,4
+2006-01-31,Capital Goods,1508,4
+2006-01-31,Consumer,1680,5
+2006-01-31,Energy,1678,7
+2006-01-31,Finance,1846,5
+2006-01-31,Healthcare,2026,4
+2006-01-31,Technology,2253,8
+2006-01-31,Utilities,2208,4
+2006-02-28,Basic Materials,1411,3
+2006-02-28,Capital Goods,1518,5
+2006-02-28,Consumer,1737,3
+2006-02-28,Energy,1770,3
+2006-02-28,Finance,1936,5
+2006-02-28,Healthcare,2026,5
+2006-02-28,Technology,2136,1
+2006-02-28,Utilities,2321,6
+2006-03-31,Basic Materials,1548,2
+2006-03-31,Capital Goods,1528,4
+2006-03-31,Consumer,1731,5
+2006-03-31,Energy,1643,4
+2006-03-31,Finance,1939,5
+2006-03-31,Healthcare,2097,7
+2006-03-31,Technology,2233,2
+2006-03-31,Utilities,2373,3
+2006-04-30,Basic Materials,1430,4
+2006-04-30,Capital Goods,1591,6
+2006-04-30,Consumer,1548,5
+2006-04-30,Energy,1786,5
+2006-04-30,Finance,1874,9
+2006-04-30,Healthcare,1981,7
+2006-04-30,Technology,2142,3
+2006-04-30,Utilities,2273,3
+2006-05-31,Basic Materials,1477,6
+2006-05-31,Capital Goods,1521,4
+2006-05-31,Consumer,1652,3
+2006-05-31,Energy,1613,5
+2006-05-31,Finance,1946,6
+2006-05-31,Healthcare,1988,5
+2006-05-31,Technology,2145,4
+2006-05-31,Utilities,2429,3
+2006-06-30,Basic Materials,1477,6
+2006-06-30,Capital Goods,1580,7
+2006-06-30,Consumer,1616,5
+2006-06-30,Energy,1744,2
+2006-06-30,Finance,1992,5
+2006-06-30,Healthcare,1968,7
+2006-06-30,Technology,2206,2
+2006-06-30,Utilities,2444,4
+2006-07-31,Basic Materials,1504,3
+2006-07-31,Capital Goods,1621,4
+2006-07-31,Consumer,1707,2
+2006-07-31,Energy,1896,5
+2006-07-31,Finance,1769,4
+2006-07-31,Healthcare,2186,2
+2006-07-31,Technology,2275,2
+2006-07-31,Utilities,2210,6
+2006-08-31,Basic Materials,1508,3
+2006-08-31,Capital Goods,1534,3
+2006-08-31,Consumer,1740,3
+2006-08-31,Energy,1850,5
+2006-08-31,Finance,1971,5
+2006-08-31,Healthcare,2102,3
+2006-08-31,Technology,2120,1
+2006-08-31,Utilities,2335,4
+2006-09-30,Basic Materials,1488,3
+2006-09-30,Capital Goods,1543,6
+2006-09-30,Consumer,1696,2
+2006-09-30,Energy,1839,3
+2006-09-30,Finance,1822,4
+2006-09-30,Healthcare,2122,3
+2006-09-30,Technology,2298,6
+2006-09-30,Utilities,2416,7
+2006-10-31,Basic Materials,1435,4
+2006-10-31,Capital Goods,1629,1
+2006-10-31,Consumer,1679,5
+2006-10-31,Energy,1762,4
+2006-10-31,Finance,1978,6
+2006-10-31,Healthcare,2129,3
+2006-10-31,Technology,2258,7
+2006-10-31,Utilities,2298,3
+2006-11-30,Basic Materials,1497,1
+2006-11-30,Capital Goods,1666,8
+2006-11-30,Consumer,1709,1
+2006-11-30,Energy,1788,5
+2006-11-30,Finance,1961,6
+2006-11-30,Healthcare,2014,9
+2006-11-30,Technology,2143,5
+2006-11-30,Utilities,2398,5
+2006-12-31,Basic Materials,1511,4
+2006-12-31,Capital Goods,1685,1
+2006-12-31,Consumer,1626,4
+2006-12-31,Energy,1870,9
+2006-12-31,Finance,2039,12
+2006-12-31,Healthcare,2156,0
+2006-12-31,Technology,2183,7
+2006-12-31,Utilities,2246,1
+2007-01-31,Basic Materials,1438,3
+2007-01-31,Capital Goods,1692,11
+2007-01-31,Consumer,1727,4
+2007-01-31,Energy,1846,10
+2007-01-31,Finance,1944,8
+2007-01-31,Healthcare,2237,1
+2007-01-31,Technology,2123,3
+2007-01-31,Utilities,2460,2
+2007-02-28,Basic Materials,1462,4
+2007-02-28,Capital Goods,1638,7
+2007-02-28,Consumer,1695,6
+2007-02-28,Energy,1713,6
+2007-02-28,Finance,1850,10
+2007-02-28,Healthcare,2181,7
+2007-02-28,Technology,2299,6
+2007-02-28,Utilities,2402,7
+2007-03-31,Basic Materials,1467,10
+2007-03-31,Capital Goods,1732,11
+2007-03-31,Consumer,1757,4
+2007-03-31,Energy,1942,8
+2007-03-31,Finance,2168,13
+2007-03-31,Healthcare,2076,2
+2007-03-31,Technology,2259,5
+2007-03-31,Utilities,2363,3
+2007-04-30,Basic Materials,1560,5
+2007-04-30,Capital Goods,1651,11
+2007-04-30,Consumer,1806,2
+2007-04-30,Energy,1916,6
+2007-04-30,Finance,2079,7
+2007-04-30,Healthcare,2118,3
+2007-04-30,Technology,2276,4
+2007-04-30,Utilities,2386,5
+2007-05-31,Basic Materials,1621,9
+2007-05-31,Capital Goods,1594,6
+2007-05-31,Consumer,1678,1
+2007-05-31,Energy,1865,15
+2007-05-31,Finance,2024,13
+2007-05-31,Healthcare,2260,7
+2007-05-31,Technology,2208,10
+2007-05-31,Utilities,2162,4
+2007-06-30,Basic Materials,1353,4
+2007-06-30,Capital Goods,1632,4
+2007-06-30,Consumer,1888,5
+2007-06-30,Energy,1912,12
+2007-06-30,Finance,2085,17
+2007-06-30,Healthcare,2083,8
+2007-06-30,Technology,2241,8
+2007-06-30,Utilities,2302,5
+2007-07-31,Basic Materials,1604,4
+2007-07-31,Capital Goods,1705,8
+2007-07-31,Consumer,1846,6
+2007-07-31,Energy,1739,2
+2007-07-31,Finance,1991,15
+2007-07-31,Healthcare,2130,10
+2007-07-31,Technology,2260,13
+2007-07-31,Utilities,2286,2
+2007-08-31,Basic Materials,1588,5
+2007-08-31,Capital Goods,1721,7
+2007-08-31,Consumer,1777,9
+2007-08-31,Energy,1940,8
+2007-08-31,Finance,2154,10
+2007-08-31,Healthcare,2154,5
+2007-08-31,Technology,2197,6
+2007-08-31,Utilities,2429,4
+2007-09-30,Basic Materials,1584,1
+2007-09-30,Capital Goods,1646,4
+2007-09-30,Consumer,1784,3
+2007-09-30,Energy,1915,10
+2007-09-30,Finance,2016,15
+2007-09-30,Healthcare,2248,6
+2007-09-30,Technology,2313,2
+2007-09-30,Utilities,2306,8
+2007-10-31,Basic Materials,1641,8
+2007-10-31,Capital Goods,1666,7
+2007-10-31,Consumer,1862,5
+2007-10-31,Energy,1896,5
+2007-10-31,Finance,1983,14
+2007-10-31,Healthcare,2202,1
+2007-10-31,Technology,2122,6
+2007-10-31,Utilities,2233,5
+2007-11-30,Basic Materials,1586,3
+2007-11-30,Capital Goods,1749,7
+2007-11-30,Consumer,1787,4
+2007-11-30,Energy,2068,20
+2007-11-30,Finance,1984,11
+2007-11-30,Healthcare,2142,4
+2007-11-30,Technology,2225,6
+2007-11-30,Utilities,2249,4
+2007-12-31,Basic Materials,1737,3
+2007-12-31,Capital Goods,1759,7
+2007-12-31,Consumer,1785,6
+2007-12-31,Energy,1993,2
+2007-12-31,Finance,1991,6
+2007-12-31,Healthcare,2168,2
+2007-12-31,Technology,2255,5
+2007-12-31,Utilities,2472,7
+2008-01-31,Basic Materials,1570,2
+2008-01-31,Capital Goods,1698,8
+2008-01-31,Consumer,1890,8
+2008-01-31,Energy,1930,12
+2008-01-31,Finance,2084,17
+2008-01-31,Healthcare,2226,6
+2008-01-31,Technology,2308,5
+2008-01-31,Utilities,2342,6
+2008-02-29,Basic Materials,1675,5
+2008-02-29,Capital Goods,1793,10
+2008-02-29,Consumer,1855,6
+2008-02-29,Energy,1868,7
+2008-02-29,Finance,2150,17
+2008-02-29,Healthcare,2071,2
+2008-02-29,Technology,2291,6
+2008-02-29,Utilities,2249,5
+2008-03-31,Basic Materials,1659,5
+2008-03-31,Capital Goods,1729,2
+2008-03-31,Consumer,1740,6
+2008-03-31,Energy,2046,5
+2008-03-31,Finance,1920,8
+2008-03-31,Healthcare,2175,5
+2008-03-31,Technology,2082,1
+2008-03-31,Utilities,2181,8
+2008-04-30,Basic Materials,1624,7
+2008-04-30,Capital Goods,1804,5
+2008-04-30,Consumer,1848,8
+2008-04-30,Energy,2119,6
+2008-04-30,Finance,2116,6
+2008-04-30,Healthcare,2112,4
+2008-04-30,Technology,2258,9
+2008-04-30,Utilities,2291,10
+2008-05-31,Basic Materials,1682,10
+2008-05-31,Capital Goods,1824,13
+2008-05-31,Consumer,1868,7
+2008-05-31,Energy,1990,12
+2008-05-31,Finance,2107,15
+2008-05-31,Healthcare,2259,4
+2008-05-31,Technology,2258,5
+2008-05-31,Utilities,2241,2
+2008-06-30,Basic Materials,1816,5
+2008-06-30,Capital Goods,1669,3
+2008-06-30,Consumer,1895,3
+2008-06-30,Energy,1965,17
+2008-06-30,Finance,2117,6
+2008-06-30,Healthcare,2075,6
+2008-06-30,Technology,2076,1
+2008-06-30,Utilities,2295,4
+2008-07-31,Basic Materials,1631,1
+2008-07-31,Capital Goods,1705,1
+2008-07-31,Consumer,1996,4
+2008-07-31,Energy,1967,8
+2008-07-31,Finance,2081,5
+2008-07-31,Healthcare,2164,4
+2008-07-31,Technology,2170,4
+2008-07-31,Utilities,2264,4
+2008-08-31,Basic Materials,1581,5
+2008-08-31,Capital Goods,1785,5
+2008-08-31,Consumer,1867,3
+2008-08-31,Energy,1950,13
+2008-08-31,Finance,2060,13
+2008-08-31,Healthcare,2315,5
+2008-08-31,Technology,2189,4
+2008-08-31,Utilities,2191,7
+2008-09-30,Basic Materials,1887,4
+2008-09-30,Capital Goods,1730,5
+2008-09-30,Consumer,1864,6
+2008-09-30,Energy,1969,15
+2008-09-30,Finance,2008,19
+2008-09-30,Healthcare,2175,3
+2008-09-30,Technology,2211,6
+2008-09-30,Utilities,2191,5
+2008-10-31,Basic Materials,1625,7
+2008-10-31,Capital Goods,1705,3
+2008-10-31,Consumer,1788,4
+2008-10-31,Energy,2028,7
+2008-10-31,Finance,2124,11
+2008-10-31,Healthcare,2104,3
+2008-10-31,Technology,2211,3
+2008-10-31,Utilities,2294,9
+2008-11-30,Basic Materials,1753,5
+2008-11-30,Capital Goods,1756,4
+2008-11-30,Consumer,1886,3
+2008-11-30,Energy,2093,12
+2008-11-30,Finance,2034,8
+2008-11-30,Healthcare,2062,3
+2008-11-30,Technology,2183,5
+2008-11-30,Utilities,2219,2
+2008-12-31,Basic Materials,1602,5
+2008-12-31,Capital Goods,1991,6
+2008-12-31,Consumer,1906,3
+2008-12-31,Energy,2131,11
+2008-12-31,Finance,2077,7
+2008-12-31,Healthcare,2037,2
+2008-12-31,Technology,2112,2
+2008-12-31,Utilities,2239,7
+2009-01-31,Basic Materials,1689,3
+2009-01-31,Capital Goods,1733,2
+2009-01-31,Consumer,1966,5
+2009-01-31,Energy,1841,7
+2009-01-31,Finance,1966,9
+2009-01-31,Healthcare,2128,1
+2009-01-31,Technology,2103,3
+2009-01-31,Utilities,2360,3
+2009-02-28,Basic Materials,1799,2
+2009-02-28,Capital Goods,1797,3
+2009-02-28,Consumer,1891,3
+2009-02-28,Energy,1986,9
+2009-02-28,Finance,2097,9
+2009-02-28,Healthcare,2128,2
+2009-02-28,Technology,2151,2
+2009-02-28,Utilities,2138,2
+2009-03-31,Basic Materials,1669,3
+2009-03-31,Capital Goods,1853,7
+2009-03-31,Consumer,1898,5
+2009-03-31,Energy,2002,6
+2009-03-31,Finance,2089,9
+2009-03-31,Healthcare,1953,4
+2009-03-31,Technology,2112,7
+2009-03-31,Utilities,2123,4
+2009-04-30,Basic Materials,1824,3
+2009-04-30,Capital Goods,1645,6
+2009-04-30,Consumer,1888,6
+2009-04-30,Energy,1961,11
+2009-04-30,Finance,1893,10
+2009-04-30,Healthcare,2170,6
+2009-04-30,Technology,2050,3
+2009-04-30,Utilities,2089,9
+2009-05-31,Basic Materials,1755,1
+2009-05-31,Capital Goods,1890,6
+2009-05-31,Consumer,1956,4
+2009-05-31,Energy,1998,2
+2009-05-31,Finance,2047,12
+2009-05-31,Healthcare,2142,2
+2009-05-31,Technology,2161,6
+2009-05-31,Utilities,2105,8
+2009-06-30,Basic Materials,1768,6
+2009-06-30,Capital Goods,1681,11
+2009-06-30,Consumer,1877,7
+2009-06-30,Energy,2028,5
+2009-06-30,Finance,2073,17
+2009-06-30,Healthcare,2027,3
+2009-06-30,Technology,2076,5
+2009-06-30,Utilities,2111,3
+2009-07-31,Basic Materials,1626,3
+2009-07-31,Capital Goods,1901,2
+2009-07-31,Consumer,1862,1
+2009-07-31,Energy,1994,13
+2009-07-31,Finance,2052,10
+2009-07-31,Healthcare,1974,5
+2009-07-31,Technology,2150,4
+2009-07-31,Utilities,2068,7
+2009-08-31,Basic Materials,1721,1
+2009-08-31,Capital Goods,1748,11
+2009-08-31,Consumer,1810,7
+2009-08-31,Energy,1969,3
+2009-08-31,Finance,1964,12
+2009-08-31,Healthcare,2056,3
+2009-08-31,Technology,2033,3
+2009-08-31,Utilities,2114,4
+2009-09-30,Basic Materials,1825,10
+2009-09-30,Capital Goods,1853,9
+2009-09-30,Consumer,1700,7
+2009-09-30,Energy,2013,6
+2009-09-30,Finance,2111,20
+2009-09-30,Healthcare,1943,4
+2009-09-30,Technology,2125,6
+2009-09-30,Utilities,1952,7
+2009-10-31,Basic Materials,1659,5
+2009-10-31,Capital Goods,1730,7
+2009-10-31,Consumer,1887,4
+2009-10-31,Energy,1808,16
+2009-10-31,Finance,1963,7
+2009-10-31,Healthcare,1962,3
+2009-10-31,Technology,2222,7
+2009-10-31,Utilities,2089,6
+2009-11-30,Basic Materials,1746,10
+2009-11-30,Capital Goods,1736,6
+2009-11-30,Consumer,1842,6
+2009-11-30,Energy,1970,8
+2009-11-30,Finance,1900,14
+2009-11-30,Healthcare,1947,4
+2009-11-30,Technology,2112,3
+2009-11-30,Utilities,2018,3
+2009-12-31,Basic Materials,1767,7
+2009-12-31,Capital Goods,1765,5
+2009-12-31,Consumer,1818,9
+2009-12-31,Energy,1975,19
+2009-12-31,Finance,1976,4
+2009-12-31,Healthcare,2124,5
+2009-12-31,Technology,2062,6
+2009-12-31,Utilities,1968,4
+2010-01-31,Basic Materials,1739,8
+2010-01-31,Capital Goods,1847,9
+2010-01-31,Consumer,1842,2
+2010-01-31,Energy,1841,11
+2010-01-31,Finance,1976,9
+2010-01-31,Healthcare,2013,4
+2010-01-31,Technology,2055,5
+2010-01-31,Utilities,1956,2
+2010-02-28,Basic Materials,1603,4
+2010-02-28,Capital Goods,1874,11
+2010-02-28,Consumer,1872,4
+2010-02-28,Energy,1969,17
+2010-02-28,Finance,1966,14
+2010-02-28,Healthcare,1946,5
+2010-02-28,Technology,2031,12
+2010-02-28,Utilities,1996,3
+2010-03-31,Basic Materials,1925,6
+2010-03-31,Capital Goods,1777,10
+2010-03-31,Consumer,1999,2
+2010-03-31,Energy,1855,6
+2010-03-31,Finance,2083,10
+2010-03-31,Healthcare,1920,1
+2010-03-31,Technology,2093,8
+2010-03-31,Utilities,1996,3
+2010-04-30,Basic Materials,1791,5
+2010-04-30,Capital Goods,1836,5
+2010-04-30,Consumer,1751,3
+2010-04-30,Energy,1843,8
+2010-04-30,Finance,1862,14
+2010-04-30,Healthcare,2034,4
+2010-04-30,Technology,2048,6
+2010-04-30,Utilities,2005,5
+2010-05-31,Basic Materials,1618,11
+2010-05-31,Capital Goods,1638,9
+2010-05-31,Consumer,1863,6
+2010-05-31,Energy,1832,8
+2010-05-31,Finance,1841,12
+2010-05-31,Healthcare,1992,5
+2010-05-31,Technology,2038,5
+2010-05-31,Utilities,2069,4
+2010-06-30,Basic Materials,1782,5
+2010-06-30,Capital Goods,1700,7
+2010-06-30,Consumer,1713,5
+2010-06-30,Energy,1799,2
+2010-06-30,Finance,1836,5
+2010-06-30,Healthcare,2008,3
+2010-06-30,Technology,2009,3
+2010-06-30,Utilities,2049,0
+2010-07-31,Basic Materials,1659,3
+2010-07-31,Capital Goods,1817,11
+2010-07-31,Consumer,1909,4
+2010-07-31,Energy,1961,5
+2010-07-31,Finance,1975,8
+2010-07-31,Healthcare,1954,3
+2010-07-31,Technology,1897,4
+2010-07-31,Utilities,1937,0
+2010-08-31,Basic Materials,1647,6
+2010-08-31,Capital Goods,1809,5
+2010-08-31,Consumer,1818,5
+2010-08-31,Energy,1939,7
+2010-08-31,Finance,1960,15
+2010-08-31,Healthcare,1897,4
+2010-08-31,Technology,1839,0
+2010-08-31,Utilities,2006,2
+2010-09-30,Basic Materials,1849,8
+2010-09-30,Capital Goods,1774,5
+2010-09-30,Consumer,1777,4
+2010-09-30,Energy,1911,5
+2010-09-30,Finance,1914,9
+2010-09-30,Healthcare,1872,3
+2010-09-30,Technology,2000,7
+2010-09-30,Utilities,2068,5
+2010-10-31,Basic Materials,1723,7
+2010-10-31,Capital Goods,1802,6
+2010-10-31,Consumer,1802,6
+2010-10-31,Energy,1826,5
+2010-10-31,Finance,1875,9
+2010-10-31,Healthcare,1967,5
+2010-10-31,Technology,1925,6
+2010-10-31,Utilities,2134,3
+2010-11-30,Basic Materials,1627,5
+2010-11-30,Capital Goods,1761,11
+2010-11-30,Consumer,1816,7
+2010-11-30,Energy,1851,7
+2010-11-30,Finance,1895,18
+2010-11-30,Healthcare,1913,5
+2010-11-30,Technology,1906,5
+2010-11-30,Utilities,1988,2
+2010-12-31,Basic Materials,1733,8
+2010-12-31,Capital Goods,1773,2
+2010-12-31,Consumer,1686,6
+2010-12-31,Energy,1778,2
+2010-12-31,Finance,1959,14
+2010-12-31,Healthcare,1926,10
+2010-12-31,Technology,1952,2
+2010-12-31,Utilities,2048,3
+2011-01-31,Basic Materials,1666,7
+2011-01-31,Capital Goods,1655,7
+2011-01-31,Consumer,1771,8
+2011-01-31,Energy,1779,5
+2011-01-31,Finance,1938,9
+2011-01-31,Healthcare,1983,4
+2011-01-31,Technology,1928,10
+2011-01-31,Utilities,2003,5
+2011-02-28,Basic Materials,1680,5
+2011-02-28,Capital Goods,1796,6
+2011-02-28,Consumer,1765,12
+2011-02-28,Energy,1749,14
+2011-02-28,Finance,1861,12
+2011-02-28,Healthcare,1871,1
+2011-02-28,Technology,1731,6
+2011-02-28,Utilities,1827,4
+2011-03-31,Basic Materials,1770,16
+2011-03-31,Capital Goods,1747,7
+2011-03-31,Consumer,1676,10
+2011-03-31,Energy,1793,3
+2011-03-31,Finance,1861,10
+2011-03-31,Healthcare,1935,6
+2011-03-31,Technology,1971,4
+2011-03-31,Utilities,2006,5
+2011-04-30,Basic Materials,1714,6
+2011-04-30,Capital Goods,1697,2
+2011-04-30,Consumer,1700,2
+2011-04-30,Energy,1764,5
+2011-04-30,Finance,1813,11
+2011-04-30,Healthcare,1752,3
+2011-04-30,Technology,1898,6
+2011-04-30,Utilities,2011,5
+2011-05-31,Basic Materials,1526,2
+2011-05-31,Capital Goods,1744,13
+2011-05-31,Consumer,1631,5
+2011-05-31,Energy,1729,7
+2011-05-31,Finance,1850,10
+2011-05-31,Healthcare,1636,2
+2011-05-31,Technology,1947,4
+2011-05-31,Utilities,1966,3
+2011-06-30,Basic Materials,1675,5
+2011-06-30,Capital Goods,1784,5
+2011-06-30,Consumer,1663,1
+2011-06-30,Energy,1801,7
+2011-06-30,Finance,1825,9
+2011-06-30,Healthcare,1895,4
+2011-06-30,Technology,1970,9
+2011-06-30,Utilities,2009,6
+2011-07-31,Basic Materials,1504,2
+2011-07-31,Capital Goods,1643,4
+2011-07-31,Consumer,1741,3
+2011-07-31,Energy,1810,7
+2011-07-31,Finance,1814,9
+2011-07-31,Healthcare,1778,0
+2011-07-31,Technology,1949,1
+2011-07-31,Utilities,1952,7
+2011-08-31,Basic Materials,1718,3
+2011-08-31,Capital Goods,1770,4
+2011-08-31,Consumer,1719,3
+2011-08-31,Energy,1691,5
+2011-08-31,Finance,1765,9
+2011-08-31,Healthcare,1912,2
+2011-08-31,Technology,1906,6
+2011-08-31,Utilities,1893,3
+2011-09-30,Basic Materials,1581,4
+2011-09-30,Capital Goods,1604,2
+2011-09-30,Consumer,1662,2
+2011-09-30,Energy,1757,4
+2011-09-30,Finance,1866,6
+2011-09-30,Healthcare,1742,2
+2011-09-30,Technology,2033,3
+2011-09-30,Utilities,2028,6
+2011-10-31,Basic Materials,1571,1
+2011-10-31,Capital Goods,1618,5
+2011-10-31,Consumer,1669,4
+2011-10-31,Energy,1576,4
+2011-10-31,Finance,1840,2
+2011-10-31,Healthcare,1756,4
+2011-10-31,Technology,1957,3
+2011-10-31,Utilities,2160,1
+2011-11-30,Basic Materials,1558,8
+2011-11-30,Capital Goods,1761,11
+2011-11-30,Consumer,1694,1
+2011-11-30,Energy,1699,6
+2011-11-30,Finance,1746,8
+2011-11-30,Healthcare,1849,4
+2011-11-30,Technology,1814,1
+2011-11-30,Utilities,2025,2
+2011-12-31,Basic Materials,1623,11
+2011-12-31,Capital Goods,1691,3
+2011-12-31,Consumer,1717,4
+2011-12-31,Energy,1944,9
+2011-12-31,Finance,1691,7
+2011-12-31,Healthcare,1823,3
+2011-12-31,Technology,1913,0
+2011-12-31,Utilities,2042,2
+2012-01-31,Basic Materials,1549,2
+2012-01-31,Capital Goods,1627,2
+2012-01-31,Consumer,1681,4
+2012-01-31,Energy,1718,7
+2012-01-31,Finance,1675,6
+2012-01-31,Healthcare,1940,5
+2012-01-31,Technology,1953,3
+2012-01-31,Utilities,2083,6
+2012-02-29,Basic Materials,1552,9
+2012-02-29,Capital Goods,1587,6
+2012-02-29,Consumer,1740,10
+2012-02-29,Energy,1742,8
+2012-02-29,Finance,1716,2
+2012-02-29,Healthcare,1819,2
+2012-02-29,Technology,1944,6
+2012-02-29,Utilities,2083,0
+2012-03-31,Basic Materials,1491,3
+2012-03-31,Capital Goods,1651,8
+2012-03-31,Consumer,1652,6
+2012-03-31,Energy,1641,9
+2012-03-31,Finance,1779,12
+2012-03-31,Healthcare,1705,5
+2012-03-31,Technology,1917,3
+2012-03-31,Utilities,1976,6
+2012-04-30,Basic Materials,1612,8
+2012-04-30,Capital Goods,1708,9
+2012-04-30,Consumer,1680,6
+2012-04-30,Energy,1739,8
+2012-04-30,Finance,1840,2
+2012-04-30,Healthcare,1832,2
+2012-04-30,Technology,1997,11
+2012-04-30,Utilities,2017,7
+2012-05-31,Basic Materials,1552,4
+2012-05-31,Capital Goods,1637,6
+2012-05-31,Consumer,1563,2
+2012-05-31,Energy,1734,5
+2012-05-31,Finance,1724,3
+2012-05-31,Healthcare,1776,4
+2012-05-31,Technology,1998,4
+2012-05-31,Utilities,2148,4
+2012-06-30,Basic Materials,1537,4
+2012-06-30,Capital Goods,1627,9
+2012-06-30,Consumer,1610,6
+2012-06-30,Energy,1768,7
+2012-06-30,Finance,1771,4
+2012-06-30,Healthcare,1845,6
+2012-06-30,Technology,1958,7
+2012-06-30,Utilities,2093,5
+2012-07-31,Basic Materials,1616,12
+2012-07-31,Capital Goods,1624,6
+2012-07-31,Consumer,1665,8
+2012-07-31,Energy,1778,12
+2012-07-31,Finance,1833,22
+2012-07-31,Healthcare,1796,5
+2012-07-31,Technology,2016,4
+2012-07-31,Utilities,2062,2
+2012-08-31,Basic Materials,1380,5
+2012-08-31,Capital Goods,1604,5
+2012-08-31,Consumer,1633,2
+2012-08-31,Energy,1595,11
+2012-08-31,Finance,1691,12
+2012-08-31,Healthcare,1860,5
+2012-08-31,Technology,1962,6
+2012-08-31,Utilities,2078,4
+2012-09-30,Basic Materials,1618,3
+2012-09-30,Capital Goods,1589,7
+2012-09-30,Consumer,1699,3
+2012-09-30,Energy,1792,11
+2012-09-30,Finance,1792,13
+2012-09-30,Healthcare,1896,5
+2012-09-30,Technology,1984,4
+2012-09-30,Utilities,2105,7
+2012-10-31,Basic Materials,1585,4
+2012-10-31,Capital Goods,1523,3
+2012-10-31,Consumer,1788,3
+2012-10-31,Energy,1651,9
+2012-10-31,Finance,1808,3
+2012-10-31,Healthcare,1793,3
+2012-10-31,Technology,2111,5
+2012-10-31,Utilities,2218,6
+2012-11-30,Basic Materials,1558,8
+2012-11-30,Capital Goods,1600,11
+2012-11-30,Consumer,1565,2
+2012-11-30,Energy,1612,5
+2012-11-30,Finance,1638,9
+2012-11-30,Healthcare,1917,3
+2012-11-30,Technology,2014,15
+2012-11-30,Utilities,2177,6
+2012-12-31,Basic Materials,1556,3
+2012-12-31,Capital Goods,1550,7
+2012-12-31,Consumer,1531,4
+2012-12-31,Energy,1704,4
+2012-12-31,Finance,1761,13
+2012-12-31,Healthcare,1858,5
+2012-12-31,Technology,1943,2
+2012-12-31,Utilities,2113,5
+2013-01-31,Basic Materials,1502,12
+2013-01-31,Capital Goods,1576,8
+2013-01-31,Consumer,1584,4
+2013-01-31,Energy,1804,17
+2013-01-31,Finance,1715,19
+2013-01-31,Healthcare,1963,5
+2013-01-31,Technology,2023,13
+2013-01-31,Utilities,2024,6
+2013-02-28,Basic Materials,1507,6
+2013-02-28,Capital Goods,1538,4
+2013-02-28,Consumer,1784,2
+2013-02-28,Energy,1821,19
+2013-02-28,Finance,1922,23
+2013-02-28,Healthcare,1876,14
+2013-02-28,Technology,2023,3
+2013-02-28,Utilities,2229,6
+2013-03-31,Basic Materials,1405,3
+2013-03-31,Capital Goods,1557,3
+2013-03-31,Consumer,1647,1
+2013-03-31,Energy,1645,6
+2013-03-31,Finance,1772,13
+2013-03-31,Healthcare,2009,4
+2013-03-31,Technology,2102,6
+2013-03-31,Utilities,2207,6
+2013-04-30,Basic Materials,1592,10
+2013-04-30,Capital Goods,1529,18
+2013-04-30,Consumer,1588,3
+2013-04-30,Energy,1808,25
+2013-04-30,Finance,1857,10
+2013-04-30,Healthcare,1847,5
+2013-04-30,Technology,2017,8
+2013-04-30,Utilities,2138,4
+2013-05-31,Basic Materials,1521,11
+2013-05-31,Capital Goods,1584,6
+2013-05-31,Consumer,1739,7
+2013-05-31,Energy,1754,11
+2013-05-31,Finance,1681,6
+2013-05-31,Healthcare,1885,7
+2013-05-31,Technology,2124,7
+2013-05-31,Utilities,2274,6
+2013-06-30,Basic Materials,1457,5
+2013-06-30,Capital Goods,1638,5
+2013-06-30,Consumer,1658,4
+2013-06-30,Energy,1705,14
+2013-06-30,Finance,1797,10
+2013-06-30,Healthcare,1928,4
+2013-06-30,Technology,1977,2
+2013-06-30,Utilities,2248,5
+2013-07-31,Basic Materials,1482,10
+2013-07-31,Capital Goods,1533,8
+2013-07-31,Consumer,1635,7
+2013-07-31,Energy,1714,15
+2013-07-31,Finance,1929,11
+2013-07-31,Healthcare,2022,10
+2013-07-31,Technology,2069,3
+2013-07-31,Utilities,2316,5
+2013-08-31,Basic Materials,1589,5
+2013-08-31,Capital Goods,1516,5
+2013-08-31,Consumer,1666,4
+2013-08-31,Energy,1796,11
+2013-08-31,Finance,1965,20
+2013-08-31,Healthcare,1844,2
+2013-08-31,Technology,2077,2
+2013-08-31,Utilities,2078,8
+2013-09-30,Basic Materials,1616,2
+2013-09-30,Capital Goods,1533,6
+2013-09-30,Consumer,1598,2
+2013-09-30,Energy,1770,10
+2013-09-30,Finance,1898,17
+2013-09-30,Healthcare,1985,5
+2013-09-30,Technology,2105,7
+2013-09-30,Utilities,2297,3
+2013-10-31,Basic Materials,1412,5
+2013-10-31,Capital Goods,1548,9
+2013-10-31,Consumer,1688,10
+2013-10-31,Energy,1702,6
+2013-10-31,Finance,1894,18
+2013-10-31,Healthcare,1978,10
+2013-10-31,Technology,2165,10
+2013-10-31,Utilities,2250,9
+2013-11-30,Basic Materials,1487,4
+2013-11-30,Capital Goods,1635,8
+2013-11-30,Consumer,1569,1
+2013-11-30,Energy,1910,5
+2013-11-30,Finance,1755,19
+2013-11-30,Healthcare,2018,9
+2013-11-30,Technology,2127,3
+2013-11-30,Utilities,2255,1
+2013-12-31,Basic Materials,1388,6
+2013-12-31,Capital Goods,1487,7
+2013-12-31,Consumer,1618,8
+2013-12-31,Energy,1873,20
+2013-12-31,Finance,1898,9
+2013-12-31,Healthcare,1982,2
+2013-12-31,Technology,2153,5
+2013-12-31,Utilities,2194,4
+2014-01-31,Basic Materials,1466,3
+2014-01-31,Capital Goods,1605,14
+2014-01-31,Consumer,1674,2
+2014-01-31,Energy,1701,5
+2014-01-31,Finance,1928,15
+2014-01-31,Healthcare,2010,6
+2014-01-31,Technology,2161,4
+2014-01-31,Utilities,2236,5
+2014-02-28,Basic Materials,1493,5
+2014-02-28,Capital Goods,1636,4
+2014-02-28,Consumer,1714,5
+2014-02-28,Energy,1786,9
+2014-02-28,Finance,1846,10
+2014-02-28,Healthcare,2033,1
+2014-02-28,Technology,2032,7
+2014-02-28,Utilities,2403,4
+2014-03-31,Basic Materials,1428,4
+2014-03-31,Capital Goods,1583,5
+2014-03-31,Consumer,1779,10
+2014-03-31,Energy,1728,12
+2014-03-31,Finance,2016,26
+2014-03-31,Healthcare,2030,4
+2014-03-31,Technology,2094,6
+2014-03-31,Utilities,2363,6
+2014-04-30,Basic Materials,1520,3
+2014-04-30,Capital Goods,1549,6
+2014-04-30,Consumer,1617,1
+2014-04-30,Energy,1868,33
+2014-04-30,Finance,1812,5
+2014-04-30,Healthcare,2024,12
+2014-04-30,Technology,2328,3
+2014-04-30,Utilities,2236,4
+2014-05-31,Basic Materials,1439,6
+2014-05-31,Capital Goods,1588,9
+2014-05-31,Consumer,1615,6
+2014-05-31,Energy,1784,12
+2014-05-31,Finance,1890,11
+2014-05-31,Healthcare,1987,5
+2014-05-31,Technology,2267,4
+2014-05-31,Utilities,2356,5
+2014-06-30,Basic Materials,1570,6
+2014-06-30,Capital Goods,1715,16
+2014-06-30,Consumer,1663,6
+2014-06-30,Energy,1914,15
+2014-06-30,Finance,1994,15
+2014-06-30,Healthcare,2088,2
+2014-06-30,Technology,2105,2
+2014-06-30,Utilities,2254,4
+2014-07-31,Basic Materials,1514,3
+2014-07-31,Capital Goods,1407,11
+2014-07-31,Consumer,1519,8
+2014-07-31,Energy,1885,10
+2014-07-31,Finance,1887,20
+2014-07-31,Healthcare,2098,4
+2014-07-31,Technology,2110,1
+2014-07-31,Utilities,2293,4
+2014-08-31,Basic Materials,1532,7
+2014-08-31,Capital Goods,1717,5
+2014-08-31,Consumer,1619,3
+2014-08-31,Energy,1815,10
+2014-08-31,Finance,1921,10
+2014-08-31,Healthcare,2183,1
+2014-08-31,Technology,2158,4
+2014-08-31,Utilities,2298,5
+2014-09-30,Basic Materials,1393,4
+2014-09-30,Capital Goods,1656,15
+2014-09-30,Consumer,1736,5
+2014-09-30,Energy,1781,13
+2014-09-30,Finance,2074,15
+2014-09-30,Healthcare,2154,6
+2014-09-30,Technology,2160,5
+2014-09-30,Utilities,2447,3
+2014-10-31,Basic Materials,1550,9
+2014-10-31,Capital Goods,1591,7
+2014-10-31,Consumer,1896,4
+2014-10-31,Energy,1868,17
+2014-10-31,Finance,1982,25
+2014-10-31,Healthcare,2146,2
+2014-10-31,Technology,2209,10
+2014-10-31,Utilities,2348,3
+2014-11-30,Basic Materials,1425,4
+2014-11-30,Capital Goods,1650,14
+2014-11-30,Consumer,1721,7
+2014-11-30,Energy,1812,12
+2014-11-30,Finance,1930,13
+2014-11-30,Healthcare,2049,3
+2014-11-30,Technology,2134,4
+2014-11-30,Utilities,2400,4
+2014-12-31,Basic Materials,1591,10
+2014-12-31,Capital Goods,1707,10
+2014-12-31,Consumer,1837,9
+2014-12-31,Energy,1929,14
+2014-12-31,Finance,2019,19
+2014-12-31,Healthcare,2098,9
+2014-12-31,Technology,2203,6
+2014-12-31,Utilities,2270,7
+2015-01-31,Basic Materials,1505,8
+2015-01-31,Capital Goods,1679,4
+2015-01-31,Consumer,1701,7
+2015-01-31,Energy,1924,12
+2015-01-31,Finance,2027,14
+2015-01-31,Healthcare,1986,11
+2015-01-31,Technology,2220,11
+2015-01-31,Utilities,2226,4
+2015-02-28,Basic Materials,1522,5
+2015-02-28,Capital Goods,1559,12
+2015-02-28,Consumer,1725,10
+2015-02-28,Energy,1868,11
+2015-02-28,Finance,1925,13
+2015-02-28,Healthcare,2134,5
+2015-02-28,Technology,2240,4
+2015-02-28,Utilities,2374,15
+2015-03-31,Basic Materials,1517,5
+2015-03-31,Capital Goods,1537,9
+2015-03-31,Consumer,1924,0
+2015-03-31,Energy,1930,13
+2015-03-31,Finance,2047,12
+2015-03-31,Healthcare,2073,5
+2015-03-31,Technology,2342,12
+2015-03-31,Utilities,2263,10
+2015-04-30,Basic Materials,1582,5
+2015-04-30,Capital Goods,1727,13
+2015-04-30,Consumer,1783,6
+2015-04-30,Energy,1994,15
+2015-04-30,Finance,1979,12
+2015-04-30,Healthcare,2278,19
+2015-04-30,Technology,2292,16
+2015-04-30,Utilities,2299,9
+2015-05-31,Basic Materials,1573,4
+2015-05-31,Capital Goods,1613,10
+2015-05-31,Consumer,1662,3
+2015-05-31,Energy,1890,10
+2015-05-31,Finance,2062,12
+2015-05-31,Healthcare,2173,3
+2015-05-31,Technology,2236,9
+2015-05-31,Utilities,2319,8
+2015-06-30,Basic Materials,1535,3
+2015-06-30,Capital Goods,1670,5
+2015-06-30,Consumer,1802,15
+2015-06-30,Energy,1828,9
+2015-06-30,Finance,2075,17
+2015-06-30,Healthcare,2201,5
+2015-06-30,Technology,2230,12
+2015-06-30,Utilities,2291,4
+2015-07-31,Basic Materials,1504,2
+2015-07-31,Capital Goods,1794,7
+2015-07-31,Consumer,1870,7
+2015-07-31,Energy,1949,10
+2015-07-31,Finance,2141,14
+2015-07-31,Healthcare,2146,9
+2015-07-31,Technology,2202,6
+2015-07-31,Utilities,2239,5
+2015-08-31,Basic Materials,1621,1
+2015-08-31,Capital Goods,1633,3
+2015-08-31,Consumer,1794,6
+2015-08-31,Energy,1961,5
+2015-08-31,Finance,2036,7
+2015-08-31,Healthcare,2254,6
+2015-08-31,Technology,2226,13
+2015-08-31,Utilities,2210,5
+2015-09-30,Basic Materials,1659,7
+2015-09-30,Capital Goods,1689,7
+2015-09-30,Consumer,1889,5
+2015-09-30,Energy,1893,7
+2015-09-30,Finance,2027,10
+2015-09-30,Healthcare,2111,3
+2015-09-30,Technology,2104,8
+2015-09-30,Utilities,2393,8
+2015-10-31,Basic Materials,1794,9
+2015-10-31,Capital Goods,1842,7
+2015-10-31,Consumer,1779,5
+2015-10-31,Energy,1767,21
+2015-10-31,Finance,1968,24
+2015-10-31,Healthcare,2069,6
+2015-10-31,Technology,2242,8
+2015-10-31,Utilities,2309,5
+2015-11-30,Basic Materials,1599,7
+2015-11-30,Capital Goods,1568,5
+2015-11-30,Consumer,1902,9
+2015-11-30,Energy,1976,7
+2015-11-30,Finance,2058,14
+2015-11-30,Healthcare,2037,6
+2015-11-30,Technology,2256,14
+2015-11-30,Utilities,2248,6
+2015-12-31,Basic Materials,1609,8
+2015-12-31,Capital Goods,1654,10
+2015-12-31,Consumer,1711,10
+2015-12-31,Energy,1970,14
+2015-12-31,Finance,1859,17
+2015-12-31,Healthcare,2256,3
+2015-12-31,Technology,2402,9
+2015-12-31,Utilities,2276,5
+2016-01-31,Basic Materials,1541,10
+2016-01-31,Capital Goods,1705,12
+2016-01-31,Consumer,1822,3
+2016-01-31,Energy,2004,9
+2016-01-31,Finance,2041,19
+2016-01-31,Healthcare,2235,9
+2016-01-31,Technology,2286,14
+2016-01-31,Utilities,2278,5
+2016-02-29,Basic Materials,1671,4
+2016-02-29,Capital Goods,1711,6
+2016-02-29,Consumer,1886,7
+2016-02-29,Energy,1854,5
+2016-02-29,Finance,2044,20
+2016-02-29,Healthcare,2213,5
+2016-02-29,Technology,2147,14
+2016-02-29,Utilities,2333,3
+2016-03-31,Basic Materials,1568,7
+2016-03-31,Capital Goods,1753,8
+2016-03-31,Consumer,1678,5
+2016-03-31,Energy,1889,15
+2016-03-31,Finance,1918,16
+2016-03-31,Healthcare,2147,10
+2016-03-31,Technology,2172,11
+2016-03-31,Utilities,2299,3
+2016-04-30,Basic Materials,1698,8
+2016-04-30,Capital Goods,1763,6
+2016-04-30,Consumer,1912,6
+2016-04-30,Energy,1894,15
+2016-04-30,Finance,2177,15
+2016-04-30,Healthcare,2182,3
+2016-04-30,Technology,2165,4
+2016-04-30,Utilities,2438,4
+2016-05-31,Basic Materials,1532,2
+2016-05-31,Capital Goods,1783,10
+2016-05-31,Consumer,1889,5
+2016-05-31,Energy,2112,4
+2016-05-31,Finance,2092,7
+2016-05-31,Healthcare,2077,9
+2016-05-31,Technology,2220,2
+2016-05-31,Utilities,2087,4
+2016-06-30,Basic Materials,1696,4
+2016-06-30,Capital Goods,1827,3
+2016-06-30,Consumer,1862,2
+2016-06-30,Energy,1929,3
+2016-06-30,Finance,2154,5
+2016-06-30,Healthcare,2065,5
+2016-06-30,Technology,2271,4
+2016-06-30,Utilities,2316,11
+2016-07-31,Basic Materials,1734,3
+2016-07-31,Capital Goods,1847,3
+2016-07-31,Consumer,1768,4
+2016-07-31,Energy,1987,1
+2016-07-31,Finance,2157,5
+2016-07-31,Healthcare,2114,5
+2016-07-31,Technology,2194,2
+2016-07-31,Utilities,2038,4
+2016-08-31,Basic Materials,1749,3
+2016-08-31,Capital Goods,1663,7
+2016-08-31,Consumer,1962,3
+2016-08-31,Energy,1989,7
+2016-08-31,Finance,2009,13
+2016-08-31,Healthcare,2204,2
+2016-08-31,Technology,2242,5
+2016-08-31,Utilities,2104,2
+2016-09-30,Basic Materials,1530,3
+2016-09-30,Capital Goods,1697,2
+2016-09-30,Consumer,2007,0
+2016-09-30,Energy,1908,6
+2016-09-30,Finance,2110,9
+2016-09-30,Healthcare,2008,6
+2016-09-30,Technology,2148,4
+2016-09-30,Utilities,2237,3
+2016-10-31,Basic Materials,1629,5
+2016-10-31,Capital Goods,1792,7
+2016-10-31,Consumer,1943,3
+2016-10-31,Energy,1999,5
+2016-10-31,Finance,2031,4
+2016-10-31,Healthcare,2140,8
+2016-10-31,Technology,2095,4
+2016-10-31,Utilities,2161,4
+2016-11-30,Basic Materials,1646,2
+2016-11-30,Capital Goods,1602,1
+2016-11-30,Consumer,1766,6
+2016-11-30,Energy,2025,1
+2016-11-30,Finance,2031,4
+2016-11-30,Healthcare,2068,3
+2016-11-30,Technology,2196,9
+2016-11-30,Utilities,2273,5
+2016-12-31,Basic Materials,1601,2
+2016-12-31,Capital Goods,1810,0
+2016-12-31,Consumer,2007,10
+2016-12-31,Energy,1998,3
+2016-12-31,Finance,2123,6
+2016-12-31,Healthcare,2150,2
+2016-12-31,Technology,2113,1
+2016-12-31,Utilities,2276,1
+2017-01-31,Basic Materials,1835,6
+2017-01-31,Capital Goods,1768,2
+2017-01-31,Consumer,2001,6
+2017-01-31,Energy,1889,3
+2017-01-31,Finance,2081,6
+2017-01-31,Healthcare,2125,3
+2017-01-31,Technology,2250,3
+2017-01-31,Utilities,2154,3
+2017-02-28,Basic Materials,1699,3
+2017-02-28,Capital Goods,1895,0
+2017-02-28,Consumer,2104,4
+2017-02-28,Energy,2117,2
+2017-02-28,Finance,2047,10
+2017-02-28,Healthcare,2097,5
+2017-02-28,Technology,2060,3
+2017-02-28,Utilities,2192,10
+2017-03-31,Basic Materials,1727,5
+2017-03-31,Capital Goods,1722,4
+2017-03-31,Consumer,1854,4
+2017-03-31,Energy,2035,5
+2017-03-31,Finance,1925,4
+2017-03-31,Healthcare,2117,7
+2017-03-31,Technology,2155,9
+2017-03-31,Utilities,2190,4
+2017-04-30,Basic Materials,1832,6
+2017-04-30,Capital Goods,1904,6
+2017-04-30,Consumer,1872,2
+2017-04-30,Energy,2030,2
+2017-04-30,Finance,2099,5
+2017-04-30,Healthcare,2128,4
+2017-04-30,Technology,2132,5
+2017-04-30,Utilities,2058,4
+2017-05-31,Basic Materials,1709,9
+2017-05-31,Capital Goods,1859,7
+2017-05-31,Consumer,1794,2
+2017-05-31,Energy,2065,11
+2017-05-31,Finance,2013,8
+2017-05-31,Healthcare,1954,3
+2017-05-31,Technology,2237,10
+2017-05-31,Utilities,2281,6
+2017-06-30,Basic Materials,1680,6
+2017-06-30,Capital Goods,1802,3
+2017-06-30,Consumer,2027,3
+2017-06-30,Energy,2034,9
+2017-06-30,Finance,1961,12
+2017-06-30,Healthcare,2094,2
+2017-06-30,Technology,2132,5
+2017-06-30,Utilities,2033,6
+2017-07-31,Basic Materials,1735,6
+2017-07-31,Capital Goods,1883,8
+2017-07-31,Consumer,1883,2
+2017-07-31,Energy,1968,9
+2017-07-31,Finance,2118,6
+2017-07-31,Healthcare,1997,2
+2017-07-31,Technology,2061,1
+2017-07-31,Utilities,2105,3
+2017-08-31,Basic Materials,1779,5
+2017-08-31,Capital Goods,1859,4
+2017-08-31,Consumer,1838,2
+2017-08-31,Energy,1885,5
+2017-08-31,Finance,2035,11
+2017-08-31,Healthcare,1967,2
+2017-08-31,Technology,2067,6
+2017-08-31,Utilities,2075,2
+2017-09-30,Basic Materials,1652,2
+2017-09-30,Capital Goods,1748,4
+2017-09-30,Consumer,1777,1
+2017-09-30,Energy,1980,6
+2017-09-30,Finance,1859,8
+2017-09-30,Healthcare,2055,5
+2017-09-30,Technology,2056,6
+2017-09-30,Utilities,1991,5
+2017-10-31,Basic Materials,1653,4
+2017-10-31,Capital Goods,1833,4
+2017-10-31,Consumer,2007,5
+2017-10-31,Energy,1959,11
+2017-10-31,Finance,1920,7
+2017-10-31,Healthcare,1930,6
+2017-10-31,Technology,2044,11
+2017-10-31,Utilities,2136,6
+2017-11-30,Basic Materials,1810,3
+2017-11-30,Capital Goods,1657,10
+2017-11-30,Consumer,1753,2
+2017-11-30,Energy,1945,3
+2017-11-30,Finance,2005,12
+2017-11-30,Healthcare,1966,5
+2017-11-30,Technology,1875,3
+2017-11-30,Utilities,2067,4
+2017-12-31,Basic Materials,1709,4
+2017-12-31,Capital Goods,1849,4
+2017-12-31,Consumer,1903,7
+2017-12-31,Energy,1825,8
+2017-12-31,Finance,1942,5
+2017-12-31,Healthcare,1839,4
+2017-12-31,Technology,2093,3
+2017-12-31,Utilities,2058,5
+2018-01-31,Basic Materials,1800,10
+2018-01-31,Capital Goods,1805,6
+2018-01-31,Consumer,1968,1
+2018-01-31,Energy,2014,9
+2018-01-31,Finance,1935,8
+2018-01-31,Healthcare,2034,2
+2018-01-31,Technology,2057,2
+2018-01-31,Utilities,2041,6
+2018-02-28,Basic Materials,1472,7
+2018-02-28,Capital Goods,1830,8
+2018-02-28,Consumer,1830,4
+2018-02-28,Energy,1930,7
+2018-02-28,Finance,1999,10
+2018-02-28,Healthcare,2038,4
+2018-02-28,Technology,1943,11
+2018-02-28,Utilities,1930,4
+2018-03-31,Basic Materials,1634,4
+2018-03-31,Capital Goods,1811,12
+2018-03-31,Consumer,1780,0
+2018-03-31,Energy,1890,6
+2018-03-31,Finance,1959,3
+2018-03-31,Healthcare,1937,4
+2018-03-31,Technology,1964,6
+2018-03-31,Utilities,2021,3
+2018-04-30,Basic Materials,1831,6
+2018-04-30,Capital Goods,1837,4
+2018-04-30,Consumer,1911,5
+2018-04-30,Energy,1841,5
+2018-04-30,Finance,1867,4
+2018-04-30,Healthcare,1945,4
+2018-04-30,Technology,2107,3
+2018-04-30,Utilities,2005,4
+2018-05-31,Basic Materials,1807,2
+2018-05-31,Capital Goods,1872,6
+2018-05-31,Consumer,1895,1
+2018-05-31,Energy,2037,1
+2018-05-31,Finance,1757,2
+2018-05-31,Healthcare,1866,2
+2018-05-31,Technology,1992,2
+2018-05-31,Utilities,1903,2
+2018-06-30,Basic Materials,1710,4
+2018-06-30,Capital Goods,1903,6
+2018-06-30,Consumer,1904,6
+2018-06-30,Energy,1773,2
+2018-06-30,Finance,1895,5
+2018-06-30,Healthcare,1845,2
+2018-06-30,Technology,2049,2
+2018-06-30,Utilities,2077,6
+2018-07-31,Basic Materials,1700,3
+2018-07-31,Capital Goods,1739,4
+2018-07-31,Consumer,1765,2
+2018-07-31,Energy,1879,4
+2018-07-31,Finance,1854,4
+2018-07-31,Healthcare,1880,2
+2018-07-31,Technology,1992,6
+2018-07-31,Utilities,1970,4
+2018-08-31,Basic Materials,1711,1
+2018-08-31,Capital Goods,1657,1
+2018-08-31,Consumer,1830,2
+2018-08-31,Energy,1766,5
+2018-08-31,Finance,1878,1
+2018-08-31,Healthcare,2025,0
+2018-08-31,Technology,1955,1
+2018-08-31,Utilities,2081,1
+2018-09-30,Basic Materials,1618,1
+2018-09-30,Capital Goods,1788,2
+2018-09-30,Consumer,1793,3
+2018-09-30,Energy,1758,5
+2018-09-30,Finance,1849,3
+2018-09-30,Healthcare,1797,2
+2018-09-30,Technology,1847,2
+2018-09-30,Utilities,1919,2
+2018-10-31,Basic Materials,1665,6
+2018-10-31,Capital Goods,1670,2
+2018-10-31,Consumer,1873,8
+2018-10-31,Energy,1846,3
+2018-10-31,Finance,1988,1
+2018-10-31,Healthcare,1944,3
+2018-10-31,Technology,1911,0
+2018-10-31,Utilities,2030,4
+2018-11-30,Basic Materials,1686,9
+2018-11-30,Capital Goods,1831,4
+2018-11-30,Consumer,1696,4
+2018-11-30,Energy,1819,2
+2018-11-30,Finance,1947,4
+2018-11-30,Healthcare,1922,4
+2018-11-30,Technology,2030,6
+2018-11-30,Utilities,1997,5
+2018-12-31,Basic Materials,1656,4
+2018-12-31,Capital Goods,1722,9
+2018-12-31,Consumer,1817,2
+2018-12-31,Energy,1842,6
+2018-12-31,Finance,1961,5
+2018-12-31,Healthcare,1882,2
+2018-12-31,Technology,1884,4
+2018-12-31,Utilities,2001,6
+2019-01-31,Basic Materials,1601,3
+2019-01-31,Capital Goods,1803,6
+2019-01-31,Consumer,1889,4
+2019-01-31,Energy,1700,5
+2019-01-31,Finance,2048,10
+2019-01-31,Healthcare,1919,6
+2019-01-31,Technology,1922,4
+2019-01-31,Utilities,2075,3
+2019-02-28,Basic Materials,1744,4
+2019-02-28,Capital Goods,1754,7
+2019-02-28,Consumer,1892,7
+2019-02-28,Energy,1844,2
+2019-02-28,Finance,1818,3
+2019-02-28,Healthcare,1903,3
+2019-02-28,Technology,1857,6
+2019-02-28,Utilities,2074,3
+2019-03-31,Basic Materials,1594,3
+2019-03-31,Capital Goods,1781,7
+2019-03-31,Consumer,1858,8
+2019-03-31,Energy,1801,3
+2019-03-31,Finance,1827,8
+2019-03-31,Healthcare,1857,4
+2019-03-31,Technology,1868,10
+2019-03-31,Utilities,1946,4
+2019-04-30,Basic Materials,1669,2
+2019-04-30,Capital Goods,1945,5
+2019-04-30,Consumer,1748,7
+2019-04-30,Energy,1889,8
+2019-04-30,Finance,1915,5
+2019-04-30,Healthcare,1885,4
+2019-04-30,Technology,1914,13
+2019-04-30,Utilities,1959,4
+2019-05-31,Basic Materials,1615,5
+2019-05-31,Capital Goods,1675,10
+2019-05-31,Consumer,1702,3
+2019-05-31,Energy,1818,19
+2019-05-31,Finance,1881,8
+2019-05-31,Healthcare,1872,3
+2019-05-31,Technology,1850,2
+2019-05-31,Utilities,1935,1
+2019-06-30,Basic Materials,1612,13
+2019-06-30,Capital Goods,1830,14
+2019-06-30,Consumer,1751,4
+2019-06-30,Energy,1742,21
+2019-06-30,Finance,1735,19
+2019-06-30,Healthcare,1837,1
+2019-06-30,Technology,1994,11
+2019-06-30,Utilities,1948,7
+2019-07-31,Basic Materials,1623,6
+2019-07-31,Capital Goods,1619,10
+2019-07-31,Consumer,1639,2
+2019-07-31,Energy,1900,1
+2019-07-31,Finance,1733,5
+2019-07-31,Healthcare,1786,5
+2019-07-31,Technology,1883,8
+2019-07-31,Utilities,2007,2
+2019-08-31,Basic Materials,1658,8
+2019-08-31,Capital Goods,1805,10
+2019-08-31,Consumer,1596,5
+2019-08-31,Energy,1749,11
+2019-08-31,Finance,1921,5
+2019-08-31,Healthcare,1794,5
+2019-08-31,Technology,1951,7
+2019-08-31,Utilities,1970,3
+2019-09-30,Basic Materials,1656,9
+2019-09-30,Capital Goods,1671,8
+2019-09-30,Consumer,1722,8
+2019-09-30,Energy,1725,5
+2019-09-30,Finance,1856,18
+2019-09-30,Healthcare,1808,2
+2019-09-30,Technology,1923,7
+2019-09-30,Utilities,2141,3
+2019-10-31,Basic Materials,1591,4
+2019-10-31,Capital Goods,1653,11
+2019-10-31,Consumer,1667,6
+2019-10-31,Energy,1763,9
+2019-10-31,Finance,1744,5
+2019-10-31,Healthcare,1852,4
+2019-10-31,Technology,2033,5
+2019-10-31,Utilities,1976,2
+2019-11-30,Basic Materials,1669,3
+2019-11-30,Capital Goods,1513,8
+2019-11-30,Consumer,1770,0
+2019-11-30,Energy,1681,6
+2019-11-30,Finance,1786,2
+2019-11-30,Healthcare,1787,2
+2019-11-30,Technology,1872,6
+2019-11-30,Utilities,2059,4
+2019-12-31,Basic Materials,1536,5
+2019-12-31,Capital Goods,1685,0
+2019-12-31,Consumer,1644,6
+2019-12-31,Energy,1720,10
+2019-12-31,Finance,1666,9
+2019-12-31,Healthcare,1961,5
+2019-12-31,Technology,1932,3
+2019-12-31,Utilities,2120,6
+2020-01-31,Basic Materials,1622,2
+2020-01-31,Capital Goods,1655,8
+2020-01-31,Consumer,1742,3
+2020-01-31,Energy,1751,3
+2020-01-31,Finance,1786,8
+2020-01-31,Healthcare,1840,4
+2020-01-31,Technology,1902,0
+2020-01-31,Utilities,2011,1
+2020-02-29,Basic Materials,1535,6
+2020-02-29,Capital Goods,1655,12
+2020-02-29,Consumer,1702,5
+2020-02-29,Energy,1701,9
+2020-02-29,Finance,1684,10
+2020-02-29,Healthcare,1797,10
+2020-02-29,Technology,1813,8
+2020-02-29,Utilities,2034,5
+2020-03-31,Basic Materials,1593,5
+2020-03-31,Capital Goods,1579,14
+2020-03-31,Consumer,1659,5
+2020-03-31,Energy,1552,4
+2020-03-31,Finance,1778,10
+2020-03-31,Healthcare,1816,10
+2020-03-31,Technology,1988,3
+2020-03-31,Utilities,1990,2
+2020-04-30,Basic Materials,1561,4
+2020-04-30,Capital Goods,1641,6
+2020-04-30,Consumer,1649,4
+2020-04-30,Energy,1802,4
+2020-04-30,Finance,1733,14
+2020-04-30,Healthcare,1758,4
+2020-04-30,Technology,1985,10
+2020-04-30,Utilities,2079,6
+2020-05-31,Basic Materials,1677,6
+2020-05-31,Capital Goods,1616,5
+2020-05-31,Consumer,1503,4
+2020-05-31,Energy,1756,7
+2020-05-31,Finance,1703,5
+2020-05-31,Healthcare,1848,3
+2020-05-31,Technology,1981,3
+2020-05-31,Utilities,2081,6
+2020-06-30,Basic Materials,1536,9
+2020-06-30,Capital Goods,1565,13
+2020-06-30,Consumer,1572,4
+2020-06-30,Energy,1650,8
+2020-06-30,Finance,1733,9
+2020-06-30,Healthcare,1802,3
+2020-06-30,Technology,1983,2
+2020-06-30,Utilities,2143,3
+2020-07-31,Basic Materials,1746,11
+2020-07-31,Capital Goods,1589,5
+2020-07-31,Consumer,1646,7
+2020-07-31,Energy,1646,11
+2020-07-31,Finance,1680,14
+2020-07-31,Healthcare,1810,4
+2020-07-31,Technology,2073,2
+2020-07-31,Utilities,2168,3
+2020-08-31,Basic Materials,1459,3
+2020-08-31,Capital Goods,1546,7
+2020-08-31,Consumer,1573,3
+2020-08-31,Energy,1691,11
+2020-08-31,Finance,1783,9
+2020-08-31,Healthcare,1934,5
+2020-08-31,Technology,2053,6
+2020-08-31,Utilities,2044,8
+2020-09-30,Basic Materials,1550,4
+2020-09-30,Capital Goods,1382,7
+2020-09-30,Consumer,1729,13
+2020-09-30,Energy,1646,11
+2020-09-30,Finance,1740,13
+2020-09-30,Healthcare,1894,3
+2020-09-30,Technology,2011,2
+2020-09-30,Utilities,2159,5
+2020-10-31,Basic Materials,1545,1
+2020-10-31,Capital Goods,1604,6
+2020-10-31,Consumer,1650,3
+2020-10-31,Energy,1646,6
+2020-10-31,Finance,1824,8
+2020-10-31,Healthcare,1906,7
+2020-10-31,Technology,2084,3
+2020-10-31,Utilities,2123,2
+2020-11-30,Basic Materials,1529,9
+2020-11-30,Capital Goods,1691,12
+2020-11-30,Consumer,1630,4
+2020-11-30,Energy,1706,5
+2020-11-30,Finance,1777,16
+2020-11-30,Healthcare,1916,4
+2020-11-30,Technology,1901,2
+2020-11-30,Utilities,2014,4
+2020-12-31,Basic Materials,1482,6
+2020-12-31,Capital Goods,1484,7
+2020-12-31,Consumer,1633,0
+2020-12-31,Energy,1765,12
+2020-12-31,Finance,1841,6
+2020-12-31,Healthcare,1980,3
+2020-12-31,Technology,1989,10
+2020-12-31,Utilities,2097,6
+2021-01-31,Basic Materials,1527,5
+2021-01-31,Capital Goods,1505,13
+2021-01-31,Consumer,1686,7
+2021-01-31,Energy,1698,12
+2021-01-31,Finance,1674,16
+2021-01-31,Healthcare,1858,7
+2021-01-31,Technology,2080,11
+2021-01-31,Utilities,2157,4
+2021-02-28,Basic Materials,1536,15
+2021-02-28,Capital Goods,1587,7
+2021-02-28,Consumer,1692,5
+2021-02-28,Energy,1721,15
+2021-02-28,Finance,1837,26
+2021-02-28,Healthcare,2032,1
+2021-02-28,Technology,2110,8
+2021-02-28,Utilities,2194,5
+2021-03-31,Basic Materials,1341,6
+2021-03-31,Capital Goods,1551,9
+2021-03-31,Consumer,1693,6
+2021-03-31,Energy,1569,5
+2021-03-31,Finance,1756,21
+2021-03-31,Healthcare,1852,6
+2021-03-31,Technology,2008,10
+2021-03-31,Utilities,2168,7
+2021-04-30,Basic Materials,1356,10
+2021-04-30,Capital Goods,1445,11
+2021-04-30,Consumer,1577,10
+2021-04-30,Energy,1848,15
+2021-04-30,Finance,1775,26
+2021-04-30,Healthcare,1943,5
+2021-04-30,Technology,1951,8
+2021-04-30,Utilities,2164,7
+2021-05-31,Basic Materials,1455,7
+2021-05-31,Capital Goods,1458,4
+2021-05-31,Consumer,1703,7
+2021-05-31,Energy,1705,14
+2021-05-31,Finance,1825,10
+2021-05-31,Healthcare,1835,2
+2021-05-31,Technology,1995,1
+2021-05-31,Utilities,2107,7
+2021-06-30,Basic Materials,1511,6
+2021-06-30,Capital Goods,1525,8
+2021-06-30,Consumer,1762,10
+2021-06-30,Energy,1721,14
+2021-06-30,Finance,1832,21
+2021-06-30,Healthcare,1990,6
+2021-06-30,Technology,1982,7
+2021-06-30,Utilities,2308,2
+2021-07-31,Basic Materials,1533,3
+2021-07-31,Capital Goods,1471,7
+2021-07-31,Consumer,1746,11
+2021-07-31,Energy,1719,21
+2021-07-31,Finance,1858,23
+2021-07-31,Healthcare,2059,8
+2021-07-31,Technology,2127,13
+2021-07-31,Utilities,2116,8
+2021-08-31,Basic Materials,1527,6
+2021-08-31,Capital Goods,1540,7
+2021-08-31,Consumer,1691,5
+2021-08-31,Energy,1695,6
+2021-08-31,Finance,1837,13
+2021-08-31,Healthcare,1960,4
+2021-08-31,Technology,2018,7
+2021-08-31,Utilities,2126,2
+2021-09-30,Basic Materials,1524,10
+2021-09-30,Capital Goods,1496,4
+2021-09-30,Consumer,1666,6
+2021-09-30,Energy,1561,9
+2021-09-30,Finance,1907,24
+2021-09-30,Healthcare,1996,5
+2021-09-30,Technology,2017,12
+2021-09-30,Utilities,2400,7
+2021-10-31,Basic Materials,1416,3
+2021-10-31,Capital Goods,1529,11
+2021-10-31,Consumer,1626,5
+2021-10-31,Energy,1758,19
+2021-10-31,Finance,1807,15
+2021-10-31,Healthcare,2005,4
+2021-10-31,Technology,2228,8
+2021-10-31,Utilities,2206,6
+2021-11-30,Basic Materials,1439,6
+2021-11-30,Capital Goods,1484,7
+2021-11-30,Consumer,1639,5
+2021-11-30,Energy,1875,9
+2021-11-30,Finance,1952,5
+2021-11-30,Healthcare,2024,3
+2021-11-30,Technology,2190,6
+2021-11-30,Utilities,2298,6
+2021-12-31,Basic Materials,1374,5
+2021-12-31,Capital Goods,1578,2
+2021-12-31,Consumer,1574,2
+2021-12-31,Energy,1676,2
+2021-12-31,Finance,1907,6
+2021-12-31,Healthcare,1926,5
+2021-12-31,Technology,2112,4
+2021-12-31,Utilities,2295,5
+2022-01-31,Basic Materials,1469,4
+2022-01-31,Capital Goods,1624,4
+2022-01-31,Consumer,1700,3
+2022-01-31,Energy,1803,5
+2022-01-31,Finance,1837,4
+2022-01-31,Healthcare,1881,6
+2022-01-31,Technology,2107,6
+2022-01-31,Utilities,2217,7
+2022-02-28,Basic Materials,1524,15
+2022-02-28,Capital Goods,1510,6
+2022-02-28,Consumer,1676,0
+2022-02-28,Energy,1793,12
+2022-02-28,Finance,1858,8
+2022-02-28,Healthcare,1938,2
+2022-02-28,Technology,2038,2
+2022-02-28,Utilities,2274,3
+2022-03-31,Basic Materials,1491,5
+2022-03-31,Capital Goods,1409,2
+2022-03-31,Consumer,1781,9
+2022-03-31,Energy,1909,19
+2022-03-31,Finance,1800,13
+2022-03-31,Healthcare,2095,10
+2022-03-31,Technology,2081,12
+2022-03-31,Utilities,2259,4
+2022-04-30,Basic Materials,1442,4
+2022-04-30,Capital Goods,1526,5
+2022-04-30,Consumer,1536,3
+2022-04-30,Energy,1641,10
+2022-04-30,Finance,1850,14
+2022-04-30,Healthcare,2068,7
+2022-04-30,Technology,2184,14
+2022-04-30,Utilities,2344,4
+2022-05-31,Basic Materials,1388,1
+2022-05-31,Capital Goods,1621,3
+2022-05-31,Consumer,1599,8
+2022-05-31,Energy,1937,8
+2022-05-31,Finance,1992,16
+2022-05-31,Healthcare,2058,4
+2022-05-31,Technology,2263,4
+2022-05-31,Utilities,2269,5
+2022-06-30,Basic Materials,1420,5
+2022-06-30,Capital Goods,1602,12
+2022-06-30,Consumer,1720,5
+2022-06-30,Energy,1746,9
+2022-06-30,Finance,1860,17
+2022-06-30,Healthcare,2136,6
+2022-06-30,Technology,2053,5
+2022-06-30,Utilities,2335,4
+2022-07-31,Basic Materials,1342,4
+2022-07-31,Capital Goods,1562,7
+2022-07-31,Consumer,1792,11
+2022-07-31,Energy,1682,8
+2022-07-31,Finance,2042,13
+2022-07-31,Healthcare,2057,2
+2022-07-31,Technology,2186,10
+2022-07-31,Utilities,2157,6
+2022-08-31,Basic Materials,1517,4
+2022-08-31,Capital Goods,1611,11
+2022-08-31,Consumer,1578,9
+2022-08-31,Energy,1829,6
+2022-08-31,Finance,1951,19
+2022-08-31,Healthcare,2129,5
+2022-08-31,Technology,2248,8
+2022-08-31,Utilities,2238,11
+2022-09-30,Basic Materials,1397,6
+2022-09-30,Capital Goods,1537,6
+2022-09-30,Consumer,1696,3
+2022-09-30,Energy,1791,10
+2022-09-30,Finance,1879,17
+2022-09-30,Healthcare,2050,4
+2022-09-30,Technology,2093,9
+2022-09-30,Utilities,2309,8
+2022-10-31,Basic Materials,1582,2
+2022-10-31,Capital Goods,1568,14
+2022-10-31,Consumer,1692,7
+2022-10-31,Energy,1997,7
+2022-10-31,Finance,2013,7
+2022-10-31,Healthcare,1972,1
+2022-10-31,Technology,2189,7
+2022-10-31,Utilities,2462,5
+2022-11-30,Basic Materials,1400,5
+2022-11-30,Capital Goods,1509,8
+2022-11-30,Consumer,1739,4
+2022-11-30,Energy,1791,9
+2022-11-30,Finance,1976,19
+2022-11-30,Healthcare,2111,2
+2022-11-30,Technology,2271,6
+2022-11-30,Utilities,2275,6
+2022-12-31,Basic Materials,1506,2
+2022-12-31,Capital Goods,1614,7
+2022-12-31,Consumer,1648,4
+2022-12-31,Energy,1939,14
+2022-12-31,Finance,1862,18
+2022-12-31,Healthcare,2067,7
+2022-12-31,Technology,2276,9
+2022-12-31,Utilities,2357,3
+2023-01-31,Basic Materials,1486,14
+2023-01-31,Capital Goods,1611,19
+2023-01-31,Consumer,1688,11
+2023-01-31,Energy,1926,5
+2023-01-31,Finance,2018,20
+2023-01-31,Healthcare,2183,7
+2023-01-31,Technology,2300,16
+2023-01-31,Utilities,2210,3
+2023-02-28,Basic Materials,1513,5
+2023-02-28,Capital Goods,1740,15
+2023-02-28,Consumer,1732,6
+2023-02-28,Energy,1844,22
+2023-02-28,Finance,2070,32
+2023-02-28,Healthcare,2120,4
+2023-02-28,Technology,2188,5
+2023-02-28,Utilities,2337,9
+2023-03-31,Basic Materials,1589,8
+2023-03-31,Capital Goods,1612,7
+2023-03-31,Consumer,1680,7
+2023-03-31,Energy,1926,10
+2023-03-31,Finance,2072,37
+2023-03-31,Healthcare,2088,12
+2023-03-31,Technology,2253,9
+2023-03-31,Utilities,2398,8
+2023-04-30,Basic Materials,1498,2
+2023-04-30,Capital Goods,1649,14
+2023-04-30,Consumer,1784,5
+2023-04-30,Energy,1884,19
+2023-04-30,Finance,2181,23
+2023-04-30,Healthcare,2073,3
+2023-04-30,Technology,2292,7
+2023-04-30,Utilities,2306,5
+2023-05-31,Basic Materials,1495,10
+2023-05-31,Capital Goods,1583,6
+2023-05-31,Consumer,1716,3
+2023-05-31,Energy,1821,18
+2023-05-31,Finance,2193,21
+2023-05-31,Healthcare,2103,9
+2023-05-31,Technology,2318,9
+2023-05-31,Utilities,2356,8
+2023-06-30,Basic Materials,1545,8
+2023-06-30,Capital Goods,1590,10
+2023-06-30,Consumer,1843,6
+2023-06-30,Energy,1771,13
+2023-06-30,Finance,2011,16
+2023-06-30,Healthcare,2197,5
+2023-06-30,Technology,2182,11
+2023-06-30,Utilities,2333,6
+2023-07-31,Basic Materials,1552,4
+2023-07-31,Capital Goods,1680,4
+2023-07-31,Consumer,1785,2
+2023-07-31,Energy,1933,9
+2023-07-31,Finance,2066,19
+2023-07-31,Healthcare,2075,3
+2023-07-31,Technology,2130,5
+2023-07-31,Utilities,2352,10
+2023-08-31,Basic Materials,1524,4
+2023-08-31,Capital Goods,1612,5
+2023-08-31,Consumer,1848,4
+2023-08-31,Energy,1886,5
+2023-08-31,Finance,2048,13
+2023-08-31,Healthcare,2247,5
+2023-08-31,Technology,2242,8
+2023-08-31,Utilities,2360,4
+2023-09-30,Basic Materials,1498,3
+2023-09-30,Capital Goods,1795,10
+2023-09-30,Consumer,1811,1
+2023-09-30,Energy,1895,8
+2023-09-30,Finance,2152,10
+2023-09-30,Healthcare,2109,3
+2023-09-30,Technology,2253,4
+2023-09-30,Utilities,2272,5
+2023-10-31,Basic Materials,1464,4
+2023-10-31,Capital Goods,1601,6
+2023-10-31,Consumer,1831,7
+2023-10-31,Energy,2044,6
+2023-10-31,Finance,2074,13
+2023-10-31,Healthcare,2202,0
+2023-10-31,Technology,2317,2
+2023-10-31,Utilities,2157,3
+2023-11-30,Basic Materials,1641,3
+2023-11-30,Capital Goods,1705,4
+2023-11-30,Consumer,1925,4
+2023-11-30,Energy,2084,15
+2023-11-30,Finance,1965,11
+2023-11-30,Healthcare,2062,5
+2023-11-30,Technology,2402,9
+2023-11-30,Utilities,2305,4
+2023-12-31,Basic Materials,1579,7
+2023-12-31,Capital Goods,1745,3
+2023-12-31,Consumer,1665,6
+2023-12-31,Energy,1886,13
+2023-12-31,Finance,2042,13
+2023-12-31,Healthcare,2274,11
+2023-12-31,Technology,2212,4
+2023-12-31,Utilities,2497,5
+2024-01-31,Basic Materials,1559,1
+2024-01-31,Capital Goods,1716,5
+2024-01-31,Consumer,1724,3
+2024-01-31,Energy,2129,11
+2024-01-31,Finance,2145,4
+2024-01-31,Healthcare,2103,3
+2024-01-31,Technology,2314,11
+2024-01-31,Utilities,2237,5
+2024-02-29,Basic Materials,1716,9
+2024-02-29,Capital Goods,1514,10
+2024-02-29,Consumer,1809,2
+2024-02-29,Energy,1878,12
+2024-02-29,Finance,2011,10
+2024-02-29,Healthcare,2347,4
+2024-02-29,Technology,2207,6
+2024-02-29,Utilities,2390,1
+2024-03-31,Basic Materials,1674,0
+2024-03-31,Capital Goods,1730,7
+2024-03-31,Consumer,1844,11
+2024-03-31,Energy,1964,9
+2024-03-31,Finance,2016,9
+2024-03-31,Healthcare,2190,4
+2024-03-31,Technology,2246,2
+2024-03-31,Utilities,2314,8
+2024-04-30,Basic Materials,1619,4
+2024-04-30,Capital Goods,1750,5
+2024-04-30,Consumer,1831,6
+2024-04-30,Energy,1999,10
+2024-04-30,Finance,2086,5
+2024-04-30,Healthcare,2212,3
+2024-04-30,Technology,2295,4
+2024-04-30,Utilities,2360,2
+2024-05-31,Basic Materials,1719,4
+2024-05-31,Capital Goods,1852,6
+2024-05-31,Consumer,2110,6
+2024-05-31,Energy,2022,9
+2024-05-31,Finance,1947,2
+2024-05-31,Healthcare,2134,4
+2024-05-31,Technology,2196,6
+2024-05-31,Utilities,2247,6
+2024-06-30,Basic Materials,1658,6
+2024-06-30,Capital Goods,1838,7
+2024-06-30,Consumer,1856,4
+2024-06-30,Energy,2179,6
+2024-06-30,Finance,1997,5
+2024-06-30,Healthcare,2178,3
+2024-06-30,Technology,2349,7
+2024-06-30,Utilities,2175,7
+2024-07-31,Basic Materials,1649,7
+2024-07-31,Capital Goods,1896,6
+2024-07-31,Consumer,1732,7
+2024-07-31,Energy,2020,15
+2024-07-31,Finance,2076,14
+2024-07-31,Healthcare,2152,0
+2024-07-31,Technology,2119,3
+2024-07-31,Utilities,2180,3
+2024-08-31,Basic Materials,1664,9
+2024-08-31,Capital Goods,1850,11
+2024-08-31,Consumer,1940,2
+2024-08-31,Energy,1922,5
+2024-08-31,Finance,2072,7
+2024-08-31,Healthcare,2073,4
+2024-08-31,Technology,2119,2
+2024-08-31,Utilities,2208,5
+2024-09-30,Basic Materials,1716,3
+2024-09-30,Capital Goods,1773,4
+2024-09-30,Consumer,1930,5
+2024-09-30,Energy,2056,3
+2024-09-30,Finance,2024,15
+2024-09-30,Healthcare,2169,2
+2024-09-30,Technology,2133,5
+2024-09-30,Utilities,2172,2
+2024-10-31,Basic Materials,1750,3
+2024-10-31,Capital Goods,1809,8
+2024-10-31,Consumer,1828,7
+2024-10-31,Energy,2120,10
+2024-10-31,Finance,1942,7
+2024-10-31,Healthcare,2136,5
+2024-10-31,Technology,2142,5
+2024-10-31,Utilities,2198,3
+2024-11-30,Basic Materials,1791,15
+2024-11-30,Capital Goods,1718,7
+2024-11-30,Consumer,1761,7
+2024-11-30,Energy,1943,11
+2024-11-30,Finance,2149,18
+2024-11-30,Healthcare,2149,6
+2024-11-30,Technology,2134,8
+2024-11-30,Utilities,2345,3
+2024-12-31,Basic Materials,1745,5
+2024-12-31,Capital Goods,1746,10
+2024-12-31,Consumer,1947,5
+2024-12-31,Energy,2018,12
+2024-12-31,Finance,2113,20
+2024-12-31,Healthcare,2081,7
+2024-12-31,Technology,2168,11
+2024-12-31,Utilities,2253,7
+2025-01-31,Basic Materials,1771,6
+2025-01-31,Capital Goods,1715,10
+2025-01-31,Consumer,2060,4
+2025-01-31,Energy,2009,15
+2025-01-31,Finance,2024,19
+2025-01-31,Healthcare,2074,3
+2025-01-31,Technology,2060,5
+2025-01-31,Utilities,2221,7
+2025-02-28,Basic Materials,1668,5
+2025-02-28,Capital Goods,1649,17
+2025-02-28,Consumer,1914,12
+2025-02-28,Energy,1969,11
+2025-02-28,Finance,2049,22
+2025-02-28,Healthcare,2094,9
+2025-02-28,Technology,2258,11
+2025-02-28,Utilities,2118,4
+2025-03-31,Basic Materials,1654,14
+2025-03-31,Capital Goods,2007,11
+2025-03-31,Consumer,1920,8
+2025-03-31,Energy,1870,23
+2025-03-31,Finance,2076,23
+2025-03-31,Healthcare,2060,4
+2025-03-31,Technology,2149,10
+2025-03-31,Utilities,2120,3
+2025-04-30,Basic Materials,1791,3
+2025-04-30,Capital Goods,1841,6
+2025-04-30,Consumer,1891,11
+2025-04-30,Energy,2087,17
+2025-04-30,Finance,2124,13
+2025-04-30,Healthcare,2138,8
+2025-04-30,Technology,2034,5
+2025-04-30,Utilities,2044,8
+2025-05-31,Basic Materials,1739,7
+2025-05-31,Capital Goods,1678,5
+2025-05-31,Consumer,1761,6
+2025-05-31,Energy,2044,12
+2025-05-31,Finance,2191,19
+2025-05-31,Healthcare,2160,5
+2025-05-31,Technology,2185,4
+2025-05-31,Utilities,2143,7
+2025-06-30,Basic Materials,1639,8
+2025-06-30,Capital Goods,2049,14
+2025-06-30,Consumer,1907,6
+2025-06-30,Energy,1939,17
+2025-06-30,Finance,2002,14
+2025-06-30,Healthcare,2082,7
+2025-06-30,Technology,2105,7
+2025-06-30,Utilities,2063,6
+2025-07-31,Basic Materials,1802,4
+2025-07-31,Capital Goods,1888,9
+2025-07-31,Consumer,1890,5
+2025-07-31,Energy,1926,13
+2025-07-31,Finance,1999,19
+2025-07-31,Healthcare,2066,8
+2025-07-31,Technology,2075,5
+2025-07-31,Utilities,2133,5
+2025-08-31,Basic Materials,1699,16
+2025-08-31,Capital Goods,1917,6
+2025-08-31,Consumer,1891,7
+2025-08-31,Energy,1913,12
+2025-08-31,Finance,1937,17
+2025-08-31,Healthcare,2203,10
+2025-08-31,Technology,2000,6
+2025-08-31,Utilities,2094,6
+2025-09-30,Basic Materials,1752,7
+2025-09-30,Capital Goods,1908,5
+2025-09-30,Consumer,1887,7
+2025-09-30,Energy,1932,11
+2025-09-30,Finance,2028,11
+2025-09-30,Healthcare,1995,5
+2025-09-30,Technology,2048,4
+2025-09-30,Utilities,2136,2
+2025-10-31,Basic Materials,1706,5
+2025-10-31,Capital Goods,1809,11
+2025-10-31,Consumer,1892,3
+2025-10-31,Energy,1910,7
+2025-10-31,Finance,1994,6
+2025-10-31,Healthcare,2037,2
+2025-10-31,Technology,2135,7
+2025-10-31,Utilities,2106,3
+2025-11-30,Basic Materials,1671,4
+2025-11-30,Capital Goods,1891,5
+2025-11-30,Consumer,1733,2
+2025-11-30,Energy,1993,12
+2025-11-30,Finance,1970,10
+2025-11-30,Healthcare,2008,4
+2025-11-30,Technology,2016,9
+2025-11-30,Utilities,2177,3
+2025-12-31,Basic Materials,1761,7
+2025-12-31,Capital Goods,1845,8
+2025-12-31,Consumer,1764,4
+2025-12-31,Energy,1999,13
+2025-12-31,Finance,2045,14
+2025-12-31,Healthcare,1975,9
+2025-12-31,Technology,2062,7
+2025-12-31,Utilities,2037,1

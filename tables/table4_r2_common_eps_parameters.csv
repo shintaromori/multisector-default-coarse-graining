@@ -1,0 +1,30 @@
+parameter,sector,factor,interpretation,estimate
+mu,Basic Materials,,sector intercept,-5.757638296546287
+lambda,Basic Materials,F1,market-wide default-risk factor,-0.37633008962454256
+lambda,Basic Materials,F2,sector-rotation factor,-0.393476629521329
+mu,Capital Goods,,sector intercept,-5.542836489275741
+lambda,Capital Goods,F1,market-wide default-risk factor,-0.3850706734097201
+lambda,Capital Goods,F2,sector-rotation factor,-0.13159725109523415
+mu,Consumer,,sector intercept,-5.929483764760166
+lambda,Consumer,F1,market-wide default-risk factor,-0.253231647226013
+lambda,Consumer,F2,sector-rotation factor,0.18310246699473873
+mu,Energy,,sector intercept,-5.399420843200665
+lambda,Energy,F1,market-wide default-risk factor,-0.4569166533211784
+lambda,Energy,F2,sector-rotation factor,-0.41106045637938604
+mu,Finance,,sector intercept,-5.226781692600105
+lambda,Finance,F1,market-wide default-risk factor,-0.44287643987271685
+lambda,Finance,F2,sector-rotation factor,-0.022723736932293785
+mu,Healthcare,,sector intercept,-6.125310711180895
+lambda,Healthcare,F1,market-wide default-risk factor,-0.2514572116871741
+lambda,Healthcare,F2,sector-rotation factor,0.6530909766206069
+mu,Technology,,sector intercept,-5.973239096714719
+lambda,Technology,F1,market-wide default-risk factor,-0.39233931364786107
+lambda,Technology,F2,sector-rotation factor,0.38824044139046365
+mu,Utilities,,sector intercept,-6.1311545051443
+lambda,Utilities,F1,market-wide default-risk factor,-0.15458569644843234
+lambda,Utilities,F2,sector-rotation factor,0.2181427537458806
+phi,,F1,market-wide default-risk factor,0.5631920774134606
+innovation_sd,,F1,market-wide default-risk factor,0.7420639763248412
+phi,,F2,sector-rotation factor,0.1341777862259655
+innovation_sd,,F2,sector-rotation factor,0.6257289709548468
+sigma_eps_common,,,common iid residual scale,0.44195866015393814

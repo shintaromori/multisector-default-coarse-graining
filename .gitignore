@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+conda-meta/
+
+# Private or proprietary data locations
+data/raw/
+data/private/
+data/proprietary/
+private/
+proprietary/
+
+# Large or machine-specific caches
+*.nc
+*.netcdf
+*.pkl
+*.pickle
+*.joblib
+*.zarr/
+*.h5
+*.hdf5
+*.trace
+trace*/
+idata*/
+cache/
+.cache/
+
+# Temporary outputs and logs
+tmp/
+temp/
+scratch/
+*.tmp
+*.bak
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.lnk
