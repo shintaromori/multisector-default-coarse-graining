@@ -144,6 +144,9 @@ figures/figure10_annual_correlation_matrices.png
 pdata/r2_common_eps_model.json
 pdata/r2_posterior_predictive_summary.csv
 pdata/copula_summary.csv
+pdata/copula_pseudo_observations.csv
+pdata/gaussian_copula_correlation.csv
+pdata/r2_temporal_coarse_graining.csv
 ```
 
 ### `05.ipynb`
