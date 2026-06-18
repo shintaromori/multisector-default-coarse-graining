@@ -1,2497 +1,4057 @@
 date,sector,obligors,defaulted
-2000-01-31,Basic Materials,1687,11
-2000-01-31,Capital Goods,1692,3
-2000-01-31,Consumer,1770,2
-2000-01-31,Energy,2025,8
-2000-01-31,Finance,2009,16
-2000-01-31,Healthcare,2175,1
-2000-01-31,Technology,2244,5
-2000-01-31,Utilities,2422,6
-2000-02-29,Basic Materials,1602,5
-2000-02-29,Capital Goods,1633,7
-2000-02-29,Consumer,1998,9
-2000-02-29,Energy,1960,9
-2000-02-29,Finance,2131,9
-2000-02-29,Healthcare,1994,6
-2000-02-29,Technology,2219,8
-2000-02-29,Utilities,2400,8
-2000-03-31,Basic Materials,1601,8
-2000-03-31,Capital Goods,1741,9
-2000-03-31,Consumer,1758,2
-2000-03-31,Energy,2016,22
-2000-03-31,Finance,1989,9
-2000-03-31,Healthcare,2248,8
-2000-03-31,Technology,2226,6
-2000-03-31,Utilities,2243,3
-2000-04-30,Basic Materials,1585,6
-2000-04-30,Capital Goods,1715,8
-2000-04-30,Consumer,1959,3
-2000-04-30,Energy,1957,8
-2000-04-30,Finance,2053,8
-2000-04-30,Healthcare,2232,5
-2000-04-30,Technology,2154,9
-2000-04-30,Utilities,2213,12
-2000-05-31,Basic Materials,1697,3
-2000-05-31,Capital Goods,1755,9
-2000-05-31,Consumer,1976,5
-2000-05-31,Energy,2004,4
-2000-05-31,Finance,2057,12
-2000-05-31,Healthcare,2236,7
-2000-05-31,Technology,2191,4
-2000-05-31,Utilities,2239,5
-2000-06-30,Basic Materials,1688,1
-2000-06-30,Capital Goods,1719,11
-2000-06-30,Consumer,1868,9
-2000-06-30,Energy,2072,5
-2000-06-30,Finance,1940,8
-2000-06-30,Healthcare,2143,7
-2000-06-30,Technology,2231,4
-2000-06-30,Utilities,2366,4
-2000-07-31,Basic Materials,1690,5
-2000-07-31,Capital Goods,1801,3
-2000-07-31,Consumer,1881,11
-2000-07-31,Energy,1971,3
-2000-07-31,Finance,2084,8
-2000-07-31,Healthcare,2093,5
-2000-07-31,Technology,2154,5
-2000-07-31,Utilities,2311,4
-2000-08-31,Basic Materials,1728,5
-2000-08-31,Capital Goods,1840,6
-2000-08-31,Consumer,1949,3
-2000-08-31,Energy,1752,6
-2000-08-31,Finance,2179,7
-2000-08-31,Healthcare,1999,7
-2000-08-31,Technology,2141,2
-2000-08-31,Utilities,2201,3
-2000-09-30,Basic Materials,1586,2
-2000-09-30,Capital Goods,1786,2
-2000-09-30,Consumer,1938,3
-2000-09-30,Energy,1861,4
-2000-09-30,Finance,2167,5
-2000-09-30,Healthcare,2055,5
-2000-09-30,Technology,2249,1
-2000-09-30,Utilities,2121,3
-2000-10-31,Basic Materials,1715,2
-2000-10-31,Capital Goods,1819,7
-2000-10-31,Consumer,1858,4
-2000-10-31,Energy,1922,11
-2000-10-31,Finance,2062,6
-2000-10-31,Healthcare,2099,6
-2000-10-31,Technology,2120,10
-2000-10-31,Utilities,2203,5
-2000-11-30,Basic Materials,1700,4
-2000-11-30,Capital Goods,1843,9
-2000-11-30,Consumer,1964,6
-2000-11-30,Energy,1985,9
-2000-11-30,Finance,2054,6
-2000-11-30,Healthcare,2205,6
-2000-11-30,Technology,2055,3
-2000-11-30,Utilities,2276,4
-2000-12-31,Basic Materials,1699,0
-2000-12-31,Capital Goods,1885,2
-2000-12-31,Consumer,1990,6
-2000-12-31,Energy,2049,4
-2000-12-31,Finance,2147,13
-2000-12-31,Healthcare,1999,4
-2000-12-31,Technology,2140,2
-2000-12-31,Utilities,2202,6
-2001-01-31,Basic Materials,1692,3
-2001-01-31,Capital Goods,1881,1
-2001-01-31,Consumer,1939,2
-2001-01-31,Energy,2026,1
-2001-01-31,Finance,2172,11
-2001-01-31,Healthcare,2023,5
-2001-01-31,Technology,2171,6
-2001-01-31,Utilities,2060,4
-2001-02-28,Basic Materials,1648,5
-2001-02-28,Capital Goods,1684,10
-2001-02-28,Consumer,1947,5
-2001-02-28,Energy,1836,8
-2001-02-28,Finance,2026,13
-2001-02-28,Healthcare,2113,3
-2001-02-28,Technology,2186,9
-2001-02-28,Utilities,2123,10
-2001-03-31,Basic Materials,1642,6
-2001-03-31,Capital Goods,1742,10
-2001-03-31,Consumer,1940,3
-2001-03-31,Energy,1935,5
-2001-03-31,Finance,1949,9
-2001-03-31,Healthcare,2056,4
-2001-03-31,Technology,2011,8
-2001-03-31,Utilities,2300,5
-2001-04-30,Basic Materials,1747,4
-2001-04-30,Capital Goods,1596,4
-2001-04-30,Consumer,1981,10
-2001-04-30,Energy,2044,7
-2001-04-30,Finance,2073,14
-2001-04-30,Healthcare,2108,4
-2001-04-30,Technology,2097,2
-2001-04-30,Utilities,2092,5
-2001-05-31,Basic Materials,1656,4
-2001-05-31,Capital Goods,1819,4
-2001-05-31,Consumer,1968,4
-2001-05-31,Energy,1879,6
-2001-05-31,Finance,2104,7
-2001-05-31,Healthcare,2079,4
-2001-05-31,Technology,2171,6
-2001-05-31,Utilities,2066,8
-2001-06-30,Basic Materials,1780,7
-2001-06-30,Capital Goods,1938,8
-2001-06-30,Consumer,1849,2
-2001-06-30,Energy,1979,6
-2001-06-30,Finance,1968,14
-2001-06-30,Healthcare,2062,4
-2001-06-30,Technology,2183,2
-2001-06-30,Utilities,2163,1
-2001-07-31,Basic Materials,1842,4
-2001-07-31,Capital Goods,1725,4
-2001-07-31,Consumer,1925,6
-2001-07-31,Energy,1949,4
-2001-07-31,Finance,2009,12
-2001-07-31,Healthcare,2019,15
-2001-07-31,Technology,2069,4
-2001-07-31,Utilities,2039,3
-2001-08-31,Basic Materials,1570,1
-2001-08-31,Capital Goods,1832,2
-2001-08-31,Consumer,1920,12
-2001-08-31,Energy,1937,6
-2001-08-31,Finance,1960,7
-2001-08-31,Healthcare,2081,5
-2001-08-31,Technology,2129,2
-2001-08-31,Utilities,2013,4
-2001-09-30,Basic Materials,1735,1
-2001-09-30,Capital Goods,1889,5
-2001-09-30,Consumer,2008,2
-2001-09-30,Energy,1919,7
-2001-09-30,Finance,2057,11
-2001-09-30,Healthcare,2026,10
-2001-09-30,Technology,2024,6
-2001-09-30,Utilities,2142,5
-2001-10-31,Basic Materials,1801,5
-2001-10-31,Capital Goods,1785,3
-2001-10-31,Consumer,1865,8
-2001-10-31,Energy,1994,19
-2001-10-31,Finance,2077,16
-2001-10-31,Healthcare,1992,4
-2001-10-31,Technology,1959,1
-2001-10-31,Utilities,1976,1
-2001-11-30,Basic Materials,1757,0
-2001-11-30,Capital Goods,1841,8
-2001-11-30,Consumer,1849,3
-2001-11-30,Energy,1855,7
-2001-11-30,Finance,1870,11
-2001-11-30,Healthcare,2129,4
-2001-11-30,Technology,2037,6
-2001-11-30,Utilities,2068,7
-2001-12-31,Basic Materials,1722,2
-2001-12-31,Capital Goods,1736,4
-2001-12-31,Consumer,1849,6
-2001-12-31,Energy,1957,14
-2001-12-31,Finance,1775,17
-2001-12-31,Healthcare,1975,5
-2001-12-31,Technology,1910,5
-2001-12-31,Utilities,1903,6
-2002-01-31,Basic Materials,1592,6
-2002-01-31,Capital Goods,1883,6
-2002-01-31,Consumer,1992,4
-2002-01-31,Energy,1883,11
-2002-01-31,Finance,1849,13
-2002-01-31,Healthcare,2055,5
-2002-01-31,Technology,1974,4
-2002-01-31,Utilities,2022,5
-2002-02-28,Basic Materials,1825,5
-2002-02-28,Capital Goods,1906,5
-2002-02-28,Consumer,1889,5
-2002-02-28,Energy,1895,23
-2002-02-28,Finance,2149,6
-2002-02-28,Healthcare,1872,3
-2002-02-28,Technology,2056,12
-2002-02-28,Utilities,1956,4
-2002-03-31,Basic Materials,1781,12
-2002-03-31,Capital Goods,1733,9
-2002-03-31,Consumer,1961,8
-2002-03-31,Energy,1960,10
-2002-03-31,Finance,1956,11
-2002-03-31,Healthcare,2071,4
-2002-03-31,Technology,2083,5
-2002-03-31,Utilities,1951,6
-2002-04-30,Basic Materials,1772,6
-2002-04-30,Capital Goods,1676,12
-2002-04-30,Consumer,1729,5
-2002-04-30,Energy,1881,9
-2002-04-30,Finance,1859,20
-2002-04-30,Healthcare,1998,6
-2002-04-30,Technology,2046,5
-2002-04-30,Utilities,2091,2
-2002-05-31,Basic Materials,1828,3
-2002-05-31,Capital Goods,1815,5
-2002-05-31,Consumer,1904,14
-2002-05-31,Energy,1879,16
-2002-05-31,Finance,1956,12
-2002-05-31,Healthcare,1877,7
-2002-05-31,Technology,1893,10
-2002-05-31,Utilities,1949,12
-2002-06-30,Basic Materials,1730,9
-2002-06-30,Capital Goods,1814,5
-2002-06-30,Consumer,1960,10
-2002-06-30,Energy,1910,20
-2002-06-30,Finance,1936,14
-2002-06-30,Healthcare,2035,11
-2002-06-30,Technology,1901,5
-2002-06-30,Utilities,1988,2
-2002-07-31,Basic Materials,1814,6
-2002-07-31,Capital Goods,1832,16
-2002-07-31,Consumer,1822,4
-2002-07-31,Energy,2008,25
-2002-07-31,Finance,1975,12
-2002-07-31,Healthcare,1862,4
-2002-07-31,Technology,1949,5
-2002-07-31,Utilities,2025,6
-2002-08-31,Basic Materials,1897,9
-2002-08-31,Capital Goods,1776,10
-2002-08-31,Consumer,1843,5
-2002-08-31,Energy,1792,8
-2002-08-31,Finance,1839,1
-2002-08-31,Healthcare,1835,1
-2002-08-31,Technology,2111,3
-2002-08-31,Utilities,1927,6
-2002-09-30,Basic Materials,1687,6
-2002-09-30,Capital Goods,1807,12
-2002-09-30,Consumer,1723,8
-2002-09-30,Energy,1930,6
-2002-09-30,Finance,1845,9
-2002-09-30,Healthcare,1865,4
-2002-09-30,Technology,1881,9
-2002-09-30,Utilities,2063,3
-2002-10-31,Basic Materials,1750,8
-2002-10-31,Capital Goods,1815,7
-2002-10-31,Consumer,1789,5
-2002-10-31,Energy,1844,7
-2002-10-31,Finance,1905,9
-2002-10-31,Healthcare,2006,7
-2002-10-31,Technology,1935,6
-2002-10-31,Utilities,2003,3
-2002-11-30,Basic Materials,1706,6
-2002-11-30,Capital Goods,1806,8
-2002-11-30,Consumer,1789,5
-2002-11-30,Energy,1887,17
-2002-11-30,Finance,1822,14
-2002-11-30,Healthcare,1854,2
-2002-11-30,Technology,1882,11
-2002-11-30,Utilities,1880,3
-2002-12-31,Basic Materials,1618,12
-2002-12-31,Capital Goods,1755,19
-2002-12-31,Consumer,1905,3
-2002-12-31,Energy,1856,46
-2002-12-31,Finance,1966,5
-2002-12-31,Healthcare,1791,3
-2002-12-31,Technology,2074,1
-2002-12-31,Utilities,2032,2
-2003-01-31,Basic Materials,1686,9
-2003-01-31,Capital Goods,1717,11
-2003-01-31,Consumer,1867,10
-2003-01-31,Energy,1841,27
-2003-01-31,Finance,1868,16
-2003-01-31,Healthcare,1891,3
-2003-01-31,Technology,1960,5
-2003-01-31,Utilities,1992,1
-2003-02-28,Basic Materials,1661,8
-2003-02-28,Capital Goods,1613,7
-2003-02-28,Consumer,1995,10
-2003-02-28,Energy,1780,14
-2003-02-28,Finance,1891,14
-2003-02-28,Healthcare,1875,12
-2003-02-28,Technology,1958,11
-2003-02-28,Utilities,2026,14
-2003-03-31,Basic Materials,1730,19
-2003-03-31,Capital Goods,1673,11
-2003-03-31,Consumer,1852,4
-2003-03-31,Energy,1865,21
-2003-03-31,Finance,1871,28
-2003-03-31,Healthcare,1860,11
-2003-03-31,Technology,1933,8
-2003-03-31,Utilities,1966,4
-2003-04-30,Basic Materials,1754,15
-2003-04-30,Capital Goods,1599,18
-2003-04-30,Consumer,1727,7
-2003-04-30,Energy,1710,26
-2003-04-30,Finance,1789,23
-2003-04-30,Healthcare,1838,8
-2003-04-30,Technology,1792,7
-2003-04-30,Utilities,1991,11
-2003-05-31,Basic Materials,1803,9
-2003-05-31,Capital Goods,1706,9
-2003-05-31,Consumer,1671,3
-2003-05-31,Energy,1714,22
-2003-05-31,Finance,1795,30
-2003-05-31,Healthcare,1912,7
-2003-05-31,Technology,1861,4
-2003-05-31,Utilities,2056,14
-2003-06-30,Basic Materials,1591,9
-2003-06-30,Capital Goods,1725,22
-2003-06-30,Consumer,1713,5
-2003-06-30,Energy,1759,20
-2003-06-30,Finance,1611,22
-2003-06-30,Healthcare,1872,3
-2003-06-30,Technology,1886,6
-2003-06-30,Utilities,2026,7
-2003-07-31,Basic Materials,1667,12
-2003-07-31,Capital Goods,1641,6
-2003-07-31,Consumer,1801,6
-2003-07-31,Energy,1699,24
-2003-07-31,Finance,1762,25
-2003-07-31,Healthcare,1888,2
-2003-07-31,Technology,1957,4
-2003-07-31,Utilities,2084,8
-2003-08-31,Basic Materials,1636,8
-2003-08-31,Capital Goods,1806,5
-2003-08-31,Consumer,1677,5
-2003-08-31,Energy,1743,12
-2003-08-31,Finance,1827,10
-2003-08-31,Healthcare,1884,0
-2003-08-31,Technology,1920,5
-2003-08-31,Utilities,2011,7
-2003-09-30,Basic Materials,1599,2
-2003-09-30,Capital Goods,1549,7
-2003-09-30,Consumer,1682,1
-2003-09-30,Energy,1717,9
-2003-09-30,Finance,1777,7
-2003-09-30,Healthcare,1825,3
-2003-09-30,Technology,2036,2
-2003-09-30,Utilities,2073,3
-2003-10-31,Basic Materials,1710,12
-2003-10-31,Capital Goods,1730,10
-2003-10-31,Consumer,1692,3
-2003-10-31,Energy,1791,5
-2003-10-31,Finance,1868,10
-2003-10-31,Healthcare,2006,3
-2003-10-31,Technology,1834,4
-2003-10-31,Utilities,2078,1
-2003-11-30,Basic Materials,1668,4
-2003-11-30,Capital Goods,1781,6
-2003-11-30,Consumer,1620,1
-2003-11-30,Energy,1707,12
-2003-11-30,Finance,1726,5
-2003-11-30,Healthcare,1891,2
-2003-11-30,Technology,1972,3
-2003-11-30,Utilities,1932,0
-2003-12-31,Basic Materials,1754,8
-2003-12-31,Capital Goods,1607,5
-2003-12-31,Consumer,1696,5
-2003-12-31,Energy,1763,6
-2003-12-31,Finance,1828,15
-2003-12-31,Healthcare,1857,3
-2003-12-31,Technology,1871,2
-2003-12-31,Utilities,2098,3
-2004-01-31,Basic Materials,1481,4
-2004-01-31,Capital Goods,1449,6
-2004-01-31,Consumer,1772,2
-2004-01-31,Energy,1824,8
-2004-01-31,Finance,1785,10
-2004-01-31,Healthcare,1981,0
-2004-01-31,Technology,1975,3
-2004-01-31,Utilities,1997,9
-2004-02-29,Basic Materials,1490,3
-2004-02-29,Capital Goods,1629,4
-2004-02-29,Consumer,1637,3
-2004-02-29,Energy,1711,11
-2004-02-29,Finance,1776,7
-2004-02-29,Healthcare,1943,1
-2004-02-29,Technology,1972,1
-2004-02-29,Utilities,2070,13
-2004-03-31,Basic Materials,1626,6
-2004-03-31,Capital Goods,1586,8
-2004-03-31,Consumer,1730,6
-2004-03-31,Energy,1586,11
-2004-03-31,Finance,1806,10
-2004-03-31,Healthcare,1969,3
-2004-03-31,Technology,1881,5
-2004-03-31,Utilities,2005,5
-2004-04-30,Basic Materials,1513,5
-2004-04-30,Capital Goods,1641,8
-2004-04-30,Consumer,1659,5
-2004-04-30,Energy,1677,3
-2004-04-30,Finance,1862,7
-2004-04-30,Healthcare,1807,2
-2004-04-30,Technology,1821,2
-2004-04-30,Utilities,2134,7
-2004-05-31,Basic Materials,1554,6
-2004-05-31,Capital Goods,1653,3
-2004-05-31,Consumer,1729,4
-2004-05-31,Energy,1648,8
-2004-05-31,Finance,1656,16
-2004-05-31,Healthcare,1871,2
-2004-05-31,Technology,2062,5
-2004-05-31,Utilities,2051,3
-2004-06-30,Basic Materials,1591,6
-2004-06-30,Capital Goods,1647,12
-2004-06-30,Consumer,1744,6
-2004-06-30,Energy,1595,6
-2004-06-30,Finance,1817,7
-2004-06-30,Healthcare,1805,5
-2004-06-30,Technology,1911,2
-2004-06-30,Utilities,2143,1
-2004-07-31,Basic Materials,1484,5
-2004-07-31,Capital Goods,1648,12
-2004-07-31,Consumer,1706,3
-2004-07-31,Energy,1768,7
-2004-07-31,Finance,1605,11
-2004-07-31,Healthcare,1884,3
-2004-07-31,Technology,1828,3
-2004-07-31,Utilities,2090,4
-2004-08-31,Basic Materials,1495,3
-2004-08-31,Capital Goods,1505,8
-2004-08-31,Consumer,1732,5
-2004-08-31,Energy,1710,6
-2004-08-31,Finance,1682,13
-2004-08-31,Healthcare,1816,1
-2004-08-31,Technology,1842,1
-2004-08-31,Utilities,2068,4
-2004-09-30,Basic Materials,1568,1
-2004-09-30,Capital Goods,1545,6
-2004-09-30,Consumer,1635,8
-2004-09-30,Energy,1667,11
-2004-09-30,Finance,1800,17
-2004-09-30,Healthcare,1795,3
-2004-09-30,Technology,2010,6
-2004-09-30,Utilities,2086,6
-2004-10-31,Basic Materials,1543,3
-2004-10-31,Capital Goods,1627,8
-2004-10-31,Consumer,1604,1
-2004-10-31,Energy,1728,5
-2004-10-31,Finance,1761,3
-2004-10-31,Healthcare,2035,20
-2004-10-31,Technology,2106,12
-2004-10-31,Utilities,2046,7
-2004-11-30,Basic Materials,1673,6
-2004-11-30,Capital Goods,1596,5
-2004-11-30,Consumer,1582,9
-2004-11-30,Energy,1607,11
-2004-11-30,Finance,1668,13
-2004-11-30,Healthcare,1842,9
-2004-11-30,Technology,2029,9
-2004-11-30,Utilities,2183,4
-2004-12-31,Basic Materials,1490,3
-2004-12-31,Capital Goods,1559,12
-2004-12-31,Consumer,1629,6
-2004-12-31,Energy,1772,0
-2004-12-31,Finance,1725,8
-2004-12-31,Healthcare,1907,6
-2004-12-31,Technology,2041,8
-2004-12-31,Utilities,2060,5
-2005-01-31,Basic Materials,1500,1
-2005-01-31,Capital Goods,1678,9
-2005-01-31,Consumer,1589,3
-2005-01-31,Energy,1630,10
-2005-01-31,Finance,1699,5
-2005-01-31,Healthcare,1789,3
-2005-01-31,Technology,1991,9
-2005-01-31,Utilities,2087,1
-2005-02-28,Basic Materials,1458,2
-2005-02-28,Capital Goods,1509,3
-2005-02-28,Consumer,1532,2
-2005-02-28,Energy,1699,7
-2005-02-28,Finance,1746,12
-2005-02-28,Healthcare,1951,5
-2005-02-28,Technology,1992,12
-2005-02-28,Utilities,2188,6
-2005-03-31,Basic Materials,1449,1
-2005-03-31,Capital Goods,1718,9
-2005-03-31,Consumer,1630,6
-2005-03-31,Energy,1633,3
-2005-03-31,Finance,1755,10
-2005-03-31,Healthcare,1963,7
-2005-03-31,Technology,2098,6
-2005-03-31,Utilities,2206,2
-2005-04-30,Basic Materials,1431,1
-2005-04-30,Capital Goods,1534,3
-2005-04-30,Consumer,1583,5
-2005-04-30,Energy,1748,2
-2005-04-30,Finance,1809,7
-2005-04-30,Healthcare,1938,3
-2005-04-30,Technology,2054,6
-2005-04-30,Utilities,2129,4
-2005-05-31,Basic Materials,1481,2
-2005-05-31,Capital Goods,1584,3
-2005-05-31,Consumer,1633,4
-2005-05-31,Energy,1653,7
-2005-05-31,Finance,1904,6
-2005-05-31,Healthcare,1913,0
-2005-05-31,Technology,2058,5
-2005-05-31,Utilities,2220,2
-2005-06-30,Basic Materials,1372,2
-2005-06-30,Capital Goods,1542,4
-2005-06-30,Consumer,1573,0
-2005-06-30,Energy,1737,15
-2005-06-30,Finance,1828,3
-2005-06-30,Healthcare,1948,7
-2005-06-30,Technology,2054,3
-2005-06-30,Utilities,2181,6
-2005-07-31,Basic Materials,1495,1
-2005-07-31,Capital Goods,1619,5
-2005-07-31,Consumer,1512,4
-2005-07-31,Energy,1719,4
-2005-07-31,Finance,1885,11
-2005-07-31,Healthcare,1855,6
-2005-07-31,Technology,2093,2
-2005-07-31,Utilities,2233,3
-2005-08-31,Basic Materials,1470,7
-2005-08-31,Capital Goods,1513,5
-2005-08-31,Consumer,1607,6
-2005-08-31,Energy,1763,8
-2005-08-31,Finance,1840,6
-2005-08-31,Healthcare,2053,2
-2005-08-31,Technology,2012,8
-2005-08-31,Utilities,2291,4
-2005-09-30,Basic Materials,1518,5
-2005-09-30,Capital Goods,1512,8
-2005-09-30,Consumer,1638,4
-2005-09-30,Energy,1843,5
-2005-09-30,Finance,1859,14
-2005-09-30,Healthcare,1933,5
-2005-09-30,Technology,2013,11
-2005-09-30,Utilities,2416,4
-2005-10-31,Basic Materials,1459,6
-2005-10-31,Capital Goods,1559,5
-2005-10-31,Consumer,1549,2
-2005-10-31,Energy,1729,3
-2005-10-31,Finance,1776,8
-2005-10-31,Healthcare,2084,1
-2005-10-31,Technology,2233,6
-2005-10-31,Utilities,2250,3
-2005-11-30,Basic Materials,1306,7
-2005-11-30,Capital Goods,1601,1
-2005-11-30,Consumer,1706,2
-2005-11-30,Energy,1779,9
-2005-11-30,Finance,1862,11
-2005-11-30,Healthcare,2008,3
-2005-11-30,Technology,2112,7
-2005-11-30,Utilities,2152,4
-2005-12-31,Basic Materials,1563,5
-2005-12-31,Capital Goods,1449,5
-2005-12-31,Consumer,1608,3
-2005-12-31,Energy,1674,9
-2005-12-31,Finance,1949,5
-2005-12-31,Healthcare,1927,1
-2005-12-31,Technology,2202,3
-2005-12-31,Utilities,2175,8
-2006-01-31,Basic Materials,1504,4
-2006-01-31,Capital Goods,1508,4
-2006-01-31,Consumer,1680,5
-2006-01-31,Energy,1678,7
-2006-01-31,Finance,1846,5
-2006-01-31,Healthcare,2026,4
-2006-01-31,Technology,2253,8
-2006-01-31,Utilities,2208,4
-2006-02-28,Basic Materials,1411,3
-2006-02-28,Capital Goods,1518,5
-2006-02-28,Consumer,1737,3
-2006-02-28,Energy,1770,3
-2006-02-28,Finance,1936,5
-2006-02-28,Healthcare,2026,5
-2006-02-28,Technology,2136,1
-2006-02-28,Utilities,2321,6
-2006-03-31,Basic Materials,1548,2
-2006-03-31,Capital Goods,1528,4
-2006-03-31,Consumer,1731,5
-2006-03-31,Energy,1643,4
-2006-03-31,Finance,1939,5
-2006-03-31,Healthcare,2097,7
-2006-03-31,Technology,2233,2
-2006-03-31,Utilities,2373,3
-2006-04-30,Basic Materials,1430,4
-2006-04-30,Capital Goods,1591,6
-2006-04-30,Consumer,1548,5
-2006-04-30,Energy,1786,5
-2006-04-30,Finance,1874,9
-2006-04-30,Healthcare,1981,7
-2006-04-30,Technology,2142,3
-2006-04-30,Utilities,2273,3
-2006-05-31,Basic Materials,1477,6
-2006-05-31,Capital Goods,1521,4
-2006-05-31,Consumer,1652,3
-2006-05-31,Energy,1613,5
-2006-05-31,Finance,1946,6
-2006-05-31,Healthcare,1988,5
-2006-05-31,Technology,2145,4
-2006-05-31,Utilities,2429,3
-2006-06-30,Basic Materials,1477,6
-2006-06-30,Capital Goods,1580,7
-2006-06-30,Consumer,1616,5
-2006-06-30,Energy,1744,2
-2006-06-30,Finance,1992,5
-2006-06-30,Healthcare,1968,7
-2006-06-30,Technology,2206,2
-2006-06-30,Utilities,2444,4
-2006-07-31,Basic Materials,1504,3
-2006-07-31,Capital Goods,1621,4
-2006-07-31,Consumer,1707,2
-2006-07-31,Energy,1896,5
-2006-07-31,Finance,1769,4
-2006-07-31,Healthcare,2186,2
-2006-07-31,Technology,2275,2
-2006-07-31,Utilities,2210,6
-2006-08-31,Basic Materials,1508,3
-2006-08-31,Capital Goods,1534,3
-2006-08-31,Consumer,1740,3
-2006-08-31,Energy,1850,5
-2006-08-31,Finance,1971,5
-2006-08-31,Healthcare,2102,3
-2006-08-31,Technology,2120,1
-2006-08-31,Utilities,2335,4
-2006-09-30,Basic Materials,1488,3
-2006-09-30,Capital Goods,1543,6
-2006-09-30,Consumer,1696,2
-2006-09-30,Energy,1839,3
-2006-09-30,Finance,1822,4
-2006-09-30,Healthcare,2122,3
-2006-09-30,Technology,2298,6
-2006-09-30,Utilities,2416,7
-2006-10-31,Basic Materials,1435,4
-2006-10-31,Capital Goods,1629,1
-2006-10-31,Consumer,1679,5
-2006-10-31,Energy,1762,4
-2006-10-31,Finance,1978,6
-2006-10-31,Healthcare,2129,3
-2006-10-31,Technology,2258,7
-2006-10-31,Utilities,2298,3
-2006-11-30,Basic Materials,1497,1
-2006-11-30,Capital Goods,1666,8
-2006-11-30,Consumer,1709,1
-2006-11-30,Energy,1788,5
-2006-11-30,Finance,1961,6
-2006-11-30,Healthcare,2014,9
-2006-11-30,Technology,2143,5
-2006-11-30,Utilities,2398,5
-2006-12-31,Basic Materials,1511,4
-2006-12-31,Capital Goods,1685,1
-2006-12-31,Consumer,1626,4
-2006-12-31,Energy,1870,9
-2006-12-31,Finance,2039,12
-2006-12-31,Healthcare,2156,0
-2006-12-31,Technology,2183,7
-2006-12-31,Utilities,2246,1
-2007-01-31,Basic Materials,1438,3
-2007-01-31,Capital Goods,1692,11
-2007-01-31,Consumer,1727,4
-2007-01-31,Energy,1846,10
-2007-01-31,Finance,1944,8
-2007-01-31,Healthcare,2237,1
-2007-01-31,Technology,2123,3
-2007-01-31,Utilities,2460,2
-2007-02-28,Basic Materials,1462,4
-2007-02-28,Capital Goods,1638,7
-2007-02-28,Consumer,1695,6
-2007-02-28,Energy,1713,6
-2007-02-28,Finance,1850,10
-2007-02-28,Healthcare,2181,7
-2007-02-28,Technology,2299,6
-2007-02-28,Utilities,2402,7
-2007-03-31,Basic Materials,1467,10
-2007-03-31,Capital Goods,1732,11
-2007-03-31,Consumer,1757,4
-2007-03-31,Energy,1942,8
-2007-03-31,Finance,2168,13
-2007-03-31,Healthcare,2076,2
-2007-03-31,Technology,2259,5
-2007-03-31,Utilities,2363,3
-2007-04-30,Basic Materials,1560,5
-2007-04-30,Capital Goods,1651,11
-2007-04-30,Consumer,1806,2
-2007-04-30,Energy,1916,6
-2007-04-30,Finance,2079,7
-2007-04-30,Healthcare,2118,3
-2007-04-30,Technology,2276,4
-2007-04-30,Utilities,2386,5
-2007-05-31,Basic Materials,1621,9
-2007-05-31,Capital Goods,1594,6
-2007-05-31,Consumer,1678,1
-2007-05-31,Energy,1865,15
-2007-05-31,Finance,2024,13
-2007-05-31,Healthcare,2260,7
-2007-05-31,Technology,2208,10
-2007-05-31,Utilities,2162,4
-2007-06-30,Basic Materials,1353,4
-2007-06-30,Capital Goods,1632,4
-2007-06-30,Consumer,1888,5
-2007-06-30,Energy,1912,12
-2007-06-30,Finance,2085,17
-2007-06-30,Healthcare,2083,8
-2007-06-30,Technology,2241,8
-2007-06-30,Utilities,2302,5
-2007-07-31,Basic Materials,1604,4
-2007-07-31,Capital Goods,1705,8
-2007-07-31,Consumer,1846,6
-2007-07-31,Energy,1739,2
-2007-07-31,Finance,1991,15
-2007-07-31,Healthcare,2130,10
-2007-07-31,Technology,2260,13
-2007-07-31,Utilities,2286,2
-2007-08-31,Basic Materials,1588,5
-2007-08-31,Capital Goods,1721,7
-2007-08-31,Consumer,1777,9
-2007-08-31,Energy,1940,8
-2007-08-31,Finance,2154,10
-2007-08-31,Healthcare,2154,5
-2007-08-31,Technology,2197,6
-2007-08-31,Utilities,2429,4
-2007-09-30,Basic Materials,1584,1
-2007-09-30,Capital Goods,1646,4
-2007-09-30,Consumer,1784,3
-2007-09-30,Energy,1915,10
-2007-09-30,Finance,2016,15
-2007-09-30,Healthcare,2248,6
-2007-09-30,Technology,2313,2
-2007-09-30,Utilities,2306,8
-2007-10-31,Basic Materials,1641,8
-2007-10-31,Capital Goods,1666,7
-2007-10-31,Consumer,1862,5
-2007-10-31,Energy,1896,5
-2007-10-31,Finance,1983,14
-2007-10-31,Healthcare,2202,1
-2007-10-31,Technology,2122,6
-2007-10-31,Utilities,2233,5
-2007-11-30,Basic Materials,1586,3
-2007-11-30,Capital Goods,1749,7
-2007-11-30,Consumer,1787,4
-2007-11-30,Energy,2068,20
-2007-11-30,Finance,1984,11
-2007-11-30,Healthcare,2142,4
-2007-11-30,Technology,2225,6
-2007-11-30,Utilities,2249,4
-2007-12-31,Basic Materials,1737,3
-2007-12-31,Capital Goods,1759,7
-2007-12-31,Consumer,1785,6
-2007-12-31,Energy,1993,2
-2007-12-31,Finance,1991,6
-2007-12-31,Healthcare,2168,2
-2007-12-31,Technology,2255,5
-2007-12-31,Utilities,2472,7
-2008-01-31,Basic Materials,1570,2
-2008-01-31,Capital Goods,1698,8
-2008-01-31,Consumer,1890,8
-2008-01-31,Energy,1930,12
-2008-01-31,Finance,2084,17
-2008-01-31,Healthcare,2226,6
-2008-01-31,Technology,2308,5
-2008-01-31,Utilities,2342,6
-2008-02-29,Basic Materials,1675,5
-2008-02-29,Capital Goods,1793,10
-2008-02-29,Consumer,1855,6
-2008-02-29,Energy,1868,7
-2008-02-29,Finance,2150,17
-2008-02-29,Healthcare,2071,2
-2008-02-29,Technology,2291,6
-2008-02-29,Utilities,2249,5
-2008-03-31,Basic Materials,1659,5
-2008-03-31,Capital Goods,1729,2
-2008-03-31,Consumer,1740,6
-2008-03-31,Energy,2046,5
-2008-03-31,Finance,1920,8
-2008-03-31,Healthcare,2175,5
-2008-03-31,Technology,2082,1
-2008-03-31,Utilities,2181,8
-2008-04-30,Basic Materials,1624,7
-2008-04-30,Capital Goods,1804,5
-2008-04-30,Consumer,1848,8
-2008-04-30,Energy,2119,6
-2008-04-30,Finance,2116,6
-2008-04-30,Healthcare,2112,4
-2008-04-30,Technology,2258,9
-2008-04-30,Utilities,2291,10
-2008-05-31,Basic Materials,1682,10
-2008-05-31,Capital Goods,1824,13
-2008-05-31,Consumer,1868,7
-2008-05-31,Energy,1990,12
-2008-05-31,Finance,2107,15
-2008-05-31,Healthcare,2259,4
-2008-05-31,Technology,2258,5
-2008-05-31,Utilities,2241,2
-2008-06-30,Basic Materials,1816,5
-2008-06-30,Capital Goods,1669,3
-2008-06-30,Consumer,1895,3
-2008-06-30,Energy,1965,17
-2008-06-30,Finance,2117,6
-2008-06-30,Healthcare,2075,6
-2008-06-30,Technology,2076,1
-2008-06-30,Utilities,2295,4
-2008-07-31,Basic Materials,1631,1
-2008-07-31,Capital Goods,1705,1
-2008-07-31,Consumer,1996,4
-2008-07-31,Energy,1967,8
-2008-07-31,Finance,2081,5
-2008-07-31,Healthcare,2164,4
-2008-07-31,Technology,2170,4
-2008-07-31,Utilities,2264,4
-2008-08-31,Basic Materials,1581,5
-2008-08-31,Capital Goods,1785,5
-2008-08-31,Consumer,1867,3
-2008-08-31,Energy,1950,13
-2008-08-31,Finance,2060,13
-2008-08-31,Healthcare,2315,5
-2008-08-31,Technology,2189,4
-2008-08-31,Utilities,2191,7
-2008-09-30,Basic Materials,1887,4
-2008-09-30,Capital Goods,1730,5
-2008-09-30,Consumer,1864,6
-2008-09-30,Energy,1969,15
-2008-09-30,Finance,2008,19
-2008-09-30,Healthcare,2175,3
-2008-09-30,Technology,2211,6
-2008-09-30,Utilities,2191,5
-2008-10-31,Basic Materials,1625,7
-2008-10-31,Capital Goods,1705,3
-2008-10-31,Consumer,1788,4
-2008-10-31,Energy,2028,7
-2008-10-31,Finance,2124,11
-2008-10-31,Healthcare,2104,3
-2008-10-31,Technology,2211,3
-2008-10-31,Utilities,2294,9
-2008-11-30,Basic Materials,1753,5
-2008-11-30,Capital Goods,1756,4
-2008-11-30,Consumer,1886,3
-2008-11-30,Energy,2093,12
-2008-11-30,Finance,2034,8
-2008-11-30,Healthcare,2062,3
-2008-11-30,Technology,2183,5
-2008-11-30,Utilities,2219,2
-2008-12-31,Basic Materials,1602,5
-2008-12-31,Capital Goods,1991,6
-2008-12-31,Consumer,1906,3
-2008-12-31,Energy,2131,11
-2008-12-31,Finance,2077,7
-2008-12-31,Healthcare,2037,2
-2008-12-31,Technology,2112,2
-2008-12-31,Utilities,2239,7
-2009-01-31,Basic Materials,1689,3
-2009-01-31,Capital Goods,1733,2
-2009-01-31,Consumer,1966,5
-2009-01-31,Energy,1841,7
-2009-01-31,Finance,1966,9
-2009-01-31,Healthcare,2128,1
-2009-01-31,Technology,2103,3
-2009-01-31,Utilities,2360,3
-2009-02-28,Basic Materials,1799,2
-2009-02-28,Capital Goods,1797,3
-2009-02-28,Consumer,1891,3
-2009-02-28,Energy,1986,9
-2009-02-28,Finance,2097,9
-2009-02-28,Healthcare,2128,2
-2009-02-28,Technology,2151,2
-2009-02-28,Utilities,2138,2
-2009-03-31,Basic Materials,1669,3
-2009-03-31,Capital Goods,1853,7
-2009-03-31,Consumer,1898,5
-2009-03-31,Energy,2002,6
-2009-03-31,Finance,2089,9
-2009-03-31,Healthcare,1953,4
-2009-03-31,Technology,2112,7
-2009-03-31,Utilities,2123,4
-2009-04-30,Basic Materials,1824,3
-2009-04-30,Capital Goods,1645,6
-2009-04-30,Consumer,1888,6
-2009-04-30,Energy,1961,11
-2009-04-30,Finance,1893,10
-2009-04-30,Healthcare,2170,6
-2009-04-30,Technology,2050,3
-2009-04-30,Utilities,2089,9
-2009-05-31,Basic Materials,1755,1
-2009-05-31,Capital Goods,1890,6
-2009-05-31,Consumer,1956,4
-2009-05-31,Energy,1998,2
-2009-05-31,Finance,2047,12
-2009-05-31,Healthcare,2142,2
-2009-05-31,Technology,2161,6
-2009-05-31,Utilities,2105,8
-2009-06-30,Basic Materials,1768,6
-2009-06-30,Capital Goods,1681,11
-2009-06-30,Consumer,1877,7
-2009-06-30,Energy,2028,5
-2009-06-30,Finance,2073,17
-2009-06-30,Healthcare,2027,3
-2009-06-30,Technology,2076,5
-2009-06-30,Utilities,2111,3
-2009-07-31,Basic Materials,1626,3
-2009-07-31,Capital Goods,1901,2
-2009-07-31,Consumer,1862,1
-2009-07-31,Energy,1994,13
-2009-07-31,Finance,2052,10
-2009-07-31,Healthcare,1974,5
-2009-07-31,Technology,2150,4
-2009-07-31,Utilities,2068,7
-2009-08-31,Basic Materials,1721,1
-2009-08-31,Capital Goods,1748,11
-2009-08-31,Consumer,1810,7
-2009-08-31,Energy,1969,3
-2009-08-31,Finance,1964,12
-2009-08-31,Healthcare,2056,3
-2009-08-31,Technology,2033,3
-2009-08-31,Utilities,2114,4
-2009-09-30,Basic Materials,1825,10
-2009-09-30,Capital Goods,1853,9
-2009-09-30,Consumer,1700,7
-2009-09-30,Energy,2013,6
-2009-09-30,Finance,2111,20
-2009-09-30,Healthcare,1943,4
-2009-09-30,Technology,2125,6
-2009-09-30,Utilities,1952,7
-2009-10-31,Basic Materials,1659,5
-2009-10-31,Capital Goods,1730,7
-2009-10-31,Consumer,1887,4
-2009-10-31,Energy,1808,16
-2009-10-31,Finance,1963,7
-2009-10-31,Healthcare,1962,3
-2009-10-31,Technology,2222,7
-2009-10-31,Utilities,2089,6
-2009-11-30,Basic Materials,1746,10
-2009-11-30,Capital Goods,1736,6
-2009-11-30,Consumer,1842,6
-2009-11-30,Energy,1970,8
-2009-11-30,Finance,1900,14
-2009-11-30,Healthcare,1947,4
-2009-11-30,Technology,2112,3
-2009-11-30,Utilities,2018,3
-2009-12-31,Basic Materials,1767,7
-2009-12-31,Capital Goods,1765,5
-2009-12-31,Consumer,1818,9
-2009-12-31,Energy,1975,19
-2009-12-31,Finance,1976,4
-2009-12-31,Healthcare,2124,5
-2009-12-31,Technology,2062,6
-2009-12-31,Utilities,1968,4
-2010-01-31,Basic Materials,1739,8
-2010-01-31,Capital Goods,1847,9
-2010-01-31,Consumer,1842,2
-2010-01-31,Energy,1841,11
-2010-01-31,Finance,1976,9
-2010-01-31,Healthcare,2013,4
-2010-01-31,Technology,2055,5
-2010-01-31,Utilities,1956,2
-2010-02-28,Basic Materials,1603,4
-2010-02-28,Capital Goods,1874,11
-2010-02-28,Consumer,1872,4
-2010-02-28,Energy,1969,17
-2010-02-28,Finance,1966,14
-2010-02-28,Healthcare,1946,5
-2010-02-28,Technology,2031,12
-2010-02-28,Utilities,1996,3
-2010-03-31,Basic Materials,1925,6
-2010-03-31,Capital Goods,1777,10
-2010-03-31,Consumer,1999,2
-2010-03-31,Energy,1855,6
-2010-03-31,Finance,2083,10
-2010-03-31,Healthcare,1920,1
-2010-03-31,Technology,2093,8
-2010-03-31,Utilities,1996,3
-2010-04-30,Basic Materials,1791,5
-2010-04-30,Capital Goods,1836,5
-2010-04-30,Consumer,1751,3
-2010-04-30,Energy,1843,8
-2010-04-30,Finance,1862,14
-2010-04-30,Healthcare,2034,4
-2010-04-30,Technology,2048,6
-2010-04-30,Utilities,2005,5
-2010-05-31,Basic Materials,1618,11
-2010-05-31,Capital Goods,1638,9
-2010-05-31,Consumer,1863,6
-2010-05-31,Energy,1832,8
-2010-05-31,Finance,1841,12
-2010-05-31,Healthcare,1992,5
-2010-05-31,Technology,2038,5
-2010-05-31,Utilities,2069,4
-2010-06-30,Basic Materials,1782,5
-2010-06-30,Capital Goods,1700,7
-2010-06-30,Consumer,1713,5
-2010-06-30,Energy,1799,2
-2010-06-30,Finance,1836,5
-2010-06-30,Healthcare,2008,3
-2010-06-30,Technology,2009,3
-2010-06-30,Utilities,2049,0
-2010-07-31,Basic Materials,1659,3
-2010-07-31,Capital Goods,1817,11
-2010-07-31,Consumer,1909,4
-2010-07-31,Energy,1961,5
-2010-07-31,Finance,1975,8
-2010-07-31,Healthcare,1954,3
-2010-07-31,Technology,1897,4
-2010-07-31,Utilities,1937,0
-2010-08-31,Basic Materials,1647,6
-2010-08-31,Capital Goods,1809,5
-2010-08-31,Consumer,1818,5
-2010-08-31,Energy,1939,7
-2010-08-31,Finance,1960,15
-2010-08-31,Healthcare,1897,4
-2010-08-31,Technology,1839,0
-2010-08-31,Utilities,2006,2
-2010-09-30,Basic Materials,1849,8
-2010-09-30,Capital Goods,1774,5
-2010-09-30,Consumer,1777,4
-2010-09-30,Energy,1911,5
-2010-09-30,Finance,1914,9
-2010-09-30,Healthcare,1872,3
-2010-09-30,Technology,2000,7
-2010-09-30,Utilities,2068,5
-2010-10-31,Basic Materials,1723,7
-2010-10-31,Capital Goods,1802,6
-2010-10-31,Consumer,1802,6
-2010-10-31,Energy,1826,5
-2010-10-31,Finance,1875,9
-2010-10-31,Healthcare,1967,5
-2010-10-31,Technology,1925,6
-2010-10-31,Utilities,2134,3
-2010-11-30,Basic Materials,1627,5
-2010-11-30,Capital Goods,1761,11
-2010-11-30,Consumer,1816,7
-2010-11-30,Energy,1851,7
-2010-11-30,Finance,1895,18
-2010-11-30,Healthcare,1913,5
-2010-11-30,Technology,1906,5
-2010-11-30,Utilities,1988,2
-2010-12-31,Basic Materials,1733,8
-2010-12-31,Capital Goods,1773,2
-2010-12-31,Consumer,1686,6
-2010-12-31,Energy,1778,2
-2010-12-31,Finance,1959,14
-2010-12-31,Healthcare,1926,10
-2010-12-31,Technology,1952,2
-2010-12-31,Utilities,2048,3
-2011-01-31,Basic Materials,1666,7
-2011-01-31,Capital Goods,1655,7
-2011-01-31,Consumer,1771,8
-2011-01-31,Energy,1779,5
-2011-01-31,Finance,1938,9
-2011-01-31,Healthcare,1983,4
-2011-01-31,Technology,1928,10
-2011-01-31,Utilities,2003,5
-2011-02-28,Basic Materials,1680,5
-2011-02-28,Capital Goods,1796,6
-2011-02-28,Consumer,1765,12
-2011-02-28,Energy,1749,14
-2011-02-28,Finance,1861,12
-2011-02-28,Healthcare,1871,1
-2011-02-28,Technology,1731,6
-2011-02-28,Utilities,1827,4
-2011-03-31,Basic Materials,1770,16
-2011-03-31,Capital Goods,1747,7
-2011-03-31,Consumer,1676,10
-2011-03-31,Energy,1793,3
-2011-03-31,Finance,1861,10
-2011-03-31,Healthcare,1935,6
-2011-03-31,Technology,1971,4
-2011-03-31,Utilities,2006,5
-2011-04-30,Basic Materials,1714,6
-2011-04-30,Capital Goods,1697,2
-2011-04-30,Consumer,1700,2
-2011-04-30,Energy,1764,5
-2011-04-30,Finance,1813,11
-2011-04-30,Healthcare,1752,3
-2011-04-30,Technology,1898,6
-2011-04-30,Utilities,2011,5
-2011-05-31,Basic Materials,1526,2
-2011-05-31,Capital Goods,1744,13
-2011-05-31,Consumer,1631,5
-2011-05-31,Energy,1729,7
-2011-05-31,Finance,1850,10
-2011-05-31,Healthcare,1636,2
-2011-05-31,Technology,1947,4
-2011-05-31,Utilities,1966,3
-2011-06-30,Basic Materials,1675,5
-2011-06-30,Capital Goods,1784,5
-2011-06-30,Consumer,1663,1
-2011-06-30,Energy,1801,7
-2011-06-30,Finance,1825,9
-2011-06-30,Healthcare,1895,4
-2011-06-30,Technology,1970,9
-2011-06-30,Utilities,2009,6
-2011-07-31,Basic Materials,1504,2
-2011-07-31,Capital Goods,1643,4
-2011-07-31,Consumer,1741,3
-2011-07-31,Energy,1810,7
-2011-07-31,Finance,1814,9
-2011-07-31,Healthcare,1778,0
-2011-07-31,Technology,1949,1
-2011-07-31,Utilities,1952,7
-2011-08-31,Basic Materials,1718,3
-2011-08-31,Capital Goods,1770,4
-2011-08-31,Consumer,1719,3
-2011-08-31,Energy,1691,5
-2011-08-31,Finance,1765,9
-2011-08-31,Healthcare,1912,2
-2011-08-31,Technology,1906,6
-2011-08-31,Utilities,1893,3
-2011-09-30,Basic Materials,1581,4
-2011-09-30,Capital Goods,1604,2
-2011-09-30,Consumer,1662,2
-2011-09-30,Energy,1757,4
-2011-09-30,Finance,1866,6
-2011-09-30,Healthcare,1742,2
-2011-09-30,Technology,2033,3
-2011-09-30,Utilities,2028,6
-2011-10-31,Basic Materials,1571,1
-2011-10-31,Capital Goods,1618,5
-2011-10-31,Consumer,1669,4
-2011-10-31,Energy,1576,4
-2011-10-31,Finance,1840,2
-2011-10-31,Healthcare,1756,4
-2011-10-31,Technology,1957,3
-2011-10-31,Utilities,2160,1
-2011-11-30,Basic Materials,1558,8
-2011-11-30,Capital Goods,1761,11
-2011-11-30,Consumer,1694,1
-2011-11-30,Energy,1699,6
-2011-11-30,Finance,1746,8
-2011-11-30,Healthcare,1849,4
-2011-11-30,Technology,1814,1
-2011-11-30,Utilities,2025,2
-2011-12-31,Basic Materials,1623,11
-2011-12-31,Capital Goods,1691,3
-2011-12-31,Consumer,1717,4
-2011-12-31,Energy,1944,9
-2011-12-31,Finance,1691,7
-2011-12-31,Healthcare,1823,3
-2011-12-31,Technology,1913,0
-2011-12-31,Utilities,2042,2
-2012-01-31,Basic Materials,1549,2
-2012-01-31,Capital Goods,1627,2
-2012-01-31,Consumer,1681,4
-2012-01-31,Energy,1718,7
-2012-01-31,Finance,1675,6
-2012-01-31,Healthcare,1940,5
-2012-01-31,Technology,1953,3
-2012-01-31,Utilities,2083,6
-2012-02-29,Basic Materials,1552,9
-2012-02-29,Capital Goods,1587,6
-2012-02-29,Consumer,1740,10
-2012-02-29,Energy,1742,8
-2012-02-29,Finance,1716,2
-2012-02-29,Healthcare,1819,2
-2012-02-29,Technology,1944,6
-2012-02-29,Utilities,2083,0
-2012-03-31,Basic Materials,1491,3
-2012-03-31,Capital Goods,1651,8
-2012-03-31,Consumer,1652,6
-2012-03-31,Energy,1641,9
-2012-03-31,Finance,1779,12
-2012-03-31,Healthcare,1705,5
-2012-03-31,Technology,1917,3
-2012-03-31,Utilities,1976,6
-2012-04-30,Basic Materials,1612,8
-2012-04-30,Capital Goods,1708,9
-2012-04-30,Consumer,1680,6
-2012-04-30,Energy,1739,8
-2012-04-30,Finance,1840,2
-2012-04-30,Healthcare,1832,2
-2012-04-30,Technology,1997,11
-2012-04-30,Utilities,2017,7
-2012-05-31,Basic Materials,1552,4
-2012-05-31,Capital Goods,1637,6
-2012-05-31,Consumer,1563,2
-2012-05-31,Energy,1734,5
-2012-05-31,Finance,1724,3
-2012-05-31,Healthcare,1776,4
-2012-05-31,Technology,1998,4
-2012-05-31,Utilities,2148,4
-2012-06-30,Basic Materials,1537,4
-2012-06-30,Capital Goods,1627,9
-2012-06-30,Consumer,1610,6
-2012-06-30,Energy,1768,7
-2012-06-30,Finance,1771,4
-2012-06-30,Healthcare,1845,6
-2012-06-30,Technology,1958,7
-2012-06-30,Utilities,2093,5
-2012-07-31,Basic Materials,1616,12
-2012-07-31,Capital Goods,1624,6
-2012-07-31,Consumer,1665,8
-2012-07-31,Energy,1778,12
-2012-07-31,Finance,1833,22
-2012-07-31,Healthcare,1796,5
-2012-07-31,Technology,2016,4
-2012-07-31,Utilities,2062,2
-2012-08-31,Basic Materials,1380,5
-2012-08-31,Capital Goods,1604,5
-2012-08-31,Consumer,1633,2
-2012-08-31,Energy,1595,11
-2012-08-31,Finance,1691,12
-2012-08-31,Healthcare,1860,5
-2012-08-31,Technology,1962,6
-2012-08-31,Utilities,2078,4
-2012-09-30,Basic Materials,1618,3
-2012-09-30,Capital Goods,1589,7
-2012-09-30,Consumer,1699,3
-2012-09-30,Energy,1792,11
-2012-09-30,Finance,1792,13
-2012-09-30,Healthcare,1896,5
-2012-09-30,Technology,1984,4
-2012-09-30,Utilities,2105,7
-2012-10-31,Basic Materials,1585,4
-2012-10-31,Capital Goods,1523,3
-2012-10-31,Consumer,1788,3
-2012-10-31,Energy,1651,9
-2012-10-31,Finance,1808,3
-2012-10-31,Healthcare,1793,3
-2012-10-31,Technology,2111,5
-2012-10-31,Utilities,2218,6
-2012-11-30,Basic Materials,1558,8
-2012-11-30,Capital Goods,1600,11
-2012-11-30,Consumer,1565,2
-2012-11-30,Energy,1612,5
-2012-11-30,Finance,1638,9
-2012-11-30,Healthcare,1917,3
-2012-11-30,Technology,2014,15
-2012-11-30,Utilities,2177,6
-2012-12-31,Basic Materials,1556,3
-2012-12-31,Capital Goods,1550,7
-2012-12-31,Consumer,1531,4
-2012-12-31,Energy,1704,4
-2012-12-31,Finance,1761,13
-2012-12-31,Healthcare,1858,5
-2012-12-31,Technology,1943,2
-2012-12-31,Utilities,2113,5
-2013-01-31,Basic Materials,1502,12
-2013-01-31,Capital Goods,1576,8
-2013-01-31,Consumer,1584,4
-2013-01-31,Energy,1804,17
-2013-01-31,Finance,1715,19
-2013-01-31,Healthcare,1963,5
-2013-01-31,Technology,2023,13
-2013-01-31,Utilities,2024,6
-2013-02-28,Basic Materials,1507,6
-2013-02-28,Capital Goods,1538,4
-2013-02-28,Consumer,1784,2
-2013-02-28,Energy,1821,19
-2013-02-28,Finance,1922,23
-2013-02-28,Healthcare,1876,14
-2013-02-28,Technology,2023,3
-2013-02-28,Utilities,2229,6
-2013-03-31,Basic Materials,1405,3
-2013-03-31,Capital Goods,1557,3
-2013-03-31,Consumer,1647,1
-2013-03-31,Energy,1645,6
-2013-03-31,Finance,1772,13
-2013-03-31,Healthcare,2009,4
-2013-03-31,Technology,2102,6
-2013-03-31,Utilities,2207,6
-2013-04-30,Basic Materials,1592,10
-2013-04-30,Capital Goods,1529,18
-2013-04-30,Consumer,1588,3
-2013-04-30,Energy,1808,25
-2013-04-30,Finance,1857,10
-2013-04-30,Healthcare,1847,5
-2013-04-30,Technology,2017,8
-2013-04-30,Utilities,2138,4
-2013-05-31,Basic Materials,1521,11
-2013-05-31,Capital Goods,1584,6
-2013-05-31,Consumer,1739,7
-2013-05-31,Energy,1754,11
-2013-05-31,Finance,1681,6
-2013-05-31,Healthcare,1885,7
-2013-05-31,Technology,2124,7
-2013-05-31,Utilities,2274,6
-2013-06-30,Basic Materials,1457,5
-2013-06-30,Capital Goods,1638,5
-2013-06-30,Consumer,1658,4
-2013-06-30,Energy,1705,14
-2013-06-30,Finance,1797,10
-2013-06-30,Healthcare,1928,4
-2013-06-30,Technology,1977,2
-2013-06-30,Utilities,2248,5
-2013-07-31,Basic Materials,1482,10
-2013-07-31,Capital Goods,1533,8
-2013-07-31,Consumer,1635,7
-2013-07-31,Energy,1714,15
-2013-07-31,Finance,1929,11
-2013-07-31,Healthcare,2022,10
-2013-07-31,Technology,2069,3
-2013-07-31,Utilities,2316,5
-2013-08-31,Basic Materials,1589,5
-2013-08-31,Capital Goods,1516,5
-2013-08-31,Consumer,1666,4
-2013-08-31,Energy,1796,11
-2013-08-31,Finance,1965,20
-2013-08-31,Healthcare,1844,2
-2013-08-31,Technology,2077,2
-2013-08-31,Utilities,2078,8
-2013-09-30,Basic Materials,1616,2
-2013-09-30,Capital Goods,1533,6
-2013-09-30,Consumer,1598,2
-2013-09-30,Energy,1770,10
-2013-09-30,Finance,1898,17
-2013-09-30,Healthcare,1985,5
-2013-09-30,Technology,2105,7
-2013-09-30,Utilities,2297,3
-2013-10-31,Basic Materials,1412,5
-2013-10-31,Capital Goods,1548,9
-2013-10-31,Consumer,1688,10
-2013-10-31,Energy,1702,6
-2013-10-31,Finance,1894,18
-2013-10-31,Healthcare,1978,10
-2013-10-31,Technology,2165,10
-2013-10-31,Utilities,2250,9
-2013-11-30,Basic Materials,1487,4
-2013-11-30,Capital Goods,1635,8
-2013-11-30,Consumer,1569,1
-2013-11-30,Energy,1910,5
-2013-11-30,Finance,1755,19
-2013-11-30,Healthcare,2018,9
-2013-11-30,Technology,2127,3
-2013-11-30,Utilities,2255,1
-2013-12-31,Basic Materials,1388,6
-2013-12-31,Capital Goods,1487,7
-2013-12-31,Consumer,1618,8
-2013-12-31,Energy,1873,20
-2013-12-31,Finance,1898,9
-2013-12-31,Healthcare,1982,2
-2013-12-31,Technology,2153,5
-2013-12-31,Utilities,2194,4
-2014-01-31,Basic Materials,1466,3
-2014-01-31,Capital Goods,1605,14
-2014-01-31,Consumer,1674,2
-2014-01-31,Energy,1701,5
-2014-01-31,Finance,1928,15
-2014-01-31,Healthcare,2010,6
-2014-01-31,Technology,2161,4
-2014-01-31,Utilities,2236,5
-2014-02-28,Basic Materials,1493,5
-2014-02-28,Capital Goods,1636,4
-2014-02-28,Consumer,1714,5
-2014-02-28,Energy,1786,9
-2014-02-28,Finance,1846,10
-2014-02-28,Healthcare,2033,1
-2014-02-28,Technology,2032,7
-2014-02-28,Utilities,2403,4
-2014-03-31,Basic Materials,1428,4
-2014-03-31,Capital Goods,1583,5
-2014-03-31,Consumer,1779,10
-2014-03-31,Energy,1728,12
-2014-03-31,Finance,2016,26
-2014-03-31,Healthcare,2030,4
-2014-03-31,Technology,2094,6
-2014-03-31,Utilities,2363,6
-2014-04-30,Basic Materials,1520,3
-2014-04-30,Capital Goods,1549,6
-2014-04-30,Consumer,1617,1
-2014-04-30,Energy,1868,33
-2014-04-30,Finance,1812,5
-2014-04-30,Healthcare,2024,12
-2014-04-30,Technology,2328,3
-2014-04-30,Utilities,2236,4
-2014-05-31,Basic Materials,1439,6
-2014-05-31,Capital Goods,1588,9
-2014-05-31,Consumer,1615,6
-2014-05-31,Energy,1784,12
-2014-05-31,Finance,1890,11
-2014-05-31,Healthcare,1987,5
-2014-05-31,Technology,2267,4
-2014-05-31,Utilities,2356,5
-2014-06-30,Basic Materials,1570,6
-2014-06-30,Capital Goods,1715,16
-2014-06-30,Consumer,1663,6
-2014-06-30,Energy,1914,15
-2014-06-30,Finance,1994,15
-2014-06-30,Healthcare,2088,2
-2014-06-30,Technology,2105,2
-2014-06-30,Utilities,2254,4
-2014-07-31,Basic Materials,1514,3
-2014-07-31,Capital Goods,1407,11
-2014-07-31,Consumer,1519,8
-2014-07-31,Energy,1885,10
-2014-07-31,Finance,1887,20
-2014-07-31,Healthcare,2098,4
-2014-07-31,Technology,2110,1
-2014-07-31,Utilities,2293,4
-2014-08-31,Basic Materials,1532,7
-2014-08-31,Capital Goods,1717,5
-2014-08-31,Consumer,1619,3
-2014-08-31,Energy,1815,10
-2014-08-31,Finance,1921,10
-2014-08-31,Healthcare,2183,1
-2014-08-31,Technology,2158,4
-2014-08-31,Utilities,2298,5
-2014-09-30,Basic Materials,1393,4
-2014-09-30,Capital Goods,1656,15
-2014-09-30,Consumer,1736,5
-2014-09-30,Energy,1781,13
-2014-09-30,Finance,2074,15
-2014-09-30,Healthcare,2154,6
-2014-09-30,Technology,2160,5
-2014-09-30,Utilities,2447,3
-2014-10-31,Basic Materials,1550,9
-2014-10-31,Capital Goods,1591,7
-2014-10-31,Consumer,1896,4
-2014-10-31,Energy,1868,17
-2014-10-31,Finance,1982,25
-2014-10-31,Healthcare,2146,2
-2014-10-31,Technology,2209,10
-2014-10-31,Utilities,2348,3
-2014-11-30,Basic Materials,1425,4
-2014-11-30,Capital Goods,1650,14
-2014-11-30,Consumer,1721,7
-2014-11-30,Energy,1812,12
-2014-11-30,Finance,1930,13
-2014-11-30,Healthcare,2049,3
-2014-11-30,Technology,2134,4
-2014-11-30,Utilities,2400,4
-2014-12-31,Basic Materials,1591,10
-2014-12-31,Capital Goods,1707,10
-2014-12-31,Consumer,1837,9
-2014-12-31,Energy,1929,14
-2014-12-31,Finance,2019,19
-2014-12-31,Healthcare,2098,9
-2014-12-31,Technology,2203,6
-2014-12-31,Utilities,2270,7
-2015-01-31,Basic Materials,1505,8
-2015-01-31,Capital Goods,1679,4
-2015-01-31,Consumer,1701,7
-2015-01-31,Energy,1924,12
-2015-01-31,Finance,2027,14
-2015-01-31,Healthcare,1986,11
-2015-01-31,Technology,2220,11
-2015-01-31,Utilities,2226,4
-2015-02-28,Basic Materials,1522,5
-2015-02-28,Capital Goods,1559,12
-2015-02-28,Consumer,1725,10
-2015-02-28,Energy,1868,11
-2015-02-28,Finance,1925,13
-2015-02-28,Healthcare,2134,5
-2015-02-28,Technology,2240,4
-2015-02-28,Utilities,2374,15
-2015-03-31,Basic Materials,1517,5
-2015-03-31,Capital Goods,1537,9
-2015-03-31,Consumer,1924,0
-2015-03-31,Energy,1930,13
-2015-03-31,Finance,2047,12
-2015-03-31,Healthcare,2073,5
-2015-03-31,Technology,2342,12
-2015-03-31,Utilities,2263,10
-2015-04-30,Basic Materials,1582,5
-2015-04-30,Capital Goods,1727,13
-2015-04-30,Consumer,1783,6
-2015-04-30,Energy,1994,15
-2015-04-30,Finance,1979,12
-2015-04-30,Healthcare,2278,19
-2015-04-30,Technology,2292,16
-2015-04-30,Utilities,2299,9
-2015-05-31,Basic Materials,1573,4
-2015-05-31,Capital Goods,1613,10
-2015-05-31,Consumer,1662,3
-2015-05-31,Energy,1890,10
-2015-05-31,Finance,2062,12
-2015-05-31,Healthcare,2173,3
-2015-05-31,Technology,2236,9
-2015-05-31,Utilities,2319,8
-2015-06-30,Basic Materials,1535,3
-2015-06-30,Capital Goods,1670,5
-2015-06-30,Consumer,1802,15
-2015-06-30,Energy,1828,9
-2015-06-30,Finance,2075,17
-2015-06-30,Healthcare,2201,5
-2015-06-30,Technology,2230,12
-2015-06-30,Utilities,2291,4
-2015-07-31,Basic Materials,1504,2
-2015-07-31,Capital Goods,1794,7
-2015-07-31,Consumer,1870,7
-2015-07-31,Energy,1949,10
-2015-07-31,Finance,2141,14
-2015-07-31,Healthcare,2146,9
-2015-07-31,Technology,2202,6
-2015-07-31,Utilities,2239,5
-2015-08-31,Basic Materials,1621,1
-2015-08-31,Capital Goods,1633,3
-2015-08-31,Consumer,1794,6
-2015-08-31,Energy,1961,5
-2015-08-31,Finance,2036,7
-2015-08-31,Healthcare,2254,6
-2015-08-31,Technology,2226,13
-2015-08-31,Utilities,2210,5
-2015-09-30,Basic Materials,1659,7
-2015-09-30,Capital Goods,1689,7
-2015-09-30,Consumer,1889,5
-2015-09-30,Energy,1893,7
-2015-09-30,Finance,2027,10
-2015-09-30,Healthcare,2111,3
-2015-09-30,Technology,2104,8
-2015-09-30,Utilities,2393,8
-2015-10-31,Basic Materials,1794,9
-2015-10-31,Capital Goods,1842,7
-2015-10-31,Consumer,1779,5
-2015-10-31,Energy,1767,21
-2015-10-31,Finance,1968,24
-2015-10-31,Healthcare,2069,6
-2015-10-31,Technology,2242,8
-2015-10-31,Utilities,2309,5
-2015-11-30,Basic Materials,1599,7
-2015-11-30,Capital Goods,1568,5
-2015-11-30,Consumer,1902,9
-2015-11-30,Energy,1976,7
-2015-11-30,Finance,2058,14
-2015-11-30,Healthcare,2037,6
-2015-11-30,Technology,2256,14
-2015-11-30,Utilities,2248,6
-2015-12-31,Basic Materials,1609,8
-2015-12-31,Capital Goods,1654,10
-2015-12-31,Consumer,1711,10
-2015-12-31,Energy,1970,14
-2015-12-31,Finance,1859,17
-2015-12-31,Healthcare,2256,3
-2015-12-31,Technology,2402,9
-2015-12-31,Utilities,2276,5
-2016-01-31,Basic Materials,1541,10
-2016-01-31,Capital Goods,1705,12
-2016-01-31,Consumer,1822,3
-2016-01-31,Energy,2004,9
-2016-01-31,Finance,2041,19
-2016-01-31,Healthcare,2235,9
-2016-01-31,Technology,2286,14
-2016-01-31,Utilities,2278,5
-2016-02-29,Basic Materials,1671,4
-2016-02-29,Capital Goods,1711,6
-2016-02-29,Consumer,1886,7
-2016-02-29,Energy,1854,5
-2016-02-29,Finance,2044,20
-2016-02-29,Healthcare,2213,5
-2016-02-29,Technology,2147,14
-2016-02-29,Utilities,2333,3
-2016-03-31,Basic Materials,1568,7
-2016-03-31,Capital Goods,1753,8
-2016-03-31,Consumer,1678,5
-2016-03-31,Energy,1889,15
-2016-03-31,Finance,1918,16
-2016-03-31,Healthcare,2147,10
-2016-03-31,Technology,2172,11
-2016-03-31,Utilities,2299,3
-2016-04-30,Basic Materials,1698,8
-2016-04-30,Capital Goods,1763,6
-2016-04-30,Consumer,1912,6
-2016-04-30,Energy,1894,15
-2016-04-30,Finance,2177,15
-2016-04-30,Healthcare,2182,3
-2016-04-30,Technology,2165,4
-2016-04-30,Utilities,2438,4
-2016-05-31,Basic Materials,1532,2
-2016-05-31,Capital Goods,1783,10
-2016-05-31,Consumer,1889,5
-2016-05-31,Energy,2112,4
-2016-05-31,Finance,2092,7
-2016-05-31,Healthcare,2077,9
-2016-05-31,Technology,2220,2
-2016-05-31,Utilities,2087,4
-2016-06-30,Basic Materials,1696,4
-2016-06-30,Capital Goods,1827,3
-2016-06-30,Consumer,1862,2
-2016-06-30,Energy,1929,3
-2016-06-30,Finance,2154,5
-2016-06-30,Healthcare,2065,5
-2016-06-30,Technology,2271,4
-2016-06-30,Utilities,2316,11
-2016-07-31,Basic Materials,1734,3
-2016-07-31,Capital Goods,1847,3
-2016-07-31,Consumer,1768,4
-2016-07-31,Energy,1987,1
-2016-07-31,Finance,2157,5
-2016-07-31,Healthcare,2114,5
-2016-07-31,Technology,2194,2
-2016-07-31,Utilities,2038,4
-2016-08-31,Basic Materials,1749,3
-2016-08-31,Capital Goods,1663,7
-2016-08-31,Consumer,1962,3
-2016-08-31,Energy,1989,7
-2016-08-31,Finance,2009,13
-2016-08-31,Healthcare,2204,2
-2016-08-31,Technology,2242,5
-2016-08-31,Utilities,2104,2
-2016-09-30,Basic Materials,1530,3
-2016-09-30,Capital Goods,1697,2
-2016-09-30,Consumer,2007,0
-2016-09-30,Energy,1908,6
-2016-09-30,Finance,2110,9
-2016-09-30,Healthcare,2008,6
-2016-09-30,Technology,2148,4
-2016-09-30,Utilities,2237,3
-2016-10-31,Basic Materials,1629,5
-2016-10-31,Capital Goods,1792,7
-2016-10-31,Consumer,1943,3
-2016-10-31,Energy,1999,5
-2016-10-31,Finance,2031,4
-2016-10-31,Healthcare,2140,8
-2016-10-31,Technology,2095,4
-2016-10-31,Utilities,2161,4
-2016-11-30,Basic Materials,1646,2
-2016-11-30,Capital Goods,1602,1
-2016-11-30,Consumer,1766,6
-2016-11-30,Energy,2025,1
-2016-11-30,Finance,2031,4
-2016-11-30,Healthcare,2068,3
-2016-11-30,Technology,2196,9
-2016-11-30,Utilities,2273,5
-2016-12-31,Basic Materials,1601,2
-2016-12-31,Capital Goods,1810,0
-2016-12-31,Consumer,2007,10
-2016-12-31,Energy,1998,3
-2016-12-31,Finance,2123,6
-2016-12-31,Healthcare,2150,2
-2016-12-31,Technology,2113,1
-2016-12-31,Utilities,2276,1
-2017-01-31,Basic Materials,1835,6
-2017-01-31,Capital Goods,1768,2
-2017-01-31,Consumer,2001,6
-2017-01-31,Energy,1889,3
-2017-01-31,Finance,2081,6
-2017-01-31,Healthcare,2125,3
-2017-01-31,Technology,2250,3
-2017-01-31,Utilities,2154,3
-2017-02-28,Basic Materials,1699,3
-2017-02-28,Capital Goods,1895,0
-2017-02-28,Consumer,2104,4
-2017-02-28,Energy,2117,2
-2017-02-28,Finance,2047,10
-2017-02-28,Healthcare,2097,5
-2017-02-28,Technology,2060,3
-2017-02-28,Utilities,2192,10
-2017-03-31,Basic Materials,1727,5
-2017-03-31,Capital Goods,1722,4
-2017-03-31,Consumer,1854,4
-2017-03-31,Energy,2035,5
-2017-03-31,Finance,1925,4
-2017-03-31,Healthcare,2117,7
-2017-03-31,Technology,2155,9
-2017-03-31,Utilities,2190,4
-2017-04-30,Basic Materials,1832,6
-2017-04-30,Capital Goods,1904,6
-2017-04-30,Consumer,1872,2
-2017-04-30,Energy,2030,2
-2017-04-30,Finance,2099,5
-2017-04-30,Healthcare,2128,4
-2017-04-30,Technology,2132,5
-2017-04-30,Utilities,2058,4
-2017-05-31,Basic Materials,1709,9
-2017-05-31,Capital Goods,1859,7
-2017-05-31,Consumer,1794,2
-2017-05-31,Energy,2065,11
-2017-05-31,Finance,2013,8
-2017-05-31,Healthcare,1954,3
-2017-05-31,Technology,2237,10
-2017-05-31,Utilities,2281,6
-2017-06-30,Basic Materials,1680,6
-2017-06-30,Capital Goods,1802,3
-2017-06-30,Consumer,2027,3
-2017-06-30,Energy,2034,9
-2017-06-30,Finance,1961,12
-2017-06-30,Healthcare,2094,2
-2017-06-30,Technology,2132,5
-2017-06-30,Utilities,2033,6
-2017-07-31,Basic Materials,1735,6
-2017-07-31,Capital Goods,1883,8
-2017-07-31,Consumer,1883,2
-2017-07-31,Energy,1968,9
-2017-07-31,Finance,2118,6
-2017-07-31,Healthcare,1997,2
-2017-07-31,Technology,2061,1
-2017-07-31,Utilities,2105,3
-2017-08-31,Basic Materials,1779,5
-2017-08-31,Capital Goods,1859,4
-2017-08-31,Consumer,1838,2
-2017-08-31,Energy,1885,5
-2017-08-31,Finance,2035,11
-2017-08-31,Healthcare,1967,2
-2017-08-31,Technology,2067,6
-2017-08-31,Utilities,2075,2
-2017-09-30,Basic Materials,1652,2
-2017-09-30,Capital Goods,1748,4
-2017-09-30,Consumer,1777,1
-2017-09-30,Energy,1980,6
-2017-09-30,Finance,1859,8
-2017-09-30,Healthcare,2055,5
-2017-09-30,Technology,2056,6
-2017-09-30,Utilities,1991,5
-2017-10-31,Basic Materials,1653,4
-2017-10-31,Capital Goods,1833,4
-2017-10-31,Consumer,2007,5
-2017-10-31,Energy,1959,11
-2017-10-31,Finance,1920,7
-2017-10-31,Healthcare,1930,6
-2017-10-31,Technology,2044,11
-2017-10-31,Utilities,2136,6
-2017-11-30,Basic Materials,1810,3
-2017-11-30,Capital Goods,1657,10
-2017-11-30,Consumer,1753,2
-2017-11-30,Energy,1945,3
-2017-11-30,Finance,2005,12
-2017-11-30,Healthcare,1966,5
-2017-11-30,Technology,1875,3
-2017-11-30,Utilities,2067,4
-2017-12-31,Basic Materials,1709,4
-2017-12-31,Capital Goods,1849,4
-2017-12-31,Consumer,1903,7
-2017-12-31,Energy,1825,8
-2017-12-31,Finance,1942,5
-2017-12-31,Healthcare,1839,4
-2017-12-31,Technology,2093,3
-2017-12-31,Utilities,2058,5
-2018-01-31,Basic Materials,1800,10
-2018-01-31,Capital Goods,1805,6
-2018-01-31,Consumer,1968,1
-2018-01-31,Energy,2014,9
-2018-01-31,Finance,1935,8
-2018-01-31,Healthcare,2034,2
-2018-01-31,Technology,2057,2
-2018-01-31,Utilities,2041,6
-2018-02-28,Basic Materials,1472,7
-2018-02-28,Capital Goods,1830,8
-2018-02-28,Consumer,1830,4
-2018-02-28,Energy,1930,7
-2018-02-28,Finance,1999,10
-2018-02-28,Healthcare,2038,4
-2018-02-28,Technology,1943,11
-2018-02-28,Utilities,1930,4
-2018-03-31,Basic Materials,1634,4
-2018-03-31,Capital Goods,1811,12
-2018-03-31,Consumer,1780,0
-2018-03-31,Energy,1890,6
-2018-03-31,Finance,1959,3
-2018-03-31,Healthcare,1937,4
-2018-03-31,Technology,1964,6
-2018-03-31,Utilities,2021,3
-2018-04-30,Basic Materials,1831,6
-2018-04-30,Capital Goods,1837,4
-2018-04-30,Consumer,1911,5
-2018-04-30,Energy,1841,5
-2018-04-30,Finance,1867,4
-2018-04-30,Healthcare,1945,4
-2018-04-30,Technology,2107,3
-2018-04-30,Utilities,2005,4
-2018-05-31,Basic Materials,1807,2
-2018-05-31,Capital Goods,1872,6
-2018-05-31,Consumer,1895,1
-2018-05-31,Energy,2037,1
-2018-05-31,Finance,1757,2
-2018-05-31,Healthcare,1866,2
-2018-05-31,Technology,1992,2
-2018-05-31,Utilities,1903,2
-2018-06-30,Basic Materials,1710,4
-2018-06-30,Capital Goods,1903,6
-2018-06-30,Consumer,1904,6
-2018-06-30,Energy,1773,2
-2018-06-30,Finance,1895,5
-2018-06-30,Healthcare,1845,2
-2018-06-30,Technology,2049,2
-2018-06-30,Utilities,2077,6
-2018-07-31,Basic Materials,1700,3
-2018-07-31,Capital Goods,1739,4
-2018-07-31,Consumer,1765,2
-2018-07-31,Energy,1879,4
-2018-07-31,Finance,1854,4
-2018-07-31,Healthcare,1880,2
-2018-07-31,Technology,1992,6
-2018-07-31,Utilities,1970,4
-2018-08-31,Basic Materials,1711,1
-2018-08-31,Capital Goods,1657,1
-2018-08-31,Consumer,1830,2
-2018-08-31,Energy,1766,5
-2018-08-31,Finance,1878,1
-2018-08-31,Healthcare,2025,0
-2018-08-31,Technology,1955,1
-2018-08-31,Utilities,2081,1
-2018-09-30,Basic Materials,1618,1
-2018-09-30,Capital Goods,1788,2
-2018-09-30,Consumer,1793,3
-2018-09-30,Energy,1758,5
-2018-09-30,Finance,1849,3
-2018-09-30,Healthcare,1797,2
-2018-09-30,Technology,1847,2
-2018-09-30,Utilities,1919,2
-2018-10-31,Basic Materials,1665,6
-2018-10-31,Capital Goods,1670,2
-2018-10-31,Consumer,1873,8
-2018-10-31,Energy,1846,3
-2018-10-31,Finance,1988,1
-2018-10-31,Healthcare,1944,3
-2018-10-31,Technology,1911,0
-2018-10-31,Utilities,2030,4
-2018-11-30,Basic Materials,1686,9
-2018-11-30,Capital Goods,1831,4
-2018-11-30,Consumer,1696,4
-2018-11-30,Energy,1819,2
-2018-11-30,Finance,1947,4
-2018-11-30,Healthcare,1922,4
-2018-11-30,Technology,2030,6
-2018-11-30,Utilities,1997,5
-2018-12-31,Basic Materials,1656,4
-2018-12-31,Capital Goods,1722,9
-2018-12-31,Consumer,1817,2
-2018-12-31,Energy,1842,6
-2018-12-31,Finance,1961,5
-2018-12-31,Healthcare,1882,2
-2018-12-31,Technology,1884,4
-2018-12-31,Utilities,2001,6
-2019-01-31,Basic Materials,1601,3
-2019-01-31,Capital Goods,1803,6
-2019-01-31,Consumer,1889,4
-2019-01-31,Energy,1700,5
-2019-01-31,Finance,2048,10
-2019-01-31,Healthcare,1919,6
-2019-01-31,Technology,1922,4
-2019-01-31,Utilities,2075,3
-2019-02-28,Basic Materials,1744,4
-2019-02-28,Capital Goods,1754,7
-2019-02-28,Consumer,1892,7
-2019-02-28,Energy,1844,2
-2019-02-28,Finance,1818,3
-2019-02-28,Healthcare,1903,3
-2019-02-28,Technology,1857,6
-2019-02-28,Utilities,2074,3
-2019-03-31,Basic Materials,1594,3
-2019-03-31,Capital Goods,1781,7
-2019-03-31,Consumer,1858,8
-2019-03-31,Energy,1801,3
-2019-03-31,Finance,1827,8
-2019-03-31,Healthcare,1857,4
-2019-03-31,Technology,1868,10
-2019-03-31,Utilities,1946,4
-2019-04-30,Basic Materials,1669,2
-2019-04-30,Capital Goods,1945,5
-2019-04-30,Consumer,1748,7
-2019-04-30,Energy,1889,8
-2019-04-30,Finance,1915,5
-2019-04-30,Healthcare,1885,4
-2019-04-30,Technology,1914,13
-2019-04-30,Utilities,1959,4
-2019-05-31,Basic Materials,1615,5
-2019-05-31,Capital Goods,1675,10
-2019-05-31,Consumer,1702,3
-2019-05-31,Energy,1818,19
-2019-05-31,Finance,1881,8
-2019-05-31,Healthcare,1872,3
-2019-05-31,Technology,1850,2
-2019-05-31,Utilities,1935,1
-2019-06-30,Basic Materials,1612,13
-2019-06-30,Capital Goods,1830,14
-2019-06-30,Consumer,1751,4
-2019-06-30,Energy,1742,21
-2019-06-30,Finance,1735,19
-2019-06-30,Healthcare,1837,1
-2019-06-30,Technology,1994,11
-2019-06-30,Utilities,1948,7
-2019-07-31,Basic Materials,1623,6
-2019-07-31,Capital Goods,1619,10
-2019-07-31,Consumer,1639,2
-2019-07-31,Energy,1900,1
-2019-07-31,Finance,1733,5
-2019-07-31,Healthcare,1786,5
-2019-07-31,Technology,1883,8
-2019-07-31,Utilities,2007,2
-2019-08-31,Basic Materials,1658,8
-2019-08-31,Capital Goods,1805,10
-2019-08-31,Consumer,1596,5
-2019-08-31,Energy,1749,11
-2019-08-31,Finance,1921,5
-2019-08-31,Healthcare,1794,5
-2019-08-31,Technology,1951,7
-2019-08-31,Utilities,1970,3
-2019-09-30,Basic Materials,1656,9
-2019-09-30,Capital Goods,1671,8
-2019-09-30,Consumer,1722,8
-2019-09-30,Energy,1725,5
-2019-09-30,Finance,1856,18
-2019-09-30,Healthcare,1808,2
-2019-09-30,Technology,1923,7
-2019-09-30,Utilities,2141,3
-2019-10-31,Basic Materials,1591,4
-2019-10-31,Capital Goods,1653,11
-2019-10-31,Consumer,1667,6
-2019-10-31,Energy,1763,9
-2019-10-31,Finance,1744,5
-2019-10-31,Healthcare,1852,4
-2019-10-31,Technology,2033,5
-2019-10-31,Utilities,1976,2
-2019-11-30,Basic Materials,1669,3
-2019-11-30,Capital Goods,1513,8
-2019-11-30,Consumer,1770,0
-2019-11-30,Energy,1681,6
-2019-11-30,Finance,1786,2
-2019-11-30,Healthcare,1787,2
-2019-11-30,Technology,1872,6
-2019-11-30,Utilities,2059,4
-2019-12-31,Basic Materials,1536,5
-2019-12-31,Capital Goods,1685,0
-2019-12-31,Consumer,1644,6
-2019-12-31,Energy,1720,10
-2019-12-31,Finance,1666,9
-2019-12-31,Healthcare,1961,5
-2019-12-31,Technology,1932,3
-2019-12-31,Utilities,2120,6
-2020-01-31,Basic Materials,1622,2
-2020-01-31,Capital Goods,1655,8
-2020-01-31,Consumer,1742,3
-2020-01-31,Energy,1751,3
-2020-01-31,Finance,1786,8
-2020-01-31,Healthcare,1840,4
-2020-01-31,Technology,1902,0
-2020-01-31,Utilities,2011,1
-2020-02-29,Basic Materials,1535,6
-2020-02-29,Capital Goods,1655,12
-2020-02-29,Consumer,1702,5
-2020-02-29,Energy,1701,9
-2020-02-29,Finance,1684,10
-2020-02-29,Healthcare,1797,10
-2020-02-29,Technology,1813,8
-2020-02-29,Utilities,2034,5
-2020-03-31,Basic Materials,1593,5
-2020-03-31,Capital Goods,1579,14
-2020-03-31,Consumer,1659,5
-2020-03-31,Energy,1552,4
-2020-03-31,Finance,1778,10
-2020-03-31,Healthcare,1816,10
-2020-03-31,Technology,1988,3
-2020-03-31,Utilities,1990,2
-2020-04-30,Basic Materials,1561,4
-2020-04-30,Capital Goods,1641,6
-2020-04-30,Consumer,1649,4
-2020-04-30,Energy,1802,4
-2020-04-30,Finance,1733,14
-2020-04-30,Healthcare,1758,4
-2020-04-30,Technology,1985,10
-2020-04-30,Utilities,2079,6
-2020-05-31,Basic Materials,1677,6
-2020-05-31,Capital Goods,1616,5
-2020-05-31,Consumer,1503,4
-2020-05-31,Energy,1756,7
-2020-05-31,Finance,1703,5
-2020-05-31,Healthcare,1848,3
-2020-05-31,Technology,1981,3
-2020-05-31,Utilities,2081,6
-2020-06-30,Basic Materials,1536,9
-2020-06-30,Capital Goods,1565,13
-2020-06-30,Consumer,1572,4
-2020-06-30,Energy,1650,8
-2020-06-30,Finance,1733,9
-2020-06-30,Healthcare,1802,3
-2020-06-30,Technology,1983,2
-2020-06-30,Utilities,2143,3
-2020-07-31,Basic Materials,1746,11
-2020-07-31,Capital Goods,1589,5
-2020-07-31,Consumer,1646,7
-2020-07-31,Energy,1646,11
-2020-07-31,Finance,1680,14
-2020-07-31,Healthcare,1810,4
-2020-07-31,Technology,2073,2
-2020-07-31,Utilities,2168,3
-2020-08-31,Basic Materials,1459,3
-2020-08-31,Capital Goods,1546,7
-2020-08-31,Consumer,1573,3
-2020-08-31,Energy,1691,11
-2020-08-31,Finance,1783,9
-2020-08-31,Healthcare,1934,5
-2020-08-31,Technology,2053,6
-2020-08-31,Utilities,2044,8
-2020-09-30,Basic Materials,1550,4
-2020-09-30,Capital Goods,1382,7
-2020-09-30,Consumer,1729,13
-2020-09-30,Energy,1646,11
-2020-09-30,Finance,1740,13
-2020-09-30,Healthcare,1894,3
-2020-09-30,Technology,2011,2
-2020-09-30,Utilities,2159,5
-2020-10-31,Basic Materials,1545,1
-2020-10-31,Capital Goods,1604,6
-2020-10-31,Consumer,1650,3
-2020-10-31,Energy,1646,6
-2020-10-31,Finance,1824,8
-2020-10-31,Healthcare,1906,7
-2020-10-31,Technology,2084,3
-2020-10-31,Utilities,2123,2
-2020-11-30,Basic Materials,1529,9
-2020-11-30,Capital Goods,1691,12
-2020-11-30,Consumer,1630,4
-2020-11-30,Energy,1706,5
-2020-11-30,Finance,1777,16
-2020-11-30,Healthcare,1916,4
-2020-11-30,Technology,1901,2
-2020-11-30,Utilities,2014,4
-2020-12-31,Basic Materials,1482,6
-2020-12-31,Capital Goods,1484,7
-2020-12-31,Consumer,1633,0
-2020-12-31,Energy,1765,12
-2020-12-31,Finance,1841,6
-2020-12-31,Healthcare,1980,3
-2020-12-31,Technology,1989,10
-2020-12-31,Utilities,2097,6
-2021-01-31,Basic Materials,1527,5
-2021-01-31,Capital Goods,1505,13
-2021-01-31,Consumer,1686,7
-2021-01-31,Energy,1698,12
-2021-01-31,Finance,1674,16
-2021-01-31,Healthcare,1858,7
-2021-01-31,Technology,2080,11
-2021-01-31,Utilities,2157,4
-2021-02-28,Basic Materials,1536,15
-2021-02-28,Capital Goods,1587,7
-2021-02-28,Consumer,1692,5
-2021-02-28,Energy,1721,15
-2021-02-28,Finance,1837,26
-2021-02-28,Healthcare,2032,1
-2021-02-28,Technology,2110,8
-2021-02-28,Utilities,2194,5
-2021-03-31,Basic Materials,1341,6
-2021-03-31,Capital Goods,1551,9
-2021-03-31,Consumer,1693,6
-2021-03-31,Energy,1569,5
-2021-03-31,Finance,1756,21
-2021-03-31,Healthcare,1852,6
-2021-03-31,Technology,2008,10
-2021-03-31,Utilities,2168,7
-2021-04-30,Basic Materials,1356,10
-2021-04-30,Capital Goods,1445,11
-2021-04-30,Consumer,1577,10
-2021-04-30,Energy,1848,15
-2021-04-30,Finance,1775,26
-2021-04-30,Healthcare,1943,5
-2021-04-30,Technology,1951,8
-2021-04-30,Utilities,2164,7
-2021-05-31,Basic Materials,1455,7
-2021-05-31,Capital Goods,1458,4
-2021-05-31,Consumer,1703,7
-2021-05-31,Energy,1705,14
-2021-05-31,Finance,1825,10
-2021-05-31,Healthcare,1835,2
-2021-05-31,Technology,1995,1
-2021-05-31,Utilities,2107,7
-2021-06-30,Basic Materials,1511,6
-2021-06-30,Capital Goods,1525,8
-2021-06-30,Consumer,1762,10
-2021-06-30,Energy,1721,14
-2021-06-30,Finance,1832,21
-2021-06-30,Healthcare,1990,6
-2021-06-30,Technology,1982,7
-2021-06-30,Utilities,2308,2
-2021-07-31,Basic Materials,1533,3
-2021-07-31,Capital Goods,1471,7
-2021-07-31,Consumer,1746,11
-2021-07-31,Energy,1719,21
-2021-07-31,Finance,1858,23
-2021-07-31,Healthcare,2059,8
-2021-07-31,Technology,2127,13
-2021-07-31,Utilities,2116,8
-2021-08-31,Basic Materials,1527,6
-2021-08-31,Capital Goods,1540,7
-2021-08-31,Consumer,1691,5
-2021-08-31,Energy,1695,6
-2021-08-31,Finance,1837,13
-2021-08-31,Healthcare,1960,4
-2021-08-31,Technology,2018,7
-2021-08-31,Utilities,2126,2
-2021-09-30,Basic Materials,1524,10
-2021-09-30,Capital Goods,1496,4
-2021-09-30,Consumer,1666,6
-2021-09-30,Energy,1561,9
-2021-09-30,Finance,1907,24
-2021-09-30,Healthcare,1996,5
-2021-09-30,Technology,2017,12
-2021-09-30,Utilities,2400,7
-2021-10-31,Basic Materials,1416,3
-2021-10-31,Capital Goods,1529,11
-2021-10-31,Consumer,1626,5
-2021-10-31,Energy,1758,19
-2021-10-31,Finance,1807,15
-2021-10-31,Healthcare,2005,4
-2021-10-31,Technology,2228,8
-2021-10-31,Utilities,2206,6
-2021-11-30,Basic Materials,1439,6
-2021-11-30,Capital Goods,1484,7
-2021-11-30,Consumer,1639,5
-2021-11-30,Energy,1875,9
-2021-11-30,Finance,1952,5
-2021-11-30,Healthcare,2024,3
-2021-11-30,Technology,2190,6
-2021-11-30,Utilities,2298,6
-2021-12-31,Basic Materials,1374,5
-2021-12-31,Capital Goods,1578,2
-2021-12-31,Consumer,1574,2
-2021-12-31,Energy,1676,2
-2021-12-31,Finance,1907,6
-2021-12-31,Healthcare,1926,5
-2021-12-31,Technology,2112,4
-2021-12-31,Utilities,2295,5
-2022-01-31,Basic Materials,1469,4
-2022-01-31,Capital Goods,1624,4
-2022-01-31,Consumer,1700,3
-2022-01-31,Energy,1803,5
-2022-01-31,Finance,1837,4
-2022-01-31,Healthcare,1881,6
-2022-01-31,Technology,2107,6
-2022-01-31,Utilities,2217,7
-2022-02-28,Basic Materials,1524,15
-2022-02-28,Capital Goods,1510,6
-2022-02-28,Consumer,1676,0
-2022-02-28,Energy,1793,12
-2022-02-28,Finance,1858,8
-2022-02-28,Healthcare,1938,2
-2022-02-28,Technology,2038,2
-2022-02-28,Utilities,2274,3
-2022-03-31,Basic Materials,1491,5
-2022-03-31,Capital Goods,1409,2
-2022-03-31,Consumer,1781,9
-2022-03-31,Energy,1909,19
-2022-03-31,Finance,1800,13
-2022-03-31,Healthcare,2095,10
-2022-03-31,Technology,2081,12
-2022-03-31,Utilities,2259,4
-2022-04-30,Basic Materials,1442,4
-2022-04-30,Capital Goods,1526,5
-2022-04-30,Consumer,1536,3
-2022-04-30,Energy,1641,10
-2022-04-30,Finance,1850,14
-2022-04-30,Healthcare,2068,7
-2022-04-30,Technology,2184,14
-2022-04-30,Utilities,2344,4
-2022-05-31,Basic Materials,1388,1
-2022-05-31,Capital Goods,1621,3
-2022-05-31,Consumer,1599,8
-2022-05-31,Energy,1937,8
-2022-05-31,Finance,1992,16
-2022-05-31,Healthcare,2058,4
-2022-05-31,Technology,2263,4
-2022-05-31,Utilities,2269,5
-2022-06-30,Basic Materials,1420,5
-2022-06-30,Capital Goods,1602,12
-2022-06-30,Consumer,1720,5
-2022-06-30,Energy,1746,9
-2022-06-30,Finance,1860,17
-2022-06-30,Healthcare,2136,6
-2022-06-30,Technology,2053,5
-2022-06-30,Utilities,2335,4
-2022-07-31,Basic Materials,1342,4
-2022-07-31,Capital Goods,1562,7
-2022-07-31,Consumer,1792,11
-2022-07-31,Energy,1682,8
-2022-07-31,Finance,2042,13
-2022-07-31,Healthcare,2057,2
-2022-07-31,Technology,2186,10
-2022-07-31,Utilities,2157,6
-2022-08-31,Basic Materials,1517,4
-2022-08-31,Capital Goods,1611,11
-2022-08-31,Consumer,1578,9
-2022-08-31,Energy,1829,6
-2022-08-31,Finance,1951,19
-2022-08-31,Healthcare,2129,5
-2022-08-31,Technology,2248,8
-2022-08-31,Utilities,2238,11
-2022-09-30,Basic Materials,1397,6
-2022-09-30,Capital Goods,1537,6
-2022-09-30,Consumer,1696,3
-2022-09-30,Energy,1791,10
-2022-09-30,Finance,1879,17
-2022-09-30,Healthcare,2050,4
-2022-09-30,Technology,2093,9
-2022-09-30,Utilities,2309,8
-2022-10-31,Basic Materials,1582,2
-2022-10-31,Capital Goods,1568,14
-2022-10-31,Consumer,1692,7
-2022-10-31,Energy,1997,7
-2022-10-31,Finance,2013,7
-2022-10-31,Healthcare,1972,1
-2022-10-31,Technology,2189,7
-2022-10-31,Utilities,2462,5
-2022-11-30,Basic Materials,1400,5
-2022-11-30,Capital Goods,1509,8
-2022-11-30,Consumer,1739,4
-2022-11-30,Energy,1791,9
-2022-11-30,Finance,1976,19
-2022-11-30,Healthcare,2111,2
-2022-11-30,Technology,2271,6
-2022-11-30,Utilities,2275,6
-2022-12-31,Basic Materials,1506,2
-2022-12-31,Capital Goods,1614,7
-2022-12-31,Consumer,1648,4
-2022-12-31,Energy,1939,14
-2022-12-31,Finance,1862,18
-2022-12-31,Healthcare,2067,7
-2022-12-31,Technology,2276,9
-2022-12-31,Utilities,2357,3
-2023-01-31,Basic Materials,1486,14
-2023-01-31,Capital Goods,1611,19
-2023-01-31,Consumer,1688,11
-2023-01-31,Energy,1926,5
-2023-01-31,Finance,2018,20
-2023-01-31,Healthcare,2183,7
-2023-01-31,Technology,2300,16
-2023-01-31,Utilities,2210,3
-2023-02-28,Basic Materials,1513,5
-2023-02-28,Capital Goods,1740,15
-2023-02-28,Consumer,1732,6
-2023-02-28,Energy,1844,22
-2023-02-28,Finance,2070,32
-2023-02-28,Healthcare,2120,4
-2023-02-28,Technology,2188,5
-2023-02-28,Utilities,2337,9
-2023-03-31,Basic Materials,1589,8
-2023-03-31,Capital Goods,1612,7
-2023-03-31,Consumer,1680,7
-2023-03-31,Energy,1926,10
-2023-03-31,Finance,2072,37
-2023-03-31,Healthcare,2088,12
-2023-03-31,Technology,2253,9
-2023-03-31,Utilities,2398,8
-2023-04-30,Basic Materials,1498,2
-2023-04-30,Capital Goods,1649,14
-2023-04-30,Consumer,1784,5
-2023-04-30,Energy,1884,19
-2023-04-30,Finance,2181,23
-2023-04-30,Healthcare,2073,3
-2023-04-30,Technology,2292,7
-2023-04-30,Utilities,2306,5
-2023-05-31,Basic Materials,1495,10
-2023-05-31,Capital Goods,1583,6
-2023-05-31,Consumer,1716,3
-2023-05-31,Energy,1821,18
-2023-05-31,Finance,2193,21
-2023-05-31,Healthcare,2103,9
-2023-05-31,Technology,2318,9
-2023-05-31,Utilities,2356,8
-2023-06-30,Basic Materials,1545,8
-2023-06-30,Capital Goods,1590,10
-2023-06-30,Consumer,1843,6
-2023-06-30,Energy,1771,13
-2023-06-30,Finance,2011,16
-2023-06-30,Healthcare,2197,5
-2023-06-30,Technology,2182,11
-2023-06-30,Utilities,2333,6
-2023-07-31,Basic Materials,1552,4
-2023-07-31,Capital Goods,1680,4
-2023-07-31,Consumer,1785,2
-2023-07-31,Energy,1933,9
-2023-07-31,Finance,2066,19
-2023-07-31,Healthcare,2075,3
-2023-07-31,Technology,2130,5
-2023-07-31,Utilities,2352,10
-2023-08-31,Basic Materials,1524,4
-2023-08-31,Capital Goods,1612,5
-2023-08-31,Consumer,1848,4
-2023-08-31,Energy,1886,5
-2023-08-31,Finance,2048,13
-2023-08-31,Healthcare,2247,5
-2023-08-31,Technology,2242,8
-2023-08-31,Utilities,2360,4
-2023-09-30,Basic Materials,1498,3
-2023-09-30,Capital Goods,1795,10
-2023-09-30,Consumer,1811,1
-2023-09-30,Energy,1895,8
-2023-09-30,Finance,2152,10
-2023-09-30,Healthcare,2109,3
-2023-09-30,Technology,2253,4
-2023-09-30,Utilities,2272,5
-2023-10-31,Basic Materials,1464,4
-2023-10-31,Capital Goods,1601,6
-2023-10-31,Consumer,1831,7
-2023-10-31,Energy,2044,6
-2023-10-31,Finance,2074,13
-2023-10-31,Healthcare,2202,0
-2023-10-31,Technology,2317,2
-2023-10-31,Utilities,2157,3
-2023-11-30,Basic Materials,1641,3
-2023-11-30,Capital Goods,1705,4
-2023-11-30,Consumer,1925,4
-2023-11-30,Energy,2084,15
-2023-11-30,Finance,1965,11
-2023-11-30,Healthcare,2062,5
-2023-11-30,Technology,2402,9
-2023-11-30,Utilities,2305,4
-2023-12-31,Basic Materials,1579,7
-2023-12-31,Capital Goods,1745,3
-2023-12-31,Consumer,1665,6
-2023-12-31,Energy,1886,13
-2023-12-31,Finance,2042,13
-2023-12-31,Healthcare,2274,11
-2023-12-31,Technology,2212,4
-2023-12-31,Utilities,2497,5
-2024-01-31,Basic Materials,1559,1
-2024-01-31,Capital Goods,1716,5
-2024-01-31,Consumer,1724,3
-2024-01-31,Energy,2129,11
-2024-01-31,Finance,2145,4
-2024-01-31,Healthcare,2103,3
-2024-01-31,Technology,2314,11
-2024-01-31,Utilities,2237,5
-2024-02-29,Basic Materials,1716,9
-2024-02-29,Capital Goods,1514,10
-2024-02-29,Consumer,1809,2
-2024-02-29,Energy,1878,12
-2024-02-29,Finance,2011,10
-2024-02-29,Healthcare,2347,4
-2024-02-29,Technology,2207,6
-2024-02-29,Utilities,2390,1
-2024-03-31,Basic Materials,1674,0
-2024-03-31,Capital Goods,1730,7
-2024-03-31,Consumer,1844,11
-2024-03-31,Energy,1964,9
-2024-03-31,Finance,2016,9
-2024-03-31,Healthcare,2190,4
-2024-03-31,Technology,2246,2
-2024-03-31,Utilities,2314,8
-2024-04-30,Basic Materials,1619,4
-2024-04-30,Capital Goods,1750,5
-2024-04-30,Consumer,1831,6
-2024-04-30,Energy,1999,10
-2024-04-30,Finance,2086,5
-2024-04-30,Healthcare,2212,3
-2024-04-30,Technology,2295,4
-2024-04-30,Utilities,2360,2
-2024-05-31,Basic Materials,1719,4
-2024-05-31,Capital Goods,1852,6
-2024-05-31,Consumer,2110,6
-2024-05-31,Energy,2022,9
-2024-05-31,Finance,1947,2
-2024-05-31,Healthcare,2134,4
-2024-05-31,Technology,2196,6
-2024-05-31,Utilities,2247,6
-2024-06-30,Basic Materials,1658,6
-2024-06-30,Capital Goods,1838,7
-2024-06-30,Consumer,1856,4
-2024-06-30,Energy,2179,6
-2024-06-30,Finance,1997,5
-2024-06-30,Healthcare,2178,3
-2024-06-30,Technology,2349,7
-2024-06-30,Utilities,2175,7
-2024-07-31,Basic Materials,1649,7
-2024-07-31,Capital Goods,1896,6
-2024-07-31,Consumer,1732,7
-2024-07-31,Energy,2020,15
-2024-07-31,Finance,2076,14
-2024-07-31,Healthcare,2152,0
-2024-07-31,Technology,2119,3
-2024-07-31,Utilities,2180,3
-2024-08-31,Basic Materials,1664,9
-2024-08-31,Capital Goods,1850,11
-2024-08-31,Consumer,1940,2
-2024-08-31,Energy,1922,5
-2024-08-31,Finance,2072,7
-2024-08-31,Healthcare,2073,4
-2024-08-31,Technology,2119,2
-2024-08-31,Utilities,2208,5
-2024-09-30,Basic Materials,1716,3
-2024-09-30,Capital Goods,1773,4
-2024-09-30,Consumer,1930,5
-2024-09-30,Energy,2056,3
-2024-09-30,Finance,2024,15
-2024-09-30,Healthcare,2169,2
-2024-09-30,Technology,2133,5
-2024-09-30,Utilities,2172,2
-2024-10-31,Basic Materials,1750,3
-2024-10-31,Capital Goods,1809,8
-2024-10-31,Consumer,1828,7
-2024-10-31,Energy,2120,10
-2024-10-31,Finance,1942,7
-2024-10-31,Healthcare,2136,5
-2024-10-31,Technology,2142,5
-2024-10-31,Utilities,2198,3
-2024-11-30,Basic Materials,1791,15
-2024-11-30,Capital Goods,1718,7
-2024-11-30,Consumer,1761,7
-2024-11-30,Energy,1943,11
-2024-11-30,Finance,2149,18
-2024-11-30,Healthcare,2149,6
-2024-11-30,Technology,2134,8
-2024-11-30,Utilities,2345,3
-2024-12-31,Basic Materials,1745,5
-2024-12-31,Capital Goods,1746,10
-2024-12-31,Consumer,1947,5
-2024-12-31,Energy,2018,12
-2024-12-31,Finance,2113,20
-2024-12-31,Healthcare,2081,7
-2024-12-31,Technology,2168,11
-2024-12-31,Utilities,2253,7
-2025-01-31,Basic Materials,1771,6
-2025-01-31,Capital Goods,1715,10
-2025-01-31,Consumer,2060,4
-2025-01-31,Energy,2009,15
-2025-01-31,Finance,2024,19
-2025-01-31,Healthcare,2074,3
-2025-01-31,Technology,2060,5
-2025-01-31,Utilities,2221,7
-2025-02-28,Basic Materials,1668,5
-2025-02-28,Capital Goods,1649,17
-2025-02-28,Consumer,1914,12
-2025-02-28,Energy,1969,11
-2025-02-28,Finance,2049,22
-2025-02-28,Healthcare,2094,9
-2025-02-28,Technology,2258,11
-2025-02-28,Utilities,2118,4
-2025-03-31,Basic Materials,1654,14
-2025-03-31,Capital Goods,2007,11
-2025-03-31,Consumer,1920,8
-2025-03-31,Energy,1870,23
-2025-03-31,Finance,2076,23
-2025-03-31,Healthcare,2060,4
-2025-03-31,Technology,2149,10
-2025-03-31,Utilities,2120,3
-2025-04-30,Basic Materials,1791,3
-2025-04-30,Capital Goods,1841,6
-2025-04-30,Consumer,1891,11
-2025-04-30,Energy,2087,17
-2025-04-30,Finance,2124,13
-2025-04-30,Healthcare,2138,8
-2025-04-30,Technology,2034,5
-2025-04-30,Utilities,2044,8
-2025-05-31,Basic Materials,1739,7
-2025-05-31,Capital Goods,1678,5
-2025-05-31,Consumer,1761,6
-2025-05-31,Energy,2044,12
-2025-05-31,Finance,2191,19
-2025-05-31,Healthcare,2160,5
-2025-05-31,Technology,2185,4
-2025-05-31,Utilities,2143,7
-2025-06-30,Basic Materials,1639,8
-2025-06-30,Capital Goods,2049,14
-2025-06-30,Consumer,1907,6
-2025-06-30,Energy,1939,17
-2025-06-30,Finance,2002,14
-2025-06-30,Healthcare,2082,7
-2025-06-30,Technology,2105,7
-2025-06-30,Utilities,2063,6
-2025-07-31,Basic Materials,1802,4
-2025-07-31,Capital Goods,1888,9
-2025-07-31,Consumer,1890,5
-2025-07-31,Energy,1926,13
-2025-07-31,Finance,1999,19
-2025-07-31,Healthcare,2066,8
-2025-07-31,Technology,2075,5
-2025-07-31,Utilities,2133,5
-2025-08-31,Basic Materials,1699,16
-2025-08-31,Capital Goods,1917,6
-2025-08-31,Consumer,1891,7
-2025-08-31,Energy,1913,12
-2025-08-31,Finance,1937,17
-2025-08-31,Healthcare,2203,10
-2025-08-31,Technology,2000,6
-2025-08-31,Utilities,2094,6
-2025-09-30,Basic Materials,1752,7
-2025-09-30,Capital Goods,1908,5
-2025-09-30,Consumer,1887,7
-2025-09-30,Energy,1932,11
-2025-09-30,Finance,2028,11
-2025-09-30,Healthcare,1995,5
-2025-09-30,Technology,2048,4
-2025-09-30,Utilities,2136,2
-2025-10-31,Basic Materials,1706,5
-2025-10-31,Capital Goods,1809,11
-2025-10-31,Consumer,1892,3
-2025-10-31,Energy,1910,7
-2025-10-31,Finance,1994,6
-2025-10-31,Healthcare,2037,2
-2025-10-31,Technology,2135,7
-2025-10-31,Utilities,2106,3
-2025-11-30,Basic Materials,1671,4
-2025-11-30,Capital Goods,1891,5
-2025-11-30,Consumer,1733,2
-2025-11-30,Energy,1993,12
-2025-11-30,Finance,1970,10
-2025-11-30,Healthcare,2008,4
-2025-11-30,Technology,2016,9
-2025-11-30,Utilities,2177,3
-2025-12-31,Basic Materials,1761,7
-2025-12-31,Capital Goods,1845,8
-2025-12-31,Consumer,1764,4
-2025-12-31,Energy,1999,13
-2025-12-31,Finance,2045,14
-2025-12-31,Healthcare,1975,9
-2025-12-31,Technology,2062,7
-2025-12-31,Utilities,2037,1
+2000-01-31,Consumer,1644,7
+2000-01-31,Energy,1787,10
+2000-01-31,FI,1874,11
+2000-01-31,Forest,1975,3
+2000-01-31,Health,1970,7
+2000-01-31,High Tech,2165,7
+2000-01-31,Insurance,2271,7
+2000-01-31,Leisure,2351,11
+2000-01-31,Metal,2321,14
+2000-01-31,Real Estate,2331,12
+2000-01-31,Telecom,2342,12
+2000-01-31,Transport,2337,3
+2000-01-31,Utility,2501,7
+2000-02-29,Consumer,1449,7
+2000-02-29,Energy,1748,13
+2000-02-29,FI,1838,12
+2000-02-29,Forest,1969,4
+2000-02-29,Health,1966,1
+2000-02-29,High Tech,2201,6
+2000-02-29,Insurance,2143,14
+2000-02-29,Leisure,2367,19
+2000-02-29,Metal,2316,11
+2000-02-29,Real Estate,2310,9
+2000-02-29,Telecom,2448,9
+2000-02-29,Transport,2348,13
+2000-02-29,Utility,2352,8
+2000-03-31,Consumer,1783,9
+2000-03-31,Energy,1695,22
+2000-03-31,FI,1653,12
+2000-03-31,Forest,1954,2
+2000-03-31,Health,2077,6
+2000-03-31,High Tech,2115,8
+2000-03-31,Insurance,2288,19
+2000-03-31,Leisure,2268,12
+2000-03-31,Metal,2400,12
+2000-03-31,Real Estate,2344,10
+2000-03-31,Telecom,2324,10
+2000-03-31,Transport,2435,11
+2000-03-31,Utility,2374,8
+2000-04-30,Consumer,1703,1
+2000-04-30,Energy,1811,9
+2000-04-30,FI,1888,10
+2000-04-30,Forest,1974,10
+2000-04-30,Health,2041,2
+2000-04-30,High Tech,2099,4
+2000-04-30,Insurance,2174,6
+2000-04-30,Leisure,2258,4
+2000-04-30,Metal,2295,4
+2000-04-30,Real Estate,2262,10
+2000-04-30,Telecom,2279,4
+2000-04-30,Transport,2394,14
+2000-04-30,Utility,2408,0
+2000-05-31,Consumer,1536,4
+2000-05-31,Energy,1775,10
+2000-05-31,FI,1772,8
+2000-05-31,Forest,2054,9
+2000-05-31,Health,2139,9
+2000-05-31,High Tech,2212,5
+2000-05-31,Insurance,1978,5
+2000-05-31,Leisure,2355,4
+2000-05-31,Metal,2148,13
+2000-05-31,Real Estate,2256,12
+2000-05-31,Telecom,2299,4
+2000-05-31,Transport,2185,4
+2000-05-31,Utility,2343,10
+2000-06-30,Consumer,1630,2
+2000-06-30,Energy,1708,5
+2000-06-30,FI,1856,7
+2000-06-30,Forest,1952,3
+2000-06-30,Health,2068,1
+2000-06-30,High Tech,2226,5
+2000-06-30,Insurance,2316,9
+2000-06-30,Leisure,2304,5
+2000-06-30,Metal,2329,8
+2000-06-30,Real Estate,2283,14
+2000-06-30,Telecom,2261,3
+2000-06-30,Transport,2354,9
+2000-06-30,Utility,2404,1
+2000-07-31,Consumer,1611,3
+2000-07-31,Energy,1792,6
+2000-07-31,FI,1933,7
+2000-07-31,Forest,2052,6
+2000-07-31,Health,2070,11
+2000-07-31,High Tech,2135,6
+2000-07-31,Insurance,2281,7
+2000-07-31,Leisure,2128,6
+2000-07-31,Metal,2343,8
+2000-07-31,Real Estate,2196,13
+2000-07-31,Telecom,2235,5
+2000-07-31,Transport,2348,6
+2000-07-31,Utility,2339,12
+2000-08-31,Consumer,1586,3
+2000-08-31,Energy,1903,10
+2000-08-31,FI,1832,9
+2000-08-31,Forest,1853,8
+2000-08-31,Health,2163,6
+2000-08-31,High Tech,2215,5
+2000-08-31,Insurance,2205,13
+2000-08-31,Leisure,2273,2
+2000-08-31,Metal,2279,6
+2000-08-31,Real Estate,2300,5
+2000-08-31,Telecom,2391,7
+2000-08-31,Transport,2245,7
+2000-08-31,Utility,2391,4
+2000-09-30,Consumer,1708,3
+2000-09-30,Energy,1757,12
+2000-09-30,FI,1944,11
+2000-09-30,Forest,1973,3
+2000-09-30,Health,1965,3
+2000-09-30,High Tech,2219,1
+2000-09-30,Insurance,2061,7
+2000-09-30,Leisure,2243,8
+2000-09-30,Metal,2171,3
+2000-09-30,Real Estate,2108,6
+2000-09-30,Telecom,2227,7
+2000-09-30,Transport,2311,8
+2000-09-30,Utility,2327,5
+2000-10-31,Consumer,1656,7
+2000-10-31,Energy,1839,8
+2000-10-31,FI,1812,5
+2000-10-31,Forest,2028,4
+2000-10-31,Health,1851,4
+2000-10-31,High Tech,2203,9
+2000-10-31,Insurance,2235,14
+2000-10-31,Leisure,2236,6
+2000-10-31,Metal,2250,6
+2000-10-31,Real Estate,2231,11
+2000-10-31,Telecom,2229,8
+2000-10-31,Transport,2238,8
+2000-10-31,Utility,2342,4
+2000-11-30,Consumer,1664,1
+2000-11-30,Energy,1762,5
+2000-11-30,FI,1928,9
+2000-11-30,Forest,1994,11
+2000-11-30,Health,2142,1
+2000-11-30,High Tech,2063,2
+2000-11-30,Insurance,2141,6
+2000-11-30,Leisure,2263,10
+2000-11-30,Metal,2203,10
+2000-11-30,Real Estate,2264,7
+2000-11-30,Telecom,2167,2
+2000-11-30,Transport,2357,6
+2000-11-30,Utility,2141,3
+2000-12-31,Consumer,1614,8
+2000-12-31,Energy,1780,1
+2000-12-31,FI,1980,8
+2000-12-31,Forest,1959,1
+2000-12-31,Health,2178,1
+2000-12-31,High Tech,2094,4
+2000-12-31,Insurance,2033,8
+2000-12-31,Leisure,2149,4
+2000-12-31,Metal,2169,4
+2000-12-31,Real Estate,2207,5
+2000-12-31,Telecom,2293,8
+2000-12-31,Transport,2300,8
+2000-12-31,Utility,2385,0
+2001-01-31,Consumer,1629,3
+2001-01-31,Energy,1503,6
+2001-01-31,FI,1923,8
+2001-01-31,Forest,1967,7
+2001-01-31,Health,2062,5
+2001-01-31,High Tech,2174,5
+2001-01-31,Insurance,2251,9
+2001-01-31,Leisure,2135,7
+2001-01-31,Metal,2245,5
+2001-01-31,Real Estate,2209,21
+2001-01-31,Telecom,2214,8
+2001-01-31,Transport,2351,6
+2001-01-31,Utility,2284,4
+2001-02-28,Consumer,1663,3
+2001-02-28,Energy,1785,8
+2001-02-28,FI,1920,21
+2001-02-28,Forest,1947,2
+2001-02-28,Health,2006,2
+2001-02-28,High Tech,2051,3
+2001-02-28,Insurance,2090,16
+2001-02-28,Leisure,2106,6
+2001-02-28,Metal,2341,4
+2001-02-28,Real Estate,2188,15
+2001-02-28,Telecom,2201,6
+2001-02-28,Transport,2284,7
+2001-02-28,Utility,2357,9
+2001-03-31,Consumer,1713,6
+2001-03-31,Energy,1802,6
+2001-03-31,FI,1827,4
+2001-03-31,Forest,1952,6
+2001-03-31,Health,2070,5
+2001-03-31,High Tech,1890,7
+2001-03-31,Insurance,2097,10
+2001-03-31,Leisure,2029,3
+2001-03-31,Metal,2014,6
+2001-03-31,Real Estate,2130,6
+2001-03-31,Telecom,2231,6
+2001-03-31,Transport,2327,4
+2001-03-31,Utility,2387,5
+2001-04-30,Consumer,1669,2
+2001-04-30,Energy,1748,9
+2001-04-30,FI,1864,11
+2001-04-30,Forest,2023,6
+2001-04-30,Health,2005,9
+2001-04-30,High Tech,2057,16
+2001-04-30,Insurance,2057,14
+2001-04-30,Leisure,2092,6
+2001-04-30,Metal,2209,3
+2001-04-30,Real Estate,2226,7
+2001-04-30,Telecom,2322,8
+2001-04-30,Transport,2167,8
+2001-04-30,Utility,2422,3
+2001-05-31,Consumer,1815,6
+2001-05-31,Energy,1872,3
+2001-05-31,FI,1920,6
+2001-05-31,Forest,2087,8
+2001-05-31,Health,2126,5
+2001-05-31,High Tech,1984,5
+2001-05-31,Insurance,2030,7
+2001-05-31,Leisure,2152,8
+2001-05-31,Metal,2126,8
+2001-05-31,Real Estate,2145,12
+2001-05-31,Telecom,2258,7
+2001-05-31,Transport,2178,10
+2001-05-31,Utility,2259,6
+2001-06-30,Consumer,1830,5
+2001-06-30,Energy,1946,8
+2001-06-30,FI,1959,10
+2001-06-30,Forest,1950,5
+2001-06-30,Health,2090,4
+2001-06-30,High Tech,2065,6
+2001-06-30,Insurance,2166,12
+2001-06-30,Leisure,2202,14
+2001-06-30,Metal,2034,10
+2001-06-30,Real Estate,2050,8
+2001-06-30,Telecom,2393,7
+2001-06-30,Transport,2225,9
+2001-06-30,Utility,2334,7
+2001-07-31,Consumer,1830,12
+2001-07-31,Energy,1741,7
+2001-07-31,FI,1874,7
+2001-07-31,Forest,1992,6
+2001-07-31,Health,2141,2
+2001-07-31,High Tech,2045,3
+2001-07-31,Insurance,1910,11
+2001-07-31,Leisure,2184,8
+2001-07-31,Metal,2170,12
+2001-07-31,Real Estate,2154,6
+2001-07-31,Telecom,2341,15
+2001-07-31,Transport,2356,8
+2001-07-31,Utility,2316,2
+2001-08-31,Consumer,1673,4
+2001-08-31,Energy,1891,9
+2001-08-31,FI,1872,9
+2001-08-31,Forest,2008,9
+2001-08-31,Health,2029,3
+2001-08-31,High Tech,2007,3
+2001-08-31,Insurance,2059,11
+2001-08-31,Leisure,2098,5
+2001-08-31,Metal,2191,2
+2001-08-31,Real Estate,2113,13
+2001-08-31,Telecom,2191,7
+2001-08-31,Transport,2259,14
+2001-08-31,Utility,2423,9
+2001-09-30,Consumer,1782,3
+2001-09-30,Energy,1818,5
+2001-09-30,FI,1808,11
+2001-09-30,Forest,1969,10
+2001-09-30,Health,2036,9
+2001-09-30,High Tech,2078,5
+2001-09-30,Insurance,2038,11
+2001-09-30,Leisure,2084,6
+2001-09-30,Metal,2144,13
+2001-09-30,Real Estate,2254,9
+2001-09-30,Telecom,2205,5
+2001-09-30,Transport,2300,13
+2001-09-30,Utility,2474,4
+2001-10-31,Consumer,1614,5
+2001-10-31,Energy,1670,15
+2001-10-31,FI,1889,13
+2001-10-31,Forest,1944,3
+2001-10-31,Health,2029,13
+2001-10-31,High Tech,2070,2
+2001-10-31,Insurance,2220,16
+2001-10-31,Leisure,1959,15
+2001-10-31,Metal,2042,16
+2001-10-31,Real Estate,2197,10
+2001-10-31,Telecom,2298,8
+2001-10-31,Transport,2321,21
+2001-10-31,Utility,2548,5
+2001-11-30,Consumer,1682,4
+2001-11-30,Energy,1707,7
+2001-11-30,FI,1767,12
+2001-11-30,Forest,1887,9
+2001-11-30,Health,2093,8
+2001-11-30,High Tech,1982,9
+2001-11-30,Insurance,2117,9
+2001-11-30,Leisure,2095,12
+2001-11-30,Metal,2097,7
+2001-11-30,Real Estate,2213,8
+2001-11-30,Telecom,2166,9
+2001-11-30,Transport,2293,17
+2001-11-30,Utility,2536,12
+2001-12-31,Consumer,1737,4
+2001-12-31,Energy,1815,35
+2001-12-31,FI,1873,7
+2001-12-31,Forest,1961,14
+2001-12-31,Health,2063,12
+2001-12-31,High Tech,1980,3
+2001-12-31,Insurance,2012,8
+2001-12-31,Leisure,2074,11
+2001-12-31,Metal,2167,14
+2001-12-31,Real Estate,2133,9
+2001-12-31,Telecom,2188,9
+2001-12-31,Transport,2272,8
+2001-12-31,Utility,2335,4
+2002-01-31,Consumer,1704,5
+2002-01-31,Energy,1728,17
+2002-01-31,FI,1841,20
+2002-01-31,Forest,1896,8
+2002-01-31,Health,1819,4
+2002-01-31,High Tech,1986,5
+2002-01-31,Insurance,1972,12
+2002-01-31,Leisure,2045,8
+2002-01-31,Metal,2183,13
+2002-01-31,Real Estate,2137,17
+2002-01-31,Telecom,2334,5
+2002-01-31,Transport,2309,2
+2002-01-31,Utility,2360,3
+2002-02-28,Consumer,1667,3
+2002-02-28,Energy,1865,11
+2002-02-28,FI,1794,11
+2002-02-28,Forest,1845,6
+2002-02-28,Health,1974,5
+2002-02-28,High Tech,1957,6
+2002-02-28,Insurance,1995,7
+2002-02-28,Leisure,1841,6
+2002-02-28,Metal,2097,12
+2002-02-28,Real Estate,2107,19
+2002-02-28,Telecom,2246,7
+2002-02-28,Transport,2257,8
+2002-02-28,Utility,2514,7
+2002-03-31,Consumer,1705,10
+2002-03-31,Energy,1764,9
+2002-03-31,FI,1886,13
+2002-03-31,Forest,1914,10
+2002-03-31,Health,1898,0
+2002-03-31,High Tech,1863,8
+2002-03-31,Insurance,1938,8
+2002-03-31,Leisure,2095,20
+2002-03-31,Metal,2074,13
+2002-03-31,Real Estate,2051,11
+2002-03-31,Telecom,2186,3
+2002-03-31,Transport,2215,5
+2002-03-31,Utility,2423,17
+2002-04-30,Consumer,1720,5
+2002-04-30,Energy,1814,17
+2002-04-30,FI,1847,15
+2002-04-30,Forest,1867,7
+2002-04-30,Health,2011,7
+2002-04-30,High Tech,1984,3
+2002-04-30,Insurance,1958,15
+2002-04-30,Leisure,2033,6
+2002-04-30,Metal,2074,3
+2002-04-30,Real Estate,2002,6
+2002-04-30,Telecom,2299,1
+2002-04-30,Transport,2255,12
+2002-04-30,Utility,2378,6
+2002-05-31,Consumer,1769,4
+2002-05-31,Energy,1861,15
+2002-05-31,FI,1772,18
+2002-05-31,Forest,1963,10
+2002-05-31,Health,1855,9
+2002-05-31,High Tech,1934,2
+2002-05-31,Insurance,1929,10
+2002-05-31,Leisure,1964,8
+2002-05-31,Metal,2083,24
+2002-05-31,Real Estate,2101,13
+2002-05-31,Telecom,2172,17
+2002-05-31,Transport,2329,8
+2002-05-31,Utility,2529,7
+2002-06-30,Consumer,1739,5
+2002-06-30,Energy,1833,11
+2002-06-30,FI,1899,19
+2002-06-30,Forest,1894,9
+2002-06-30,Health,1849,1
+2002-06-30,High Tech,2006,8
+2002-06-30,Insurance,2048,12
+2002-06-30,Leisure,1977,11
+2002-06-30,Metal,2101,5
+2002-06-30,Real Estate,2190,21
+2002-06-30,Telecom,2122,5
+2002-06-30,Transport,2167,11
+2002-06-30,Utility,2584,4
+2002-07-31,Consumer,1684,10
+2002-07-31,Energy,1904,13
+2002-07-31,FI,1813,19
+2002-07-31,Forest,1846,7
+2002-07-31,Health,1934,6
+2002-07-31,High Tech,2018,5
+2002-07-31,Insurance,1924,11
+2002-07-31,Leisure,2014,5
+2002-07-31,Metal,2163,11
+2002-07-31,Real Estate,2170,12
+2002-07-31,Telecom,2291,7
+2002-07-31,Transport,2346,12
+2002-07-31,Utility,2621,9
+2002-08-31,Consumer,1662,3
+2002-08-31,Energy,1712,12
+2002-08-31,FI,1799,2
+2002-08-31,Forest,1879,6
+2002-08-31,Health,1872,7
+2002-08-31,High Tech,1856,4
+2002-08-31,Insurance,1979,10
+2002-08-31,Leisure,2004,9
+2002-08-31,Metal,2035,6
+2002-08-31,Real Estate,2239,12
+2002-08-31,Telecom,2207,3
+2002-08-31,Transport,2243,3
+2002-08-31,Utility,2584,9
+2002-09-30,Consumer,1766,4
+2002-09-30,Energy,1672,2
+2002-09-30,FI,1845,8
+2002-09-30,Forest,1765,6
+2002-09-30,Health,1873,4
+2002-09-30,High Tech,1963,6
+2002-09-30,Insurance,1931,15
+2002-09-30,Leisure,2043,7
+2002-09-30,Metal,2001,10
+2002-09-30,Real Estate,2177,9
+2002-09-30,Telecom,2318,9
+2002-09-30,Transport,2319,10
+2002-09-30,Utility,2549,10
+2002-10-31,Consumer,1681,5
+2002-10-31,Energy,1688,6
+2002-10-31,FI,1865,20
+2002-10-31,Forest,1911,3
+2002-10-31,Health,1944,3
+2002-10-31,High Tech,1730,5
+2002-10-31,Insurance,1964,5
+2002-10-31,Leisure,1856,4
+2002-10-31,Metal,2062,12
+2002-10-31,Real Estate,2137,12
+2002-10-31,Telecom,2240,5
+2002-10-31,Transport,2407,13
+2002-10-31,Utility,2399,3
+2002-11-30,Consumer,1592,2
+2002-11-30,Energy,1797,8
+2002-11-30,FI,1843,10
+2002-11-30,Forest,1923,6
+2002-11-30,Health,1866,6
+2002-11-30,High Tech,1928,4
+2002-11-30,Insurance,1899,10
+2002-11-30,Leisure,1941,4
+2002-11-30,Metal,2127,11
+2002-11-30,Real Estate,2118,10
+2002-11-30,Telecom,2362,7
+2002-11-30,Transport,2248,4
+2002-11-30,Utility,2599,3
+2002-12-31,Consumer,1671,1
+2002-12-31,Energy,1786,10
+2002-12-31,FI,1769,11
+2002-12-31,Forest,1985,21
+2002-12-31,Health,1962,5
+2002-12-31,High Tech,1811,5
+2002-12-31,Insurance,1930,11
+2002-12-31,Leisure,2036,12
+2002-12-31,Metal,2073,10
+2002-12-31,Real Estate,2308,17
+2002-12-31,Telecom,2433,9
+2002-12-31,Transport,2446,12
+2002-12-31,Utility,2516,11
+2003-01-31,Consumer,1545,3
+2003-01-31,Energy,1763,9
+2003-01-31,FI,1810,13
+2003-01-31,Forest,1743,8
+2003-01-31,Health,1865,7
+2003-01-31,High Tech,1932,5
+2003-01-31,Insurance,1930,16
+2003-01-31,Leisure,1927,8
+2003-01-31,Metal,2076,23
+2003-01-31,Real Estate,2121,18
+2003-01-31,Telecom,2313,9
+2003-01-31,Transport,2559,35
+2003-01-31,Utility,2673,15
+2003-02-28,Consumer,1563,3
+2003-02-28,Energy,1698,20
+2003-02-28,FI,1698,11
+2003-02-28,Forest,1737,6
+2003-02-28,Health,1750,8
+2003-02-28,High Tech,1841,13
+2003-02-28,Insurance,1953,14
+2003-02-28,Leisure,1942,7
+2003-02-28,Metal,2027,15
+2003-02-28,Real Estate,2090,11
+2003-02-28,Telecom,2304,4
+2003-02-28,Transport,2391,12
+2003-02-28,Utility,2635,9
+2003-03-31,Consumer,1678,7
+2003-03-31,Energy,1708,29
+2003-03-31,FI,1740,31
+2003-03-31,Forest,1790,20
+2003-03-31,Health,1898,7
+2003-03-31,High Tech,1949,11
+2003-03-31,Insurance,1959,20
+2003-03-31,Leisure,2073,11
+2003-03-31,Metal,2140,17
+2003-03-31,Real Estate,2191,18
+2003-03-31,Telecom,2267,11
+2003-03-31,Transport,2467,14
+2003-03-31,Utility,2422,3
+2003-04-30,Consumer,1655,2
+2003-04-30,Energy,1611,20
+2003-04-30,FI,1761,24
+2003-04-30,Forest,1818,2
+2003-04-30,Health,1664,7
+2003-04-30,High Tech,1910,0
+2003-04-30,Insurance,1915,15
+2003-04-30,Leisure,1969,10
+2003-04-30,Metal,2082,23
+2003-04-30,Real Estate,2280,34
+2003-04-30,Telecom,2339,6
+2003-04-30,Transport,2383,15
+2003-04-30,Utility,2666,7
+2003-05-31,Consumer,1671,4
+2003-05-31,Energy,1710,22
+2003-05-31,FI,1718,19
+2003-05-31,Forest,1744,8
+2003-05-31,Health,1800,5
+2003-05-31,High Tech,1846,4
+2003-05-31,Insurance,1894,7
+2003-05-31,Leisure,2030,12
+2003-05-31,Metal,2102,12
+2003-05-31,Real Estate,2281,20
+2003-05-31,Telecom,2218,8
+2003-05-31,Transport,2480,18
+2003-05-31,Utility,2687,7
+2003-06-30,Consumer,1627,4
+2003-06-30,Energy,1603,33
+2003-06-30,FI,1684,16
+2003-06-30,Forest,1830,11
+2003-06-30,Health,1870,10
+2003-06-30,High Tech,1744,8
+2003-06-30,Insurance,1951,16
+2003-06-30,Leisure,2141,24
+2003-06-30,Metal,2146,30
+2003-06-30,Real Estate,2244,46
+2003-06-30,Telecom,2314,6
+2003-06-30,Transport,2501,13
+2003-06-30,Utility,2763,11
+2003-07-31,Consumer,1574,6
+2003-07-31,Energy,1693,21
+2003-07-31,FI,1696,11
+2003-07-31,Forest,1852,7
+2003-07-31,Health,1696,2
+2003-07-31,High Tech,1859,6
+2003-07-31,Insurance,1974,20
+2003-07-31,Leisure,1988,7
+2003-07-31,Metal,2121,32
+2003-07-31,Real Estate,2256,12
+2003-07-31,Telecom,2340,5
+2003-07-31,Transport,2563,11
+2003-07-31,Utility,2606,5
+2003-08-31,Consumer,1690,4
+2003-08-31,Energy,1687,18
+2003-08-31,FI,1719,9
+2003-08-31,Forest,1760,7
+2003-08-31,Health,1751,4
+2003-08-31,High Tech,1936,5
+2003-08-31,Insurance,1886,7
+2003-08-31,Leisure,1976,5
+2003-08-31,Metal,2059,15
+2003-08-31,Real Estate,2230,13
+2003-08-31,Telecom,2400,10
+2003-08-31,Transport,2427,22
+2003-08-31,Utility,2552,7
+2003-09-30,Consumer,1666,5
+2003-09-30,Energy,1585,9
+2003-09-30,FI,1667,7
+2003-09-30,Forest,1751,4
+2003-09-30,Health,1878,2
+2003-09-30,High Tech,1780,2
+2003-09-30,Insurance,1903,9
+2003-09-30,Leisure,2084,19
+2003-09-30,Metal,2137,13
+2003-09-30,Real Estate,2167,19
+2003-09-30,Telecom,2320,4
+2003-09-30,Transport,2490,10
+2003-09-30,Utility,2766,4
+2003-10-31,Consumer,1642,5
+2003-10-31,Energy,1511,7
+2003-10-31,FI,1731,13
+2003-10-31,Forest,1799,5
+2003-10-31,Health,1850,4
+2003-10-31,High Tech,1900,5
+2003-10-31,Insurance,1902,4
+2003-10-31,Leisure,2075,10
+2003-10-31,Metal,2189,13
+2003-10-31,Real Estate,2414,8
+2003-10-31,Telecom,2354,2
+2003-10-31,Transport,2529,10
+2003-10-31,Utility,2659,7
+2003-11-30,Consumer,1552,5
+2003-11-30,Energy,1619,6
+2003-11-30,FI,1663,6
+2003-11-30,Forest,1805,6
+2003-11-30,Health,1753,4
+2003-11-30,High Tech,1874,7
+2003-11-30,Insurance,1835,12
+2003-11-30,Leisure,2021,6
+2003-11-30,Metal,2089,11
+2003-11-30,Real Estate,2245,9
+2003-11-30,Telecom,2223,6
+2003-11-30,Transport,2579,5
+2003-11-30,Utility,2626,10
+2003-12-31,Consumer,1511,5
+2003-12-31,Energy,1725,3
+2003-12-31,FI,1657,13
+2003-12-31,Forest,1649,4
+2003-12-31,Health,1799,5
+2003-12-31,High Tech,1958,9
+2003-12-31,Insurance,1933,8
+2003-12-31,Leisure,2001,6
+2003-12-31,Metal,2171,9
+2003-12-31,Real Estate,2157,11
+2003-12-31,Telecom,2462,7
+2003-12-31,Transport,2548,13
+2003-12-31,Utility,2816,8
+2004-01-31,Consumer,1569,5
+2004-01-31,Energy,1556,7
+2004-01-31,FI,1601,9
+2004-01-31,Forest,1758,5
+2004-01-31,Health,1777,0
+2004-01-31,High Tech,1933,1
+2004-01-31,Insurance,1854,11
+2004-01-31,Leisure,2159,6
+2004-01-31,Metal,2160,8
+2004-01-31,Real Estate,2194,20
+2004-01-31,Telecom,2381,4
+2004-01-31,Transport,2482,13
+2004-01-31,Utility,2823,10
+2004-02-29,Consumer,1454,2
+2004-02-29,Energy,1655,7
+2004-02-29,FI,1739,4
+2004-02-29,Forest,1789,14
+2004-02-29,Health,1853,6
+2004-02-29,High Tech,1778,0
+2004-02-29,Insurance,1945,17
+2004-02-29,Leisure,2116,9
+2004-02-29,Metal,2108,10
+2004-02-29,Real Estate,2338,9
+2004-02-29,Telecom,2410,9
+2004-02-29,Transport,2507,9
+2004-02-29,Utility,2728,5
+2004-03-31,Consumer,1620,4
+2004-03-31,Energy,1670,10
+2004-03-31,FI,1700,4
+2004-03-31,Forest,1600,2
+2004-03-31,Health,1784,5
+2004-03-31,High Tech,1795,7
+2004-03-31,Insurance,1986,14
+2004-03-31,Leisure,2093,4
+2004-03-31,Metal,2113,7
+2004-03-31,Real Estate,2301,14
+2004-03-31,Telecom,2475,9
+2004-03-31,Transport,2600,12
+2004-03-31,Utility,2826,8
+2004-04-30,Consumer,1497,2
+2004-04-30,Energy,1571,6
+2004-04-30,FI,1596,17
+2004-04-30,Forest,1677,2
+2004-04-30,Health,1718,5
+2004-04-30,High Tech,1777,6
+2004-04-30,Insurance,2013,11
+2004-04-30,Leisure,2045,9
+2004-04-30,Metal,2166,12
+2004-04-30,Real Estate,2276,14
+2004-04-30,Telecom,2583,5
+2004-04-30,Transport,2500,6
+2004-04-30,Utility,2864,3
+2004-05-31,Consumer,1471,9
+2004-05-31,Energy,1607,4
+2004-05-31,FI,1609,7
+2004-05-31,Forest,1647,5
+2004-05-31,Health,1834,4
+2004-05-31,High Tech,1746,5
+2004-05-31,Insurance,2014,11
+2004-05-31,Leisure,2082,11
+2004-05-31,Metal,2083,9
+2004-05-31,Real Estate,2181,5
+2004-05-31,Telecom,2493,7
+2004-05-31,Transport,2553,7
+2004-05-31,Utility,2658,5
+2004-06-30,Consumer,1587,6
+2004-06-30,Energy,1512,9
+2004-06-30,FI,1673,7
+2004-06-30,Forest,1701,5
+2004-06-30,Health,1799,1
+2004-06-30,High Tech,1869,5
+2004-06-30,Insurance,2008,1
+2004-06-30,Leisure,2060,5
+2004-06-30,Metal,2242,4
+2004-06-30,Real Estate,2407,8
+2004-06-30,Telecom,2637,6
+2004-06-30,Transport,2578,18
+2004-06-30,Utility,2725,4
+2004-07-31,Consumer,1585,6
+2004-07-31,Energy,1710,10
+2004-07-31,FI,1715,12
+2004-07-31,Forest,1645,6
+2004-07-31,Health,1811,2
+2004-07-31,High Tech,1925,4
+2004-07-31,Insurance,1889,6
+2004-07-31,Leisure,2081,5
+2004-07-31,Metal,2322,8
+2004-07-31,Real Estate,2362,16
+2004-07-31,Telecom,2553,12
+2004-07-31,Transport,2572,7
+2004-07-31,Utility,2749,13
+2004-08-31,Consumer,1546,3
+2004-08-31,Energy,1594,5
+2004-08-31,FI,1667,12
+2004-08-31,Forest,1759,9
+2004-08-31,Health,1872,2
+2004-08-31,High Tech,1797,2
+2004-08-31,Insurance,2074,10
+2004-08-31,Leisure,2047,7
+2004-08-31,Metal,2181,8
+2004-08-31,Real Estate,2297,5
+2004-08-31,Telecom,2556,6
+2004-08-31,Transport,2635,5
+2004-08-31,Utility,2724,6
+2004-09-30,Consumer,1435,7
+2004-09-30,Energy,1658,12
+2004-09-30,FI,1592,11
+2004-09-30,Forest,1709,3
+2004-09-30,Health,1732,2
+2004-09-30,High Tech,1841,4
+2004-09-30,Insurance,1962,9
+2004-09-30,Leisure,2076,6
+2004-09-30,Metal,2333,13
+2004-09-30,Real Estate,2455,14
+2004-09-30,Telecom,2521,11
+2004-09-30,Transport,2653,9
+2004-09-30,Utility,2886,8
+2004-10-31,Consumer,1598,5
+2004-10-31,Energy,1560,5
+2004-10-31,FI,1567,8
+2004-10-31,Forest,1671,0
+2004-10-31,Health,1671,7
+2004-10-31,High Tech,1929,7
+2004-10-31,Insurance,1940,10
+2004-10-31,Leisure,2179,4
+2004-10-31,Metal,2249,11
+2004-10-31,Real Estate,2281,11
+2004-10-31,Telecom,2440,7
+2004-10-31,Transport,2697,7
+2004-10-31,Utility,2743,3
+2004-11-30,Consumer,1661,2
+2004-11-30,Energy,1608,6
+2004-11-30,FI,1576,16
+2004-11-30,Forest,1724,0
+2004-11-30,Health,1714,4
+2004-11-30,High Tech,1890,3
+2004-11-30,Insurance,2019,9
+2004-11-30,Leisure,2301,7
+2004-11-30,Metal,2199,3
+2004-11-30,Real Estate,2367,8
+2004-11-30,Telecom,2659,1
+2004-11-30,Transport,2604,6
+2004-11-30,Utility,2732,3
+2004-12-31,Consumer,1530,5
+2004-12-31,Energy,1505,5
+2004-12-31,FI,1559,11
+2004-12-31,Forest,1720,6
+2004-12-31,Health,1782,5
+2004-12-31,High Tech,1902,12
+2004-12-31,Insurance,1897,13
+2004-12-31,Leisure,2135,6
+2004-12-31,Metal,2237,11
+2004-12-31,Real Estate,2516,8
+2004-12-31,Telecom,2533,7
+2004-12-31,Transport,2723,13
+2004-12-31,Utility,2702,7
+2005-01-31,Consumer,1574,1
+2005-01-31,Energy,1428,4
+2005-01-31,FI,1637,7
+2005-01-31,Forest,1576,0
+2005-01-31,Health,1712,8
+2005-01-31,High Tech,1917,3
+2005-01-31,Insurance,2078,13
+2005-01-31,Leisure,2080,7
+2005-01-31,Metal,2383,13
+2005-01-31,Real Estate,2430,15
+2005-01-31,Telecom,2617,8
+2005-01-31,Transport,2652,7
+2005-01-31,Utility,2906,9
+2005-02-28,Consumer,1501,2
+2005-02-28,Energy,1530,9
+2005-02-28,FI,1678,5
+2005-02-28,Forest,1647,6
+2005-02-28,Health,1770,1
+2005-02-28,High Tech,1876,5
+2005-02-28,Insurance,2035,9
+2005-02-28,Leisure,2128,11
+2005-02-28,Metal,2256,13
+2005-02-28,Real Estate,2378,6
+2005-02-28,Telecom,2527,11
+2005-02-28,Transport,2755,20
+2005-02-28,Utility,2878,12
+2005-03-31,Consumer,1388,2
+2005-03-31,Energy,1602,12
+2005-03-31,FI,1619,10
+2005-03-31,Forest,1712,5
+2005-03-31,Health,1814,4
+2005-03-31,High Tech,1939,7
+2005-03-31,Insurance,2026,4
+2005-03-31,Leisure,2117,4
+2005-03-31,Metal,2426,8
+2005-03-31,Real Estate,2432,15
+2005-03-31,Telecom,2581,10
+2005-03-31,Transport,2700,7
+2005-03-31,Utility,2737,8
+2005-04-30,Consumer,1420,4
+2005-04-30,Energy,1466,8
+2005-04-30,FI,1619,11
+2005-04-30,Forest,1689,5
+2005-04-30,Health,1724,4
+2005-04-30,High Tech,1910,7
+2005-04-30,Insurance,1987,7
+2005-04-30,Leisure,2028,6
+2005-04-30,Metal,2173,4
+2005-04-30,Real Estate,2623,20
+2005-04-30,Telecom,2558,5
+2005-04-30,Transport,2671,15
+2005-04-30,Utility,2716,8
+2005-05-31,Consumer,1582,2
+2005-05-31,Energy,1556,2
+2005-05-31,FI,1685,7
+2005-05-31,Forest,1588,3
+2005-05-31,Health,1772,4
+2005-05-31,High Tech,1859,3
+2005-05-31,Insurance,1967,18
+2005-05-31,Leisure,2240,8
+2005-05-31,Metal,2395,14
+2005-05-31,Real Estate,2446,10
+2005-05-31,Telecom,2627,9
+2005-05-31,Transport,2781,11
+2005-05-31,Utility,2700,5
+2005-06-30,Consumer,1394,2
+2005-06-30,Energy,1503,2
+2005-06-30,FI,1571,5
+2005-06-30,Forest,1825,3
+2005-06-30,Health,1767,6
+2005-06-30,High Tech,1983,10
+2005-06-30,Insurance,2201,9
+2005-06-30,Leisure,2125,2
+2005-06-30,Metal,2364,4
+2005-06-30,Real Estate,2518,8
+2005-06-30,Telecom,2711,11
+2005-06-30,Transport,2604,9
+2005-06-30,Utility,2809,5
+2005-07-31,Consumer,1526,2
+2005-07-31,Energy,1544,2
+2005-07-31,FI,1566,7
+2005-07-31,Forest,1776,2
+2005-07-31,Health,1703,2
+2005-07-31,High Tech,1875,3
+2005-07-31,Insurance,2111,5
+2005-07-31,Leisure,2188,5
+2005-07-31,Metal,2562,5
+2005-07-31,Real Estate,2283,22
+2005-07-31,Telecom,2531,8
+2005-07-31,Transport,2647,14
+2005-07-31,Utility,2784,4
+2005-08-31,Consumer,1454,8
+2005-08-31,Energy,1522,5
+2005-08-31,FI,1586,5
+2005-08-31,Forest,1635,1
+2005-08-31,Health,1839,4
+2005-08-31,High Tech,1986,7
+2005-08-31,Insurance,2180,9
+2005-08-31,Leisure,2329,3
+2005-08-31,Metal,2379,13
+2005-08-31,Real Estate,2470,7
+2005-08-31,Telecom,2580,15
+2005-08-31,Transport,2792,4
+2005-08-31,Utility,2869,5
+2005-09-30,Consumer,1466,3
+2005-09-30,Energy,1534,12
+2005-09-30,FI,1508,9
+2005-09-30,Forest,1816,3
+2005-09-30,Health,1793,3
+2005-09-30,High Tech,1932,10
+2005-09-30,Insurance,2086,10
+2005-09-30,Leisure,2258,5
+2005-09-30,Metal,2470,4
+2005-09-30,Real Estate,2432,8
+2005-09-30,Telecom,2636,5
+2005-09-30,Transport,2750,5
+2005-09-30,Utility,2786,4
+2005-10-31,Consumer,1470,3
+2005-10-31,Energy,1434,8
+2005-10-31,FI,1627,3
+2005-10-31,Forest,1790,2
+2005-10-31,Health,1816,1
+2005-10-31,High Tech,1956,3
+2005-10-31,Insurance,2108,12
+2005-10-31,Leisure,2317,6
+2005-10-31,Metal,2428,9
+2005-10-31,Real Estate,2453,7
+2005-10-31,Telecom,2570,5
+2005-10-31,Transport,2560,10
+2005-10-31,Utility,2662,5
+2005-11-30,Consumer,1407,5
+2005-11-30,Energy,1618,5
+2005-11-30,FI,1610,12
+2005-11-30,Forest,1734,3
+2005-11-30,Health,1894,10
+2005-11-30,High Tech,2054,4
+2005-11-30,Insurance,2155,5
+2005-11-30,Leisure,2262,2
+2005-11-30,Metal,2321,10
+2005-11-30,Real Estate,2415,14
+2005-11-30,Telecom,2606,4
+2005-11-30,Transport,2624,10
+2005-11-30,Utility,2733,2
+2005-12-31,Consumer,1408,0
+2005-12-31,Energy,1499,6
+2005-12-31,FI,1605,9
+2005-12-31,Forest,1759,5
+2005-12-31,Health,1841,4
+2005-12-31,High Tech,1943,9
+2005-12-31,Insurance,2075,7
+2005-12-31,Leisure,2158,3
+2005-12-31,Metal,2311,9
+2005-12-31,Real Estate,2492,8
+2005-12-31,Telecom,2582,7
+2005-12-31,Transport,2692,8
+2005-12-31,Utility,2609,6
+2006-01-31,Consumer,1443,4
+2006-01-31,Energy,1701,5
+2006-01-31,FI,1734,16
+2006-01-31,Forest,1771,2
+2006-01-31,Health,1901,10
+2006-01-31,High Tech,1945,5
+2006-01-31,Insurance,2111,6
+2006-01-31,Leisure,2314,4
+2006-01-31,Metal,2321,17
+2006-01-31,Real Estate,2440,15
+2006-01-31,Telecom,2678,5
+2006-01-31,Transport,2607,8
+2006-01-31,Utility,2692,2
+2006-02-28,Consumer,1566,9
+2006-02-28,Energy,1613,9
+2006-02-28,FI,1616,7
+2006-02-28,Forest,1769,4
+2006-02-28,Health,1952,4
+2006-02-28,High Tech,1980,8
+2006-02-28,Insurance,2104,6
+2006-02-28,Leisure,2307,6
+2006-02-28,Metal,2463,11
+2006-02-28,Real Estate,2513,10
+2006-02-28,Telecom,2550,8
+2006-02-28,Transport,2576,7
+2006-02-28,Utility,2719,7
+2006-03-31,Consumer,1588,4
+2006-03-31,Energy,1452,4
+2006-03-31,FI,1724,9
+2006-03-31,Forest,1784,4
+2006-03-31,Health,1958,13
+2006-03-31,High Tech,2056,4
+2006-03-31,Insurance,2139,8
+2006-03-31,Leisure,2327,12
+2006-03-31,Metal,2367,8
+2006-03-31,Real Estate,2566,7
+2006-03-31,Telecom,2406,9
+2006-03-31,Transport,2708,10
+2006-03-31,Utility,2802,7
+2006-04-30,Consumer,1434,3
+2006-04-30,Energy,1505,7
+2006-04-30,FI,1694,4
+2006-04-30,Forest,1742,6
+2006-04-30,Health,1880,2
+2006-04-30,High Tech,2167,3
+2006-04-30,Insurance,2070,3
+2006-04-30,Leisure,2295,6
+2006-04-30,Metal,2499,20
+2006-04-30,Real Estate,2510,17
+2006-04-30,Telecom,2672,5
+2006-04-30,Transport,2651,15
+2006-04-30,Utility,2645,9
+2006-05-31,Consumer,1493,5
+2006-05-31,Energy,1521,5
+2006-05-31,FI,1604,13
+2006-05-31,Forest,1844,5
+2006-05-31,Health,1991,6
+2006-05-31,High Tech,2119,7
+2006-05-31,Insurance,2295,9
+2006-05-31,Leisure,2352,9
+2006-05-31,Metal,2408,3
+2006-05-31,Real Estate,2347,6
+2006-05-31,Telecom,2633,4
+2006-05-31,Transport,2534,6
+2006-05-31,Utility,2526,4
+2006-06-30,Consumer,1408,3
+2006-06-30,Energy,1612,2
+2006-06-30,FI,1610,8
+2006-06-30,Forest,1853,5
+2006-06-30,Health,1969,3
+2006-06-30,High Tech,1955,8
+2006-06-30,Insurance,2167,6
+2006-06-30,Leisure,2271,2
+2006-06-30,Metal,2314,6
+2006-06-30,Real Estate,2579,12
+2006-06-30,Telecom,2575,4
+2006-06-30,Transport,2690,15
+2006-06-30,Utility,2643,6
+2006-07-31,Consumer,1372,0
+2006-07-31,Energy,1588,1
+2006-07-31,FI,1679,7
+2006-07-31,Forest,1777,4
+2006-07-31,Health,1941,3
+2006-07-31,High Tech,2123,7
+2006-07-31,Insurance,2338,11
+2006-07-31,Leisure,2324,5
+2006-07-31,Metal,2381,4
+2006-07-31,Real Estate,2569,11
+2006-07-31,Telecom,2601,6
+2006-07-31,Transport,2562,5
+2006-07-31,Utility,2686,3
+2006-08-31,Consumer,1374,4
+2006-08-31,Energy,1579,0
+2006-08-31,FI,1612,3
+2006-08-31,Forest,1835,2
+2006-08-31,Health,1893,2
+2006-08-31,High Tech,2141,3
+2006-08-31,Insurance,2170,6
+2006-08-31,Leisure,2497,5
+2006-08-31,Metal,2482,7
+2006-08-31,Real Estate,2403,16
+2006-08-31,Telecom,2523,7
+2006-08-31,Transport,2675,11
+2006-08-31,Utility,2567,5
+2006-09-30,Consumer,1467,6
+2006-09-30,Energy,1622,4
+2006-09-30,FI,1653,6
+2006-09-30,Forest,1868,5
+2006-09-30,Health,1989,1
+2006-09-30,High Tech,1990,7
+2006-09-30,Insurance,2173,7
+2006-09-30,Leisure,2449,6
+2006-09-30,Metal,2467,13
+2006-09-30,Real Estate,2520,5
+2006-09-30,Telecom,2614,5
+2006-09-30,Transport,2595,8
+2006-09-30,Utility,2558,5
+2006-10-31,Consumer,1473,2
+2006-10-31,Energy,1644,10
+2006-10-31,FI,1640,5
+2006-10-31,Forest,1927,2
+2006-10-31,Health,1984,5
+2006-10-31,High Tech,2075,5
+2006-10-31,Insurance,2334,5
+2006-10-31,Leisure,2219,3
+2006-10-31,Metal,2277,11
+2006-10-31,Real Estate,2386,13
+2006-10-31,Telecom,2541,6
+2006-10-31,Transport,2645,4
+2006-10-31,Utility,2591,5
+2006-11-30,Consumer,1581,7
+2006-11-30,Energy,1629,2
+2006-11-30,FI,1644,6
+2006-11-30,Forest,1855,0
+2006-11-30,Health,2023,4
+2006-11-30,High Tech,2189,9
+2006-11-30,Insurance,2289,4
+2006-11-30,Leisure,2352,10
+2006-11-30,Metal,2487,7
+2006-11-30,Real Estate,2420,7
+2006-11-30,Telecom,2505,7
+2006-11-30,Transport,2570,11
+2006-11-30,Utility,2613,5
+2006-12-31,Consumer,1488,4
+2006-12-31,Energy,1582,3
+2006-12-31,FI,1746,7
+2006-12-31,Forest,1795,3
+2006-12-31,Health,2034,2
+2006-12-31,High Tech,1975,2
+2006-12-31,Insurance,2067,7
+2006-12-31,Leisure,2279,3
+2006-12-31,Metal,2379,5
+2006-12-31,Real Estate,2364,8
+2006-12-31,Telecom,2633,5
+2006-12-31,Transport,2383,2
+2006-12-31,Utility,2466,5
+2007-01-31,Consumer,1588,1
+2007-01-31,Energy,1714,8
+2007-01-31,FI,1829,5
+2007-01-31,Forest,1939,5
+2007-01-31,Health,1962,3
+2007-01-31,High Tech,2041,6
+2007-01-31,Insurance,2308,15
+2007-01-31,Leisure,2337,10
+2007-01-31,Metal,2448,11
+2007-01-31,Real Estate,2495,14
+2007-01-31,Telecom,2523,4
+2007-01-31,Transport,2532,7
+2007-01-31,Utility,2521,3
+2007-02-28,Consumer,1635,3
+2007-02-28,Energy,1702,3
+2007-02-28,FI,1843,11
+2007-02-28,Forest,1887,4
+2007-02-28,Health,1945,8
+2007-02-28,High Tech,2101,4
+2007-02-28,Insurance,2319,7
+2007-02-28,Leisure,2323,7
+2007-02-28,Metal,2278,5
+2007-02-28,Real Estate,2440,22
+2007-02-28,Telecom,2544,8
+2007-02-28,Transport,2488,10
+2007-02-28,Utility,2480,5
+2007-03-31,Consumer,1568,7
+2007-03-31,Energy,1647,9
+2007-03-31,FI,1778,9
+2007-03-31,Forest,1963,6
+2007-03-31,Health,2027,5
+2007-03-31,High Tech,2041,6
+2007-03-31,Insurance,2328,13
+2007-03-31,Leisure,2343,13
+2007-03-31,Metal,2473,12
+2007-03-31,Real Estate,2423,8
+2007-03-31,Telecom,2451,3
+2007-03-31,Transport,2519,23
+2007-03-31,Utility,2505,6
+2007-04-30,Consumer,1535,4
+2007-04-30,Energy,1616,13
+2007-04-30,FI,1738,10
+2007-04-30,Forest,1909,6
+2007-04-30,Health,1902,2
+2007-04-30,High Tech,2146,9
+2007-04-30,Insurance,2278,9
+2007-04-30,Leisure,2381,11
+2007-04-30,Metal,2443,8
+2007-04-30,Real Estate,2265,9
+2007-04-30,Telecom,2489,14
+2007-04-30,Transport,2541,12
+2007-04-30,Utility,2543,8
+2007-05-31,Consumer,1618,14
+2007-05-31,Energy,1653,7
+2007-05-31,FI,1824,10
+2007-05-31,Forest,1837,8
+2007-05-31,Health,1941,3
+2007-05-31,High Tech,2174,6
+2007-05-31,Insurance,2295,11
+2007-05-31,Leisure,2331,8
+2007-05-31,Metal,2299,10
+2007-05-31,Real Estate,2377,11
+2007-05-31,Telecom,2428,8
+2007-05-31,Transport,2528,6
+2007-05-31,Utility,2413,7
+2007-06-30,Consumer,1519,2
+2007-06-30,Energy,1674,13
+2007-06-30,FI,1832,5
+2007-06-30,Forest,1941,5
+2007-06-30,Health,2090,7
+2007-06-30,High Tech,2191,2
+2007-06-30,Insurance,2330,11
+2007-06-30,Leisure,2224,10
+2007-06-30,Metal,2418,13
+2007-06-30,Real Estate,2417,17
+2007-06-30,Telecom,2378,11
+2007-06-30,Transport,2479,13
+2007-06-30,Utility,2334,7
+2007-07-31,Consumer,1507,6
+2007-07-31,Energy,1634,7
+2007-07-31,FI,1815,10
+2007-07-31,Forest,1930,4
+2007-07-31,Health,2013,6
+2007-07-31,High Tech,2286,6
+2007-07-31,Insurance,2330,16
+2007-07-31,Leisure,2250,13
+2007-07-31,Metal,2241,8
+2007-07-31,Real Estate,2393,17
+2007-07-31,Telecom,2405,7
+2007-07-31,Transport,2470,14
+2007-07-31,Utility,2418,4
+2007-08-31,Consumer,1585,7
+2007-08-31,Energy,1778,7
+2007-08-31,FI,1796,14
+2007-08-31,Forest,2021,16
+2007-08-31,Health,2173,1
+2007-08-31,High Tech,2132,4
+2007-08-31,Insurance,2280,16
+2007-08-31,Leisure,2280,6
+2007-08-31,Metal,2450,7
+2007-08-31,Real Estate,2408,9
+2007-08-31,Telecom,2416,7
+2007-08-31,Transport,2440,13
+2007-08-31,Utility,2469,4
+2007-09-30,Consumer,1557,4
+2007-09-30,Energy,1725,4
+2007-09-30,FI,1878,14
+2007-09-30,Forest,1981,7
+2007-09-30,Health,2069,1
+2007-09-30,High Tech,2207,4
+2007-09-30,Insurance,2241,15
+2007-09-30,Leisure,2399,6
+2007-09-30,Metal,2379,19
+2007-09-30,Real Estate,2423,14
+2007-09-30,Telecom,2293,9
+2007-09-30,Transport,2486,10
+2007-09-30,Utility,2413,7
+2007-10-31,Consumer,1603,10
+2007-10-31,Energy,1681,5
+2007-10-31,FI,1778,4
+2007-10-31,Forest,1964,7
+2007-10-31,Health,2011,7
+2007-10-31,High Tech,2245,12
+2007-10-31,Insurance,2329,5
+2007-10-31,Leisure,2333,12
+2007-10-31,Metal,2430,11
+2007-10-31,Real Estate,2468,15
+2007-10-31,Telecom,2403,10
+2007-10-31,Transport,2346,5
+2007-10-31,Utility,2445,5
+2007-11-30,Consumer,1495,3
+2007-11-30,Energy,1832,12
+2007-11-30,FI,1933,17
+2007-11-30,Forest,1989,4
+2007-11-30,Health,2033,1
+2007-11-30,High Tech,2050,4
+2007-11-30,Insurance,2445,22
+2007-11-30,Leisure,2339,18
+2007-11-30,Metal,2378,19
+2007-11-30,Real Estate,2306,7
+2007-11-30,Telecom,2300,4
+2007-11-30,Transport,2256,12
+2007-11-30,Utility,2458,5
+2007-12-31,Consumer,1532,4
+2007-12-31,Energy,1701,15
+2007-12-31,FI,1668,13
+2007-12-31,Forest,1906,7
+2007-12-31,Health,2053,1
+2007-12-31,High Tech,2119,6
+2007-12-31,Insurance,2289,9
+2007-12-31,Leisure,2284,8
+2007-12-31,Metal,2316,6
+2007-12-31,Real Estate,2448,17
+2007-12-31,Telecom,2344,3
+2007-12-31,Transport,2473,13
+2007-12-31,Utility,2395,7
+2008-01-31,Consumer,1601,3
+2008-01-31,Energy,1680,10
+2008-01-31,FI,1841,22
+2008-01-31,Forest,1948,15
+2008-01-31,Health,2073,3
+2008-01-31,High Tech,2139,3
+2008-01-31,Insurance,2424,10
+2008-01-31,Leisure,2426,15
+2008-01-31,Metal,2463,23
+2008-01-31,Real Estate,2314,22
+2008-01-31,Telecom,2354,4
+2008-01-31,Transport,2439,6
+2008-01-31,Utility,2434,5
+2008-02-29,Consumer,1577,4
+2008-02-29,Energy,1652,8
+2008-02-29,FI,1720,9
+2008-02-29,Forest,2062,5
+2008-02-29,Health,2044,3
+2008-02-29,High Tech,2317,6
+2008-02-29,Insurance,2360,10
+2008-02-29,Leisure,2456,9
+2008-02-29,Metal,2391,17
+2008-02-29,Real Estate,2342,17
+2008-02-29,Telecom,2332,7
+2008-02-29,Transport,2434,15
+2008-02-29,Utility,2407,6
+2008-03-31,Consumer,1559,4
+2008-03-31,Energy,1776,10
+2008-03-31,FI,1902,11
+2008-03-31,Forest,2112,8
+2008-03-31,Health,2124,11
+2008-03-31,High Tech,2004,4
+2008-03-31,Insurance,2167,13
+2008-03-31,Leisure,2332,12
+2008-03-31,Metal,2374,14
+2008-03-31,Real Estate,2290,19
+2008-03-31,Telecom,2309,4
+2008-03-31,Transport,2398,8
+2008-03-31,Utility,2300,4
+2008-04-30,Consumer,1652,2
+2008-04-30,Energy,1759,8
+2008-04-30,FI,1882,16
+2008-04-30,Forest,1959,4
+2008-04-30,Health,2147,6
+2008-04-30,High Tech,2250,3
+2008-04-30,Insurance,2308,16
+2008-04-30,Leisure,2376,6
+2008-04-30,Metal,2267,9
+2008-04-30,Real Estate,2395,26
+2008-04-30,Telecom,2235,10
+2008-04-30,Transport,2328,9
+2008-04-30,Utility,2410,8
+2008-05-31,Consumer,1676,3
+2008-05-31,Energy,1834,7
+2008-05-31,FI,2014,20
+2008-05-31,Forest,1849,6
+2008-05-31,Health,2052,4
+2008-05-31,High Tech,1989,7
+2008-05-31,Insurance,2197,5
+2008-05-31,Leisure,2082,4
+2008-05-31,Metal,2323,15
+2008-05-31,Real Estate,2278,18
+2008-05-31,Telecom,2462,1
+2008-05-31,Transport,2326,5
+2008-05-31,Utility,2343,7
+2008-06-30,Consumer,1714,3
+2008-06-30,Energy,1763,11
+2008-06-30,FI,1842,8
+2008-06-30,Forest,1806,15
+2008-06-30,Health,2252,3
+2008-06-30,High Tech,2041,4
+2008-06-30,Insurance,2209,8
+2008-06-30,Leisure,2341,5
+2008-06-30,Metal,2170,5
+2008-06-30,Real Estate,2230,15
+2008-06-30,Telecom,2271,8
+2008-06-30,Transport,2381,15
+2008-06-30,Utility,2440,10
+2008-07-31,Consumer,1647,1
+2008-07-31,Energy,1762,4
+2008-07-31,FI,1943,17
+2008-07-31,Forest,2003,9
+2008-07-31,Health,2095,5
+2008-07-31,High Tech,2122,1
+2008-07-31,Insurance,2097,8
+2008-07-31,Leisure,2159,13
+2008-07-31,Metal,2227,12
+2008-07-31,Real Estate,2398,11
+2008-07-31,Telecom,2318,4
+2008-07-31,Transport,2301,5
+2008-07-31,Utility,2378,5
+2008-08-31,Consumer,1582,3
+2008-08-31,Energy,1679,10
+2008-08-31,FI,1883,7
+2008-08-31,Forest,2052,4
+2008-08-31,Health,2019,5
+2008-08-31,High Tech,2250,4
+2008-08-31,Insurance,2009,10
+2008-08-31,Leisure,2075,14
+2008-08-31,Metal,2255,3
+2008-08-31,Real Estate,2240,8
+2008-08-31,Telecom,2259,5
+2008-08-31,Transport,2389,7
+2008-08-31,Utility,2447,4
+2008-09-30,Consumer,1672,1
+2008-09-30,Energy,1917,9
+2008-09-30,FI,1903,14
+2008-09-30,Forest,1934,5
+2008-09-30,Health,2094,4
+2008-09-30,High Tech,2263,7
+2008-09-30,Insurance,2123,8
+2008-09-30,Leisure,2325,4
+2008-09-30,Metal,2226,6
+2008-09-30,Real Estate,2182,11
+2008-09-30,Telecom,2335,5
+2008-09-30,Transport,2390,3
+2008-09-30,Utility,2262,3
+2008-10-31,Consumer,1635,3
+2008-10-31,Energy,1713,9
+2008-10-31,FI,1878,10
+2008-10-31,Forest,2010,5
+2008-10-31,Health,2043,4
+2008-10-31,High Tech,2044,3
+2008-10-31,Insurance,2164,7
+2008-10-31,Leisure,2265,9
+2008-10-31,Metal,2242,4
+2008-10-31,Real Estate,2211,7
+2008-10-31,Telecom,2428,4
+2008-10-31,Transport,2208,14
+2008-10-31,Utility,2346,5
+2008-11-30,Consumer,1781,2
+2008-11-30,Energy,1953,18
+2008-11-30,FI,1874,7
+2008-11-30,Forest,2107,8
+2008-11-30,Health,2124,4
+2008-11-30,High Tech,2140,1
+2008-11-30,Insurance,2070,4
+2008-11-30,Leisure,2130,6
+2008-11-30,Metal,2222,6
+2008-11-30,Real Estate,2245,5
+2008-11-30,Telecom,2374,5
+2008-11-30,Transport,2276,7
+2008-11-30,Utility,2387,2
+2008-12-31,Consumer,1708,5
+2008-12-31,Energy,1671,15
+2008-12-31,FI,1942,3
+2008-12-31,Forest,1998,10
+2008-12-31,Health,1972,2
+2008-12-31,High Tech,1966,6
+2008-12-31,Insurance,2123,6
+2008-12-31,Leisure,2098,1
+2008-12-31,Metal,2191,13
+2008-12-31,Real Estate,2256,16
+2008-12-31,Telecom,2263,2
+2008-12-31,Transport,2256,11
+2008-12-31,Utility,2323,3
+2009-01-31,Consumer,1805,7
+2009-01-31,Energy,1864,11
+2009-01-31,FI,1844,6
+2009-01-31,Forest,2105,6
+2009-01-31,Health,1972,4
+2009-01-31,High Tech,2103,4
+2009-01-31,Insurance,2158,8
+2009-01-31,Leisure,2099,7
+2009-01-31,Metal,2245,13
+2009-01-31,Real Estate,2201,15
+2009-01-31,Telecom,2413,2
+2009-01-31,Transport,2311,8
+2009-01-31,Utility,2364,10
+2009-02-28,Consumer,1722,5
+2009-02-28,Energy,1976,13
+2009-02-28,FI,1921,5
+2009-02-28,Forest,1846,3
+2009-02-28,Health,2104,6
+2009-02-28,High Tech,1903,2
+2009-02-28,Insurance,2198,3
+2009-02-28,Leisure,2141,11
+2009-02-28,Metal,2182,14
+2009-02-28,Real Estate,2206,11
+2009-02-28,Telecom,2253,4
+2009-02-28,Transport,2374,3
+2009-02-28,Utility,2386,5
+2009-03-31,Consumer,1641,6
+2009-03-31,Energy,1777,12
+2009-03-31,FI,1995,4
+2009-03-31,Forest,2014,6
+2009-03-31,Health,2035,4
+2009-03-31,High Tech,2080,9
+2009-03-31,Insurance,2178,9
+2009-03-31,Leisure,2099,8
+2009-03-31,Metal,2213,12
+2009-03-31,Real Estate,2215,9
+2009-03-31,Telecom,2108,9
+2009-03-31,Transport,2270,15
+2009-03-31,Utility,2268,8
+2009-04-30,Consumer,1694,2
+2009-04-30,Energy,1848,20
+2009-04-30,FI,1926,10
+2009-04-30,Forest,1821,8
+2009-04-30,Health,2212,5
+2009-04-30,High Tech,2022,4
+2009-04-30,Insurance,2098,8
+2009-04-30,Leisure,2018,8
+2009-04-30,Metal,2145,6
+2009-04-30,Real Estate,2152,12
+2009-04-30,Telecom,2253,10
+2009-04-30,Transport,2256,4
+2009-04-30,Utility,2361,4
+2009-05-31,Consumer,1646,11
+2009-05-31,Energy,1900,7
+2009-05-31,FI,1959,12
+2009-05-31,Forest,2060,8
+2009-05-31,Health,2038,5
+2009-05-31,High Tech,2162,9
+2009-05-31,Insurance,2052,5
+2009-05-31,Leisure,2244,6
+2009-05-31,Metal,2185,10
+2009-05-31,Real Estate,2147,5
+2009-05-31,Telecom,2192,6
+2009-05-31,Transport,2252,5
+2009-05-31,Utility,2312,1
+2009-06-30,Consumer,1738,4
+2009-06-30,Energy,1784,9
+2009-06-30,FI,1889,12
+2009-06-30,Forest,2073,11
+2009-06-30,Health,1950,4
+2009-06-30,High Tech,2122,9
+2009-06-30,Insurance,2076,4
+2009-06-30,Leisure,2115,4
+2009-06-30,Metal,2145,11
+2009-06-30,Real Estate,2088,8
+2009-06-30,Telecom,2247,11
+2009-06-30,Transport,2326,3
+2009-06-30,Utility,2358,3
+2009-07-31,Consumer,1724,6
+2009-07-31,Energy,1846,3
+2009-07-31,FI,2078,7
+2009-07-31,Forest,1978,8
+2009-07-31,Health,2008,4
+2009-07-31,High Tech,2122,4
+2009-07-31,Insurance,1937,7
+2009-07-31,Leisure,2120,6
+2009-07-31,Metal,2083,4
+2009-07-31,Real Estate,2270,12
+2009-07-31,Telecom,2160,6
+2009-07-31,Transport,2244,4
+2009-07-31,Utility,2390,8
+2009-08-31,Consumer,1663,3
+2009-08-31,Energy,1782,7
+2009-08-31,FI,1915,12
+2009-08-31,Forest,1920,7
+2009-08-31,Health,2100,7
+2009-08-31,High Tech,2036,9
+2009-08-31,Insurance,2133,8
+2009-08-31,Leisure,2045,6
+2009-08-31,Metal,2091,8
+2009-08-31,Real Estate,2115,5
+2009-08-31,Telecom,2091,11
+2009-08-31,Transport,2356,13
+2009-08-31,Utility,2389,2
+2009-09-30,Consumer,1627,3
+2009-09-30,Energy,1916,11
+2009-09-30,FI,1894,16
+2009-09-30,Forest,1952,6
+2009-09-30,Health,1970,8
+2009-09-30,High Tech,2175,4
+2009-09-30,Insurance,1969,21
+2009-09-30,Leisure,2066,8
+2009-09-30,Metal,2122,18
+2009-09-30,Real Estate,2023,9
+2009-09-30,Telecom,2271,4
+2009-09-30,Transport,2309,5
+2009-09-30,Utility,2386,3
+2009-10-31,Consumer,1598,2
+2009-10-31,Energy,1775,17
+2009-10-31,FI,1745,11
+2009-10-31,Forest,1910,4
+2009-10-31,Health,2043,6
+2009-10-31,High Tech,1929,2
+2009-10-31,Insurance,2020,15
+2009-10-31,Leisure,1984,6
+2009-10-31,Metal,1997,11
+2009-10-31,Real Estate,2227,12
+2009-10-31,Telecom,2186,5
+2009-10-31,Transport,2291,9
+2009-10-31,Utility,2465,5
+2009-11-30,Consumer,1719,3
+2009-11-30,Energy,1801,9
+2009-11-30,FI,1808,9
+2009-11-30,Forest,1842,7
+2009-11-30,Health,2014,6
+2009-11-30,High Tech,2068,3
+2009-11-30,Insurance,2011,12
+2009-11-30,Leisure,2087,8
+2009-11-30,Metal,1992,6
+2009-11-30,Real Estate,2118,23
+2009-11-30,Telecom,2256,4
+2009-11-30,Transport,2228,16
+2009-11-30,Utility,2457,6
+2009-12-31,Consumer,1652,2
+2009-12-31,Energy,1727,6
+2009-12-31,FI,1860,9
+2009-12-31,Forest,1947,5
+2009-12-31,Health,1889,5
+2009-12-31,High Tech,2072,4
+2009-12-31,Insurance,2078,8
+2009-12-31,Leisure,2146,5
+2009-12-31,Metal,2001,11
+2009-12-31,Real Estate,2039,14
+2009-12-31,Telecom,2169,5
+2009-12-31,Transport,2293,10
+2009-12-31,Utility,2682,3
+2010-01-31,Consumer,1721,2
+2010-01-31,Energy,1701,7
+2010-01-31,FI,1898,12
+2010-01-31,Forest,1936,6
+2010-01-31,Health,2081,2
+2010-01-31,High Tech,2001,8
+2010-01-31,Insurance,1945,16
+2010-01-31,Leisure,2051,2
+2010-01-31,Metal,1935,12
+2010-01-31,Real Estate,2106,10
+2010-01-31,Telecom,2084,3
+2010-01-31,Transport,2215,12
+2010-01-31,Utility,2464,4
+2010-02-28,Consumer,1868,6
+2010-02-28,Energy,1739,14
+2010-02-28,FI,1773,15
+2010-02-28,Forest,1899,9
+2010-02-28,Health,2012,3
+2010-02-28,High Tech,1938,7
+2010-02-28,Insurance,2077,19
+2010-02-28,Leisure,1953,17
+2010-02-28,Metal,1995,10
+2010-02-28,Real Estate,2122,9
+2010-02-28,Telecom,2234,3
+2010-02-28,Transport,2296,6
+2010-02-28,Utility,2365,12
+2010-03-31,Consumer,1803,4
+2010-03-31,Energy,1803,7
+2010-03-31,FI,1798,14
+2010-03-31,Forest,1968,6
+2010-03-31,Health,1991,6
+2010-03-31,High Tech,1853,5
+2010-03-31,Insurance,1935,3
+2010-03-31,Leisure,1990,7
+2010-03-31,Metal,2125,5
+2010-03-31,Real Estate,2042,8
+2010-03-31,Telecom,2099,6
+2010-03-31,Transport,2248,2
+2010-03-31,Utility,2551,0
+2010-04-30,Consumer,1714,3
+2010-04-30,Energy,1862,9
+2010-04-30,FI,1874,9
+2010-04-30,Forest,1838,5
+2010-04-30,Health,1974,2
+2010-04-30,High Tech,2019,5
+2010-04-30,Insurance,2078,11
+2010-04-30,Leisure,2109,4
+2010-04-30,Metal,2041,11
+2010-04-30,Real Estate,2162,18
+2010-04-30,Telecom,2105,1
+2010-04-30,Transport,2286,15
+2010-04-30,Utility,2379,2
+2010-05-31,Consumer,1674,4
+2010-05-31,Energy,1831,15
+2010-05-31,FI,1934,13
+2010-05-31,Forest,1925,5
+2010-05-31,Health,1964,4
+2010-05-31,High Tech,1942,3
+2010-05-31,Insurance,1918,11
+2010-05-31,Leisure,1938,3
+2010-05-31,Metal,2076,4
+2010-05-31,Real Estate,2229,20
+2010-05-31,Telecom,2238,4
+2010-05-31,Transport,2399,9
+2010-05-31,Utility,2508,3
+2010-06-30,Consumer,1786,5
+2010-06-30,Energy,1715,2
+2010-06-30,FI,1765,18
+2010-06-30,Forest,1887,11
+2010-06-30,Health,1860,2
+2010-06-30,High Tech,1864,5
+2010-06-30,Insurance,1929,10
+2010-06-30,Leisure,1985,9
+2010-06-30,Metal,2045,7
+2010-06-30,Real Estate,2147,8
+2010-06-30,Telecom,2180,4
+2010-06-30,Transport,2388,3
+2010-06-30,Utility,2418,9
+2010-07-31,Consumer,1639,3
+2010-07-31,Energy,1730,9
+2010-07-31,FI,1773,13
+2010-07-31,Forest,1937,4
+2010-07-31,Health,1920,5
+2010-07-31,High Tech,1848,5
+2010-07-31,Insurance,1918,3
+2010-07-31,Leisure,2050,4
+2010-07-31,Metal,1962,5
+2010-07-31,Real Estate,2168,6
+2010-07-31,Telecom,2275,7
+2010-07-31,Transport,2406,9
+2010-07-31,Utility,2594,6
+2010-08-31,Consumer,1720,4
+2010-08-31,Energy,1914,10
+2010-08-31,FI,1792,4
+2010-08-31,Forest,1785,5
+2010-08-31,Health,1879,1
+2010-08-31,High Tech,1964,1
+2010-08-31,Insurance,1932,9
+2010-08-31,Leisure,1913,4
+2010-08-31,Metal,2130,13
+2010-08-31,Real Estate,2142,10
+2010-08-31,Telecom,2288,5
+2010-08-31,Transport,2276,8
+2010-08-31,Utility,2594,11
+2010-09-30,Consumer,1599,4
+2010-09-30,Energy,1751,6
+2010-09-30,FI,1771,10
+2010-09-30,Forest,1898,4
+2010-09-30,Health,1866,4
+2010-09-30,High Tech,1915,4
+2010-09-30,Insurance,1923,17
+2010-09-30,Leisure,1988,11
+2010-09-30,Metal,1994,8
+2010-09-30,Real Estate,2018,7
+2010-09-30,Telecom,2300,9
+2010-09-30,Transport,2432,12
+2010-09-30,Utility,2406,8
+2010-10-31,Consumer,1692,1
+2010-10-31,Energy,1769,6
+2010-10-31,FI,1938,17
+2010-10-31,Forest,1885,11
+2010-10-31,Health,1894,2
+2010-10-31,High Tech,1864,2
+2010-10-31,Insurance,1895,7
+2010-10-31,Leisure,2025,8
+2010-10-31,Metal,2061,8
+2010-10-31,Real Estate,2032,15
+2010-10-31,Telecom,2245,6
+2010-10-31,Transport,2321,4
+2010-10-31,Utility,2570,7
+2010-11-30,Consumer,1637,3
+2010-11-30,Energy,1645,2
+2010-11-30,FI,1825,9
+2010-11-30,Forest,1699,6
+2010-11-30,Health,1886,6
+2010-11-30,High Tech,1895,10
+2010-11-30,Insurance,1850,9
+2010-11-30,Leisure,1955,7
+2010-11-30,Metal,2120,14
+2010-11-30,Real Estate,2291,14
+2010-11-30,Telecom,2339,10
+2010-11-30,Transport,2339,8
+2010-11-30,Utility,2567,2
+2010-12-31,Consumer,1759,7
+2010-12-31,Energy,1573,9
+2010-12-31,FI,1795,16
+2010-12-31,Forest,1801,3
+2010-12-31,Health,1767,2
+2010-12-31,High Tech,1967,5
+2010-12-31,Insurance,1867,1
+2010-12-31,Leisure,1945,9
+2010-12-31,Metal,2148,8
+2010-12-31,Real Estate,2107,17
+2010-12-31,Telecom,2405,11
+2010-12-31,Transport,2433,6
+2010-12-31,Utility,2588,4
+2011-01-31,Consumer,1666,4
+2011-01-31,Energy,1576,5
+2011-01-31,FI,1851,11
+2011-01-31,Forest,1818,5
+2011-01-31,Health,1844,6
+2011-01-31,High Tech,1861,5
+2011-01-31,Insurance,1959,6
+2011-01-31,Leisure,1948,11
+2011-01-31,Metal,2131,17
+2011-01-31,Real Estate,2170,13
+2011-01-31,Telecom,2380,2
+2011-01-31,Transport,2518,12
+2011-01-31,Utility,2554,7
+2011-02-28,Consumer,1687,7
+2011-02-28,Energy,1838,14
+2011-02-28,FI,1792,16
+2011-02-28,Forest,1767,5
+2011-02-28,Health,1849,5
+2011-02-28,High Tech,1919,11
+2011-02-28,Insurance,1980,9
+2011-02-28,Leisure,1932,14
+2011-02-28,Metal,1972,13
+2011-02-28,Real Estate,2118,9
+2011-02-28,Telecom,2271,5
+2011-02-28,Transport,2366,5
+2011-02-28,Utility,2679,7
+2011-03-31,Consumer,1640,5
+2011-03-31,Energy,1701,6
+2011-03-31,FI,1621,17
+2011-03-31,Forest,1810,5
+2011-03-31,Health,1775,3
+2011-03-31,High Tech,1938,13
+2011-03-31,Insurance,1952,5
+2011-03-31,Leisure,1888,15
+2011-03-31,Metal,2052,8
+2011-03-31,Real Estate,2110,12
+2011-03-31,Telecom,2369,11
+2011-03-31,Transport,2506,8
+2011-03-31,Utility,2500,7
+2011-04-30,Consumer,1722,3
+2011-04-30,Energy,1865,6
+2011-04-30,FI,1590,18
+2011-04-30,Forest,1704,3
+2011-04-30,Health,1834,2
+2011-04-30,High Tech,1750,2
+2011-04-30,Insurance,2023,20
+2011-04-30,Leisure,2053,6
+2011-04-30,Metal,2146,9
+2011-04-30,Real Estate,2161,20
+2011-04-30,Telecom,2315,7
+2011-04-30,Transport,2577,18
+2011-04-30,Utility,2681,7
+2011-05-31,Consumer,1648,2
+2011-05-31,Energy,1706,10
+2011-05-31,FI,1600,8
+2011-05-31,Forest,1763,6
+2011-05-31,Health,1826,4
+2011-05-31,High Tech,1851,0
+2011-05-31,Insurance,1822,11
+2011-05-31,Leisure,2010,16
+2011-05-31,Metal,2029,11
+2011-05-31,Real Estate,2364,13
+2011-05-31,Telecom,2341,7
+2011-05-31,Transport,2473,12
+2011-05-31,Utility,2742,10
+2011-06-30,Consumer,1774,1
+2011-06-30,Energy,1701,6
+2011-06-30,FI,1819,8
+2011-06-30,Forest,1701,7
+2011-06-30,Health,1789,6
+2011-06-30,High Tech,1851,3
+2011-06-30,Insurance,2008,7
+2011-06-30,Leisure,1915,6
+2011-06-30,Metal,2114,12
+2011-06-30,Real Estate,2197,9
+2011-06-30,Telecom,2263,11
+2011-06-30,Transport,2465,11
+2011-06-30,Utility,2521,7
+2011-07-31,Consumer,1799,7
+2011-07-31,Energy,1630,15
+2011-07-31,FI,1862,7
+2011-07-31,Forest,1681,4
+2011-07-31,Health,1881,4
+2011-07-31,High Tech,1815,3
+2011-07-31,Insurance,1970,8
+2011-07-31,Leisure,1988,6
+2011-07-31,Metal,2093,2
+2011-07-31,Real Estate,2176,12
+2011-07-31,Telecom,2345,6
+2011-07-31,Transport,2500,8
+2011-07-31,Utility,2748,6
+2011-08-31,Consumer,1779,6
+2011-08-31,Energy,1626,3
+2011-08-31,FI,1678,9
+2011-08-31,Forest,1749,1
+2011-08-31,Health,1755,2
+2011-08-31,High Tech,1823,10
+2011-08-31,Insurance,1943,6
+2011-08-31,Leisure,2026,8
+2011-08-31,Metal,2221,10
+2011-08-31,Real Estate,2235,15
+2011-08-31,Telecom,2327,9
+2011-08-31,Transport,2534,11
+2011-08-31,Utility,2668,4
+2011-09-30,Consumer,1797,6
+2011-09-30,Energy,1653,4
+2011-09-30,FI,1628,5
+2011-09-30,Forest,1753,4
+2011-09-30,Health,1762,5
+2011-09-30,High Tech,1892,0
+2011-09-30,Insurance,1860,7
+2011-09-30,Leisure,1892,1
+2011-09-30,Metal,2188,7
+2011-09-30,Real Estate,2095,11
+2011-09-30,Telecom,2492,9
+2011-09-30,Transport,2539,9
+2011-09-30,Utility,2574,4
+2011-10-31,Consumer,1862,5
+2011-10-31,Energy,1582,4
+2011-10-31,FI,1751,4
+2011-10-31,Forest,1828,4
+2011-10-31,Health,1791,2
+2011-10-31,High Tech,1844,5
+2011-10-31,Insurance,1911,6
+2011-10-31,Leisure,1964,3
+2011-10-31,Metal,2085,6
+2011-10-31,Real Estate,2305,13
+2011-10-31,Telecom,2485,7
+2011-10-31,Transport,2509,6
+2011-10-31,Utility,2828,5
+2011-11-30,Consumer,1639,3
+2011-11-30,Energy,1526,4
+2011-11-30,FI,1764,13
+2011-11-30,Forest,1833,8
+2011-11-30,Health,1719,1
+2011-11-30,High Tech,1820,4
+2011-11-30,Insurance,1976,7
+2011-11-30,Leisure,2032,3
+2011-11-30,Metal,2112,9
+2011-11-30,Real Estate,2236,9
+2011-11-30,Telecom,2372,9
+2011-11-30,Transport,2536,8
+2011-11-30,Utility,2745,7
+2011-12-31,Consumer,1629,2
+2011-12-31,Energy,1622,10
+2011-12-31,FI,1613,9
+2011-12-31,Forest,1708,1
+2011-12-31,Health,1854,3
+2011-12-31,High Tech,1793,3
+2011-12-31,Insurance,2055,10
+2011-12-31,Leisure,2029,12
+2011-12-31,Metal,1997,9
+2011-12-31,Real Estate,2310,7
+2011-12-31,Telecom,2398,3
+2011-12-31,Transport,2497,18
+2011-12-31,Utility,2617,2
+2012-01-31,Consumer,1641,11
+2012-01-31,Energy,1648,8
+2012-01-31,FI,1664,7
+2012-01-31,Forest,1780,6
+2012-01-31,Health,1817,3
+2012-01-31,High Tech,1710,4
+2012-01-31,Insurance,1896,4
+2012-01-31,Leisure,2049,6
+2012-01-31,Metal,2166,14
+2012-01-31,Real Estate,2245,6
+2012-01-31,Telecom,2422,7
+2012-01-31,Transport,2587,4
+2012-01-31,Utility,2671,4
+2012-02-29,Consumer,1555,2
+2012-02-29,Energy,1636,9
+2012-02-29,FI,1801,5
+2012-02-29,Forest,1730,7
+2012-02-29,Health,1749,6
+2012-02-29,High Tech,1889,9
+2012-02-29,Insurance,1981,9
+2012-02-29,Leisure,2012,6
+2012-02-29,Metal,2160,18
+2012-02-29,Real Estate,2276,13
+2012-02-29,Telecom,2480,10
+2012-02-29,Transport,2549,7
+2012-02-29,Utility,2736,4
+2012-03-31,Consumer,1581,8
+2012-03-31,Energy,1638,6
+2012-03-31,FI,1664,9
+2012-03-31,Forest,1749,2
+2012-03-31,Health,1792,6
+2012-03-31,High Tech,1885,7
+2012-03-31,Insurance,1993,7
+2012-03-31,Leisure,2006,3
+2012-03-31,Metal,2042,8
+2012-03-31,Real Estate,2413,11
+2012-03-31,Telecom,2494,14
+2012-03-31,Transport,2671,6
+2012-03-31,Utility,2697,10
+2012-04-30,Consumer,1644,3
+2012-04-30,Energy,1673,4
+2012-04-30,FI,1636,3
+2012-04-30,Forest,1567,5
+2012-04-30,Health,1787,0
+2012-04-30,High Tech,1865,4
+2012-04-30,Insurance,2013,5
+2012-04-30,Leisure,2097,7
+2012-04-30,Metal,2207,6
+2012-04-30,Real Estate,2329,10
+2012-04-30,Telecom,2443,1
+2012-04-30,Transport,2585,8
+2012-04-30,Utility,2802,1
+2012-05-31,Consumer,1446,2
+2012-05-31,Energy,1544,5
+2012-05-31,FI,1737,8
+2012-05-31,Forest,1668,7
+2012-05-31,Health,1776,5
+2012-05-31,High Tech,1999,6
+2012-05-31,Insurance,1938,12
+2012-05-31,Leisure,2116,7
+2012-05-31,Metal,2092,10
+2012-05-31,Real Estate,2367,20
+2012-05-31,Telecom,2411,5
+2012-05-31,Transport,2548,5
+2012-05-31,Utility,2703,9
+2012-06-30,Consumer,1637,5
+2012-06-30,Energy,1584,5
+2012-06-30,FI,1670,8
+2012-06-30,Forest,1693,5
+2012-06-30,Health,1865,2
+2012-06-30,High Tech,1821,5
+2012-06-30,Insurance,1868,14
+2012-06-30,Leisure,2121,10
+2012-06-30,Metal,2232,8
+2012-06-30,Real Estate,2390,8
+2012-06-30,Telecom,2525,7
+2012-06-30,Transport,2630,6
+2012-06-30,Utility,2732,3
+2012-07-31,Consumer,1610,4
+2012-07-31,Energy,1594,5
+2012-07-31,FI,1643,17
+2012-07-31,Forest,1666,5
+2012-07-31,Health,1714,6
+2012-07-31,High Tech,1837,5
+2012-07-31,Insurance,1934,15
+2012-07-31,Leisure,2018,6
+2012-07-31,Metal,2174,9
+2012-07-31,Real Estate,2329,15
+2012-07-31,Telecom,2448,8
+2012-07-31,Transport,2665,8
+2012-07-31,Utility,2825,7
+2012-08-31,Consumer,1567,1
+2012-08-31,Energy,1488,9
+2012-08-31,FI,1534,8
+2012-08-31,Forest,1690,7
+2012-08-31,Health,1722,4
+2012-08-31,High Tech,1905,7
+2012-08-31,Insurance,1988,10
+2012-08-31,Leisure,2102,6
+2012-08-31,Metal,2387,25
+2012-08-31,Real Estate,2432,8
+2012-08-31,Telecom,2472,10
+2012-08-31,Transport,2677,11
+2012-08-31,Utility,2733,9
+2012-09-30,Consumer,1562,8
+2012-09-30,Energy,1491,10
+2012-09-30,FI,1643,7
+2012-09-30,Forest,1501,7
+2012-09-30,Health,1872,5
+2012-09-30,High Tech,1822,8
+2012-09-30,Insurance,1950,6
+2012-09-30,Leisure,2136,6
+2012-09-30,Metal,2277,4
+2012-09-30,Real Estate,2440,11
+2012-09-30,Telecom,2498,6
+2012-09-30,Transport,2620,23
+2012-09-30,Utility,2748,4
+2012-10-31,Consumer,1478,4
+2012-10-31,Energy,1575,3
+2012-10-31,FI,1701,5
+2012-10-31,Forest,1572,2
+2012-10-31,Health,1721,4
+2012-10-31,High Tech,1946,3
+2012-10-31,Insurance,1973,9
+2012-10-31,Leisure,2182,9
+2012-10-31,Metal,2181,8
+2012-10-31,Real Estate,2494,8
+2012-10-31,Telecom,2477,4
+2012-10-31,Transport,2611,7
+2012-10-31,Utility,2698,5
+2012-11-30,Consumer,1534,0
+2012-11-30,Energy,1639,10
+2012-11-30,FI,1680,12
+2012-11-30,Forest,1781,4
+2012-11-30,Health,1757,7
+2012-11-30,High Tech,1838,4
+2012-11-30,Insurance,1921,17
+2012-11-30,Leisure,2156,16
+2012-11-30,Metal,2350,8
+2012-11-30,Real Estate,2479,13
+2012-11-30,Telecom,2563,7
+2012-11-30,Transport,2601,12
+2012-11-30,Utility,2842,7
+2012-12-31,Consumer,1595,3
+2012-12-31,Energy,1589,6
+2012-12-31,FI,1542,8
+2012-12-31,Forest,1726,10
+2012-12-31,Health,1815,3
+2012-12-31,High Tech,1965,8
+2012-12-31,Insurance,2035,10
+2012-12-31,Leisure,2190,12
+2012-12-31,Metal,2417,3
+2012-12-31,Real Estate,2504,15
+2012-12-31,Telecom,2580,8
+2012-12-31,Transport,2635,9
+2012-12-31,Utility,2788,5
+2013-01-31,Consumer,1464,7
+2013-01-31,Energy,1498,8
+2013-01-31,FI,1588,21
+2013-01-31,Forest,1686,5
+2013-01-31,Health,1760,5
+2013-01-31,High Tech,1870,2
+2013-01-31,Insurance,2017,12
+2013-01-31,Leisure,2178,10
+2013-01-31,Metal,2143,15
+2013-01-31,Real Estate,2312,20
+2013-01-31,Telecom,2510,14
+2013-01-31,Transport,2837,3
+2013-01-31,Utility,2727,11
+2013-02-28,Consumer,1606,9
+2013-02-28,Energy,1539,17
+2013-02-28,FI,1656,13
+2013-02-28,Forest,1725,5
+2013-02-28,Health,1813,4
+2013-02-28,High Tech,1874,9
+2013-02-28,Insurance,1945,17
+2013-02-28,Leisure,2244,14
+2013-02-28,Metal,2248,8
+2013-02-28,Real Estate,2326,26
+2013-02-28,Telecom,2463,11
+2013-02-28,Transport,2649,17
+2013-02-28,Utility,2619,5
+2013-03-31,Consumer,1587,3
+2013-03-31,Energy,1555,11
+2013-03-31,FI,1696,17
+2013-03-31,Forest,1825,21
+2013-03-31,Health,1804,1
+2013-03-31,High Tech,1968,3
+2013-03-31,Insurance,1963,14
+2013-03-31,Leisure,2311,17
+2013-03-31,Metal,2317,23
+2013-03-31,Real Estate,2481,24
+2013-03-31,Telecom,2688,10
+2013-03-31,Transport,2721,19
+2013-03-31,Utility,2649,10
+2013-04-30,Consumer,1400,4
+2013-04-30,Energy,1643,8
+2013-04-30,FI,1648,10
+2013-04-30,Forest,1815,12
+2013-04-30,Health,1727,2
+2013-04-30,High Tech,1887,8
+2013-04-30,Insurance,2053,14
+2013-04-30,Leisure,2199,7
+2013-04-30,Metal,2338,9
+2013-04-30,Real Estate,2450,30
+2013-04-30,Telecom,2496,15
+2013-04-30,Transport,2748,13
+2013-04-30,Utility,2815,10
+2013-05-31,Consumer,1505,9
+2013-05-31,Energy,1599,13
+2013-05-31,FI,1562,9
+2013-05-31,Forest,1691,11
+2013-05-31,Health,1805,9
+2013-05-31,High Tech,1954,4
+2013-05-31,Insurance,2015,9
+2013-05-31,Leisure,2223,13
+2013-05-31,Metal,2449,8
+2013-05-31,Real Estate,2418,12
+2013-05-31,Telecom,2601,5
+2013-05-31,Transport,2685,7
+2013-05-31,Utility,2743,12
+2013-06-30,Consumer,1479,3
+2013-06-30,Energy,1537,7
+2013-06-30,FI,1502,13
+2013-06-30,Forest,1564,4
+2013-06-30,Health,1859,3
+2013-06-30,High Tech,1985,3
+2013-06-30,Insurance,2015,9
+2013-06-30,Leisure,2225,10
+2013-06-30,Metal,2395,22
+2013-06-30,Real Estate,2425,12
+2013-06-30,Telecom,2584,7
+2013-06-30,Transport,2661,7
+2013-06-30,Utility,2696,6
+2013-07-31,Consumer,1553,5
+2013-07-31,Energy,1595,7
+2013-07-31,FI,1666,7
+2013-07-31,Forest,1675,3
+2013-07-31,Health,1702,4
+2013-07-31,High Tech,1913,7
+2013-07-31,Insurance,2027,12
+2013-07-31,Leisure,2344,9
+2013-07-31,Metal,2219,17
+2013-07-31,Real Estate,2526,13
+2013-07-31,Telecom,2449,5
+2013-07-31,Transport,2738,19
+2013-07-31,Utility,2690,10
+2013-08-31,Consumer,1446,6
+2013-08-31,Energy,1613,9
+2013-08-31,FI,1700,15
+2013-08-31,Forest,1730,4
+2013-08-31,Health,1886,3
+2013-08-31,High Tech,1993,3
+2013-08-31,Insurance,2095,9
+2013-08-31,Leisure,2267,8
+2013-08-31,Metal,2458,11
+2013-08-31,Real Estate,2404,12
+2013-08-31,Telecom,2467,12
+2013-08-31,Transport,2625,7
+2013-08-31,Utility,2730,7
+2013-09-30,Consumer,1339,4
+2013-09-30,Energy,1487,9
+2013-09-30,FI,1650,12
+2013-09-30,Forest,1737,12
+2013-09-30,Health,1885,2
+2013-09-30,High Tech,2021,8
+2013-09-30,Insurance,2104,20
+2013-09-30,Leisure,2235,9
+2013-09-30,Metal,2350,10
+2013-09-30,Real Estate,2388,6
+2013-09-30,Telecom,2652,4
+2013-09-30,Transport,2585,11
+2013-09-30,Utility,2884,10
+2013-10-31,Consumer,1439,5
+2013-10-31,Energy,1586,7
+2013-10-31,FI,1585,12
+2013-10-31,Forest,1766,5
+2013-10-31,Health,1928,3
+2013-10-31,High Tech,2016,13
+2013-10-31,Insurance,2008,12
+2013-10-31,Leisure,2157,6
+2013-10-31,Metal,2324,6
+2013-10-31,Real Estate,2539,9
+2013-10-31,Telecom,2459,13
+2013-10-31,Transport,2733,10
+2013-10-31,Utility,2579,6
+2013-11-30,Consumer,1459,6
+2013-11-30,Energy,1410,5
+2013-11-30,FI,1581,13
+2013-11-30,Forest,1761,5
+2013-11-30,Health,1911,7
+2013-11-30,High Tech,2019,4
+2013-11-30,Insurance,2164,6
+2013-11-30,Leisure,2290,10
+2013-11-30,Metal,2253,15
+2013-11-30,Real Estate,2504,12
+2013-11-30,Telecom,2589,11
+2013-11-30,Transport,2709,12
+2013-11-30,Utility,2752,7
+2013-12-31,Consumer,1492,3
+2013-12-31,Energy,1585,7
+2013-12-31,FI,1715,10
+2013-12-31,Forest,1872,6
+2013-12-31,Health,1882,3
+2013-12-31,High Tech,2058,1
+2013-12-31,Insurance,2067,15
+2013-12-31,Leisure,2365,10
+2013-12-31,Metal,2415,12
+2013-12-31,Real Estate,2343,15
+2013-12-31,Telecom,2664,5
+2013-12-31,Transport,2708,14
+2013-12-31,Utility,2806,6
+2014-01-31,Consumer,1468,3
+2014-01-31,Energy,1526,11
+2014-01-31,FI,1648,12
+2014-01-31,Forest,1660,7
+2014-01-31,Health,1784,6
+2014-01-31,High Tech,2029,3
+2014-01-31,Insurance,2086,13
+2014-01-31,Leisure,2273,13
+2014-01-31,Metal,2401,3
+2014-01-31,Real Estate,2548,19
+2014-01-31,Telecom,2532,4
+2014-01-31,Transport,2643,16
+2014-01-31,Utility,2705,6
+2014-02-28,Consumer,1413,8
+2014-02-28,Energy,1613,7
+2014-02-28,FI,1665,14
+2014-02-28,Forest,1857,5
+2014-02-28,Health,1967,4
+2014-02-28,High Tech,2002,6
+2014-02-28,Insurance,2093,14
+2014-02-28,Leisure,2246,5
+2014-02-28,Metal,2380,9
+2014-02-28,Real Estate,2409,7
+2014-02-28,Telecom,2573,15
+2014-02-28,Transport,2663,18
+2014-02-28,Utility,2484,3
+2014-03-31,Consumer,1470,6
+2014-03-31,Energy,1665,11
+2014-03-31,FI,1642,9
+2014-03-31,Forest,1743,4
+2014-03-31,Health,1962,1
+2014-03-31,High Tech,2013,10
+2014-03-31,Insurance,2120,19
+2014-03-31,Leisure,2212,2
+2014-03-31,Metal,2467,23
+2014-03-31,Real Estate,2423,24
+2014-03-31,Telecom,2530,4
+2014-03-31,Transport,2727,13
+2014-03-31,Utility,2675,3
+2014-04-30,Consumer,1531,6
+2014-04-30,Energy,1292,12
+2014-04-30,FI,1643,27
+2014-04-30,Forest,1723,8
+2014-04-30,Health,1906,4
+2014-04-30,High Tech,2013,5
+2014-04-30,Insurance,2181,17
+2014-04-30,Leisure,2315,13
+2014-04-30,Metal,2397,23
+2014-04-30,Real Estate,2666,25
+2014-04-30,Telecom,2509,7
+2014-04-30,Transport,2676,16
+2014-04-30,Utility,2638,10
+2014-05-31,Consumer,1496,8
+2014-05-31,Energy,1560,13
+2014-05-31,FI,1614,10
+2014-05-31,Forest,1713,5
+2014-05-31,Health,1931,3
+2014-05-31,High Tech,2066,10
+2014-05-31,Insurance,2221,12
+2014-05-31,Leisure,2392,15
+2014-05-31,Metal,2496,18
+2014-05-31,Real Estate,2341,15
+2014-05-31,Telecom,2579,5
+2014-05-31,Transport,2677,18
+2014-05-31,Utility,2674,9
+2014-06-30,Consumer,1570,2
+2014-06-30,Energy,1654,7
+2014-06-30,FI,1684,13
+2014-06-30,Forest,1812,8
+2014-06-30,Health,1921,6
+2014-06-30,High Tech,2074,5
+2014-06-30,Insurance,2216,16
+2014-06-30,Leisure,2235,9
+2014-06-30,Metal,2301,13
+2014-06-30,Real Estate,2534,20
+2014-06-30,Telecom,2540,5
+2014-06-30,Transport,2735,9
+2014-06-30,Utility,2652,6
+2014-07-31,Consumer,1470,3
+2014-07-31,Energy,1575,10
+2014-07-31,FI,1654,10
+2014-07-31,Forest,1840,13
+2014-07-31,Health,1927,3
+2014-07-31,High Tech,2186,7
+2014-07-31,Insurance,2169,16
+2014-07-31,Leisure,2350,21
+2014-07-31,Metal,2412,9
+2014-07-31,Real Estate,2575,15
+2014-07-31,Telecom,2599,12
+2014-07-31,Transport,2676,12
+2014-07-31,Utility,2600,7
+2014-08-31,Consumer,1396,2
+2014-08-31,Energy,1592,13
+2014-08-31,FI,1789,24
+2014-08-31,Forest,1837,9
+2014-08-31,Health,1994,0
+2014-08-31,High Tech,2157,2
+2014-08-31,Insurance,2061,12
+2014-08-31,Leisure,2375,8
+2014-08-31,Metal,2422,13
+2014-08-31,Real Estate,2499,12
+2014-08-31,Telecom,2685,6
+2014-08-31,Transport,2651,4
+2014-08-31,Utility,2609,9
+2014-09-30,Consumer,1443,3
+2014-09-30,Energy,1621,10
+2014-09-30,FI,1812,14
+2014-09-30,Forest,1718,3
+2014-09-30,Health,2023,2
+2014-09-30,High Tech,2147,5
+2014-09-30,Insurance,2209,10
+2014-09-30,Leisure,2339,13
+2014-09-30,Metal,2392,24
+2014-09-30,Real Estate,2436,21
+2014-09-30,Telecom,2540,6
+2014-09-30,Transport,2589,10
+2014-09-30,Utility,2610,8
+2014-10-31,Consumer,1559,1
+2014-10-31,Energy,1549,6
+2014-10-31,FI,1792,21
+2014-10-31,Forest,1797,10
+2014-10-31,Health,2018,5
+2014-10-31,High Tech,2031,5
+2014-10-31,Insurance,2220,12
+2014-10-31,Leisure,2330,12
+2014-10-31,Metal,2533,20
+2014-10-31,Real Estate,2261,9
+2014-10-31,Telecom,2491,3
+2014-10-31,Transport,2480,20
+2014-10-31,Utility,2529,4
+2014-11-30,Consumer,1580,9
+2014-11-30,Energy,1601,9
+2014-11-30,FI,1745,16
+2014-11-30,Forest,1954,7
+2014-11-30,Health,1873,5
+2014-11-30,High Tech,2117,3
+2014-11-30,Insurance,2167,5
+2014-11-30,Leisure,2313,9
+2014-11-30,Metal,2516,18
+2014-11-30,Real Estate,2457,13
+2014-11-30,Telecom,2479,9
+2014-11-30,Transport,2550,14
+2014-11-30,Utility,2481,4
+2014-12-31,Consumer,1575,3
+2014-12-31,Energy,1706,10
+2014-12-31,FI,1830,13
+2014-12-31,Forest,1978,9
+2014-12-31,Health,1837,2
+2014-12-31,High Tech,2273,8
+2014-12-31,Insurance,2323,11
+2014-12-31,Leisure,2432,12
+2014-12-31,Metal,2654,20
+2014-12-31,Real Estate,2517,24
+2014-12-31,Telecom,2395,4
+2014-12-31,Transport,2528,15
+2014-12-31,Utility,2547,4
+2015-01-31,Consumer,1478,5
+2015-01-31,Energy,1631,7
+2015-01-31,FI,1924,18
+2015-01-31,Forest,1800,4
+2015-01-31,Health,2031,2
+2015-01-31,High Tech,2272,8
+2015-01-31,Insurance,2168,20
+2015-01-31,Leisure,2350,7
+2015-01-31,Metal,2372,18
+2015-01-31,Real Estate,2530,20
+2015-01-31,Telecom,2497,7
+2015-01-31,Transport,2531,14
+2015-01-31,Utility,2664,12
+2015-02-28,Consumer,1579,3
+2015-02-28,Energy,1609,19
+2015-02-28,FI,1725,12
+2015-02-28,Forest,1924,11
+2015-02-28,Health,1978,7
+2015-02-28,High Tech,2133,3
+2015-02-28,Insurance,2165,11
+2015-02-28,Leisure,2523,7
+2015-02-28,Metal,2204,8
+2015-02-28,Real Estate,2475,15
+2015-02-28,Telecom,2373,8
+2015-02-28,Transport,2514,13
+2015-02-28,Utility,2547,12
+2015-03-31,Consumer,1484,9
+2015-03-31,Energy,1673,9
+2015-03-31,FI,1721,12
+2015-03-31,Forest,1853,5
+2015-03-31,Health,1988,8
+2015-03-31,High Tech,2215,13
+2015-03-31,Insurance,2170,15
+2015-03-31,Leisure,2329,8
+2015-03-31,Metal,2483,14
+2015-03-31,Real Estate,2475,24
+2015-03-31,Telecom,2422,10
+2015-03-31,Transport,2630,17
+2015-03-31,Utility,2407,7
+2015-04-30,Consumer,1517,6
+2015-04-30,Energy,1592,14
+2015-04-30,FI,1834,14
+2015-04-30,Forest,1899,7
+2015-04-30,Health,1998,9
+2015-04-30,High Tech,1976,2
+2015-04-30,Insurance,2168,32
+2015-04-30,Leisure,2335,14
+2015-04-30,Metal,2393,25
+2015-04-30,Real Estate,2508,26
+2015-04-30,Telecom,2473,9
+2015-04-30,Transport,2467,16
+2015-04-30,Utility,2546,8
+2015-05-31,Consumer,1573,5
+2015-05-31,Energy,1503,9
+2015-05-31,FI,1858,6
+2015-05-31,Forest,1824,6
+2015-05-31,Health,2188,3
+2015-05-31,High Tech,2171,5
+2015-05-31,Insurance,2219,7
+2015-05-31,Leisure,2300,6
+2015-05-31,Metal,2310,8
+2015-05-31,Real Estate,2495,29
+2015-05-31,Telecom,2394,10
+2015-05-31,Transport,2632,19
+2015-05-31,Utility,2517,7
+2015-06-30,Consumer,1612,7
+2015-06-30,Energy,1703,6
+2015-06-30,FI,1744,16
+2015-06-30,Forest,1927,12
+2015-06-30,Health,2024,2
+2015-06-30,High Tech,2147,13
+2015-06-30,Insurance,2216,16
+2015-06-30,Leisure,2289,11
+2015-06-30,Metal,2327,4
+2015-06-30,Real Estate,2447,11
+2015-06-30,Telecom,2410,9
+2015-06-30,Transport,2464,6
+2015-06-30,Utility,2457,2
+2015-07-31,Consumer,1579,2
+2015-07-31,Energy,1663,8
+2015-07-31,FI,1905,10
+2015-07-31,Forest,2014,3
+2015-07-31,Health,2108,7
+2015-07-31,High Tech,2076,8
+2015-07-31,Insurance,2152,17
+2015-07-31,Leisure,2359,7
+2015-07-31,Metal,2411,10
+2015-07-31,Real Estate,2565,10
+2015-07-31,Telecom,2410,12
+2015-07-31,Transport,2480,11
+2015-07-31,Utility,2348,6
+2015-08-31,Consumer,1586,3
+2015-08-31,Energy,1771,10
+2015-08-31,FI,1933,16
+2015-08-31,Forest,2063,12
+2015-08-31,Health,2010,8
+2015-08-31,High Tech,2070,8
+2015-08-31,Insurance,2254,19
+2015-08-31,Leisure,2289,5
+2015-08-31,Metal,2352,10
+2015-08-31,Real Estate,2429,12
+2015-08-31,Telecom,2446,10
+2015-08-31,Transport,2396,7
+2015-08-31,Utility,2470,3
+2015-09-30,Consumer,1672,4
+2015-09-30,Energy,1587,9
+2015-09-30,FI,1841,12
+2015-09-30,Forest,1939,8
+2015-09-30,Health,2092,5
+2015-09-30,High Tech,2250,9
+2015-09-30,Insurance,2248,14
+2015-09-30,Leisure,2370,8
+2015-09-30,Metal,2377,12
+2015-09-30,Real Estate,2423,6
+2015-09-30,Telecom,2392,7
+2015-09-30,Transport,2410,18
+2015-09-30,Utility,2517,10
+2015-10-31,Consumer,1601,5
+2015-10-31,Energy,1786,5
+2015-10-31,FI,1822,14
+2015-10-31,Forest,1929,10
+2015-10-31,Health,2094,4
+2015-10-31,High Tech,2126,7
+2015-10-31,Insurance,2237,9
+2015-10-31,Leisure,2372,4
+2015-10-31,Metal,2381,9
+2015-10-31,Real Estate,2240,13
+2015-10-31,Telecom,2436,11
+2015-10-31,Transport,2401,10
+2015-10-31,Utility,2416,7
+2015-11-30,Consumer,1520,7
+2015-11-30,Energy,1705,15
+2015-11-30,FI,1800,15
+2015-11-30,Forest,2047,4
+2015-11-30,Health,2029,2
+2015-11-30,High Tech,2180,7
+2015-11-30,Insurance,2152,9
+2015-11-30,Leisure,2243,8
+2015-11-30,Metal,2380,4
+2015-11-30,Real Estate,2317,7
+2015-11-30,Telecom,2436,10
+2015-11-30,Transport,2451,14
+2015-11-30,Utility,2399,5
+2015-12-31,Consumer,1660,12
+2015-12-31,Energy,1795,8
+2015-12-31,FI,1818,27
+2015-12-31,Forest,2004,10
+2015-12-31,Health,2053,2
+2015-12-31,High Tech,2103,3
+2015-12-31,Insurance,2247,13
+2015-12-31,Leisure,2308,13
+2015-12-31,Metal,2364,23
+2015-12-31,Real Estate,2388,13
+2015-12-31,Telecom,2385,15
+2015-12-31,Transport,2283,7
+2015-12-31,Utility,2500,10
+2016-01-31,Consumer,1605,5
+2016-01-31,Energy,1645,3
+2016-01-31,FI,1955,8
+2016-01-31,Forest,2017,8
+2016-01-31,Health,2119,13
+2016-01-31,High Tech,2086,11
+2016-01-31,Insurance,2282,17
+2016-01-31,Leisure,2189,12
+2016-01-31,Metal,2384,14
+2016-01-31,Real Estate,2420,17
+2016-01-31,Telecom,2337,7
+2016-01-31,Transport,2381,11
+2016-01-31,Utility,2310,11
+2016-02-29,Consumer,1517,4
+2016-02-29,Energy,1733,6
+2016-02-29,FI,1877,24
+2016-02-29,Forest,2103,6
+2016-02-29,Health,2102,3
+2016-02-29,High Tech,2158,13
+2016-02-29,Insurance,2154,14
+2016-02-29,Leisure,2178,11
+2016-02-29,Metal,2348,19
+2016-02-29,Real Estate,2339,17
+2016-02-29,Telecom,2470,4
+2016-02-29,Transport,2378,11
+2016-02-29,Utility,2366,9
+2016-03-31,Consumer,1640,10
+2016-03-31,Energy,1764,8
+2016-03-31,FI,1913,20
+2016-03-31,Forest,1864,4
+2016-03-31,Health,2121,4
+2016-03-31,High Tech,2268,8
+2016-03-31,Insurance,2176,19
+2016-03-31,Leisure,2291,11
+2016-03-31,Metal,2257,20
+2016-03-31,Real Estate,2257,16
+2016-03-31,Telecom,2415,7
+2016-03-31,Transport,2446,11
+2016-03-31,Utility,2481,2
+2016-04-30,Consumer,1422,0
+2016-04-30,Energy,1761,7
+2016-04-30,FI,1930,10
+2016-04-30,Forest,2057,7
+2016-04-30,Health,2131,2
+2016-04-30,High Tech,2115,6
+2016-04-30,Insurance,2094,10
+2016-04-30,Leisure,2164,8
+2016-04-30,Metal,2328,9
+2016-04-30,Real Estate,2175,9
+2016-04-30,Telecom,2268,10
+2016-04-30,Transport,2421,14
+2016-04-30,Utility,2356,17
+2016-05-31,Consumer,1562,6
+2016-05-31,Energy,1768,6
+2016-05-31,FI,1858,9
+2016-05-31,Forest,1989,7
+2016-05-31,Health,2028,7
+2016-05-31,High Tech,2187,4
+2016-05-31,Insurance,2237,14
+2016-05-31,Leisure,2267,11
+2016-05-31,Metal,2196,10
+2016-05-31,Real Estate,2379,13
+2016-05-31,Telecom,2327,16
+2016-05-31,Transport,2340,2
+2016-05-31,Utility,2383,5
+2016-06-30,Consumer,1620,3
+2016-06-30,Energy,1740,6
+2016-06-30,FI,1942,10
+2016-06-30,Forest,1988,1
+2016-06-30,Health,2088,4
+2016-06-30,High Tech,2187,9
+2016-06-30,Insurance,2289,4
+2016-06-30,Leisure,2344,6
+2016-06-30,Metal,2179,7
+2016-06-30,Real Estate,2219,11
+2016-06-30,Telecom,2381,8
+2016-06-30,Transport,2266,2
+2016-06-30,Utility,2376,7
+2016-07-31,Consumer,1641,3
+2016-07-31,Energy,1725,6
+2016-07-31,FI,1985,4
+2016-07-31,Forest,1995,5
+2016-07-31,Health,2108,5
+2016-07-31,High Tech,2212,9
+2016-07-31,Insurance,2265,6
+2016-07-31,Leisure,2050,8
+2016-07-31,Metal,2286,12
+2016-07-31,Real Estate,2294,22
+2016-07-31,Telecom,2231,5
+2016-07-31,Transport,2299,3
+2016-07-31,Utility,2339,10
+2016-08-31,Consumer,1787,6
+2016-08-31,Energy,1671,5
+2016-08-31,FI,2072,4
+2016-08-31,Forest,1961,3
+2016-08-31,Health,2062,4
+2016-08-31,High Tech,2192,10
+2016-08-31,Insurance,2116,2
+2016-08-31,Leisure,2310,2
+2016-08-31,Metal,2282,7
+2016-08-31,Real Estate,2284,9
+2016-08-31,Telecom,2172,3
+2016-08-31,Transport,2332,2
+2016-08-31,Utility,2478,7
+2016-09-30,Consumer,1743,0
+2016-09-30,Energy,1873,8
+2016-09-30,FI,2011,5
+2016-09-30,Forest,2091,5
+2016-09-30,Health,1994,2
+2016-09-30,High Tech,2061,4
+2016-09-30,Insurance,2061,3
+2016-09-30,Leisure,2256,9
+2016-09-30,Metal,2119,11
+2016-09-30,Real Estate,2213,12
+2016-09-30,Telecom,2316,3
+2016-09-30,Transport,2306,6
+2016-09-30,Utility,2287,6
+2016-10-31,Consumer,1747,6
+2016-10-31,Energy,1829,5
+2016-10-31,FI,1913,6
+2016-10-31,Forest,2029,6
+2016-10-31,Health,2142,0
+2016-10-31,High Tech,2254,6
+2016-10-31,Insurance,2316,9
+2016-10-31,Leisure,2120,2
+2016-10-31,Metal,2253,4
+2016-10-31,Real Estate,2137,5
+2016-10-31,Telecom,2219,5
+2016-10-31,Transport,2281,10
+2016-10-31,Utility,2400,3
+2016-11-30,Consumer,1704,1
+2016-11-30,Energy,1896,6
+2016-11-30,FI,1976,2
+2016-11-30,Forest,1944,9
+2016-11-30,Health,2163,5
+2016-11-30,High Tech,2160,7
+2016-11-30,Insurance,2154,5
+2016-11-30,Leisure,2246,3
+2016-11-30,Metal,2293,9
+2016-11-30,Real Estate,2249,8
+2016-11-30,Telecom,2293,5
+2016-11-30,Transport,2354,9
+2016-11-30,Utility,2308,3
+2016-12-31,Consumer,1747,5
+2016-12-31,Energy,1704,6
+2016-12-31,FI,1894,6
+2016-12-31,Forest,2005,1
+2016-12-31,Health,2068,2
+2016-12-31,High Tech,2053,3
+2016-12-31,Insurance,2156,5
+2016-12-31,Leisure,2124,2
+2016-12-31,Metal,2264,7
+2016-12-31,Real Estate,2246,11
+2016-12-31,Telecom,2149,5
+2016-12-31,Transport,2307,6
+2016-12-31,Utility,2428,6
+2017-01-31,Consumer,1706,5
+2017-01-31,Energy,1697,3
+2017-01-31,FI,1808,6
+2017-01-31,Forest,2053,4
+2017-01-31,Health,2227,4
+2017-01-31,High Tech,2027,5
+2017-01-31,Insurance,2111,7
+2017-01-31,Leisure,2180,3
+2017-01-31,Metal,2201,10
+2017-01-31,Real Estate,2227,10
+2017-01-31,Telecom,2333,2
+2017-01-31,Transport,2251,11
+2017-01-31,Utility,2342,5
+2017-02-28,Consumer,1812,7
+2017-02-28,Energy,1784,7
+2017-02-28,FI,1938,7
+2017-02-28,Forest,2007,1
+2017-02-28,Health,2129,5
+2017-02-28,High Tech,2160,6
+2017-02-28,Insurance,2150,6
+2017-02-28,Leisure,2096,9
+2017-02-28,Metal,2301,2
+2017-02-28,Real Estate,2183,5
+2017-02-28,Telecom,2241,8
+2017-02-28,Transport,2209,9
+2017-02-28,Utility,2468,6
+2017-03-31,Consumer,1673,6
+2017-03-31,Energy,1687,11
+2017-03-31,FI,2022,9
+2017-03-31,Forest,1996,13
+2017-03-31,Health,2064,6
+2017-03-31,High Tech,2022,3
+2017-03-31,Insurance,2205,12
+2017-03-31,Leisure,2056,8
+2017-03-31,Metal,2120,7
+2017-03-31,Real Estate,2236,8
+2017-03-31,Telecom,2178,1
+2017-03-31,Transport,2345,7
+2017-03-31,Utility,2338,9
+2017-04-30,Consumer,1608,3
+2017-04-30,Energy,1777,9
+2017-04-30,FI,2040,10
+2017-04-30,Forest,1952,5
+2017-04-30,Health,2094,5
+2017-04-30,High Tech,2010,5
+2017-04-30,Insurance,2050,12
+2017-04-30,Leisure,2210,6
+2017-04-30,Metal,2077,7
+2017-04-30,Real Estate,2064,5
+2017-04-30,Telecom,2236,7
+2017-04-30,Transport,2198,9
+2017-04-30,Utility,2315,10
+2017-05-31,Consumer,1659,2
+2017-05-31,Energy,1805,19
+2017-05-31,FI,1994,16
+2017-05-31,Forest,1965,6
+2017-05-31,Health,2026,1
+2017-05-31,High Tech,2044,6
+2017-05-31,Insurance,2089,8
+2017-05-31,Leisure,2123,2
+2017-05-31,Metal,2146,7
+2017-05-31,Real Estate,2203,9
+2017-05-31,Telecom,2290,5
+2017-05-31,Transport,2216,3
+2017-05-31,Utility,2420,10
+2017-06-30,Consumer,1606,11
+2017-06-30,Energy,1808,7
+2017-06-30,FI,1919,18
+2017-06-30,Forest,1832,3
+2017-06-30,Health,2019,11
+2017-06-30,High Tech,2062,6
+2017-06-30,Insurance,2196,12
+2017-06-30,Leisure,2025,7
+2017-06-30,Metal,2146,7
+2017-06-30,Real Estate,2165,9
+2017-06-30,Telecom,2051,3
+2017-06-30,Transport,2284,4
+2017-06-30,Utility,2400,4
+2017-07-31,Consumer,1734,5
+2017-07-31,Energy,1840,7
+2017-07-31,FI,1787,12
+2017-07-31,Forest,1973,2
+2017-07-31,Health,2045,2
+2017-07-31,High Tech,2057,3
+2017-07-31,Insurance,1884,13
+2017-07-31,Leisure,2175,8
+2017-07-31,Metal,2266,4
+2017-07-31,Real Estate,2247,22
+2017-07-31,Telecom,2284,8
+2017-07-31,Transport,2322,3
+2017-07-31,Utility,2345,6
+2017-08-31,Consumer,1656,1
+2017-08-31,Energy,1770,8
+2017-08-31,FI,1875,3
+2017-08-31,Forest,2067,5
+2017-08-31,Health,2000,2
+2017-08-31,High Tech,1984,2
+2017-08-31,Insurance,2006,6
+2017-08-31,Leisure,1989,4
+2017-08-31,Metal,2151,9
+2017-08-31,Real Estate,2152,12
+2017-08-31,Telecom,2279,2
+2017-08-31,Transport,2337,4
+2017-08-31,Utility,2390,1
+2017-09-30,Consumer,1687,3
+2017-09-30,Energy,1785,2
+2017-09-30,FI,1925,8
+2017-09-30,Forest,1983,5
+2017-09-30,Health,1949,3
+2017-09-30,High Tech,2005,6
+2017-09-30,Insurance,2069,6
+2017-09-30,Leisure,2080,8
+2017-09-30,Metal,2068,5
+2017-09-30,Real Estate,2101,6
+2017-09-30,Telecom,2229,9
+2017-09-30,Transport,2252,10
+2017-09-30,Utility,2444,3
+2017-10-31,Consumer,1739,2
+2017-10-31,Energy,1785,5
+2017-10-31,FI,1806,5
+2017-10-31,Forest,1931,9
+2017-10-31,Health,2104,4
+2017-10-31,High Tech,1907,4
+2017-10-31,Insurance,1988,12
+2017-10-31,Leisure,1990,6
+2017-10-31,Metal,2163,6
+2017-10-31,Real Estate,2049,4
+2017-10-31,Telecom,2199,8
+2017-10-31,Transport,2350,7
+2017-10-31,Utility,2362,4
+2017-11-30,Consumer,1595,3
+2017-11-30,Energy,1787,4
+2017-11-30,FI,1781,6
+2017-11-30,Forest,1897,5
+2017-11-30,Health,1905,3
+2017-11-30,High Tech,1934,7
+2017-11-30,Insurance,1963,6
+2017-11-30,Leisure,2044,6
+2017-11-30,Metal,2105,4
+2017-11-30,Real Estate,2195,11
+2017-11-30,Telecom,2351,16
+2017-11-30,Transport,2293,11
+2017-11-30,Utility,2436,3
+2017-12-31,Consumer,1664,5
+2017-12-31,Energy,1833,10
+2017-12-31,FI,1949,8
+2017-12-31,Forest,1963,1
+2017-12-31,Health,1927,6
+2017-12-31,High Tech,2068,2
+2017-12-31,Insurance,2075,11
+2017-12-31,Leisure,2024,5
+2017-12-31,Metal,2116,4
+2017-12-31,Real Estate,2201,6
+2017-12-31,Telecom,2234,5
+2017-12-31,Transport,2290,7
+2017-12-31,Utility,2319,3
+2018-01-31,Consumer,1831,5
+2018-01-31,Energy,1743,13
+2018-01-31,FI,1898,16
+2018-01-31,Forest,1868,5
+2018-01-31,Health,1963,3
+2018-01-31,High Tech,1981,4
+2018-01-31,Insurance,2155,15
+2018-01-31,Leisure,2101,3
+2018-01-31,Metal,2079,5
+2018-01-31,Real Estate,2189,9
+2018-01-31,Telecom,2230,3
+2018-01-31,Transport,2253,10
+2018-01-31,Utility,2407,4
+2018-02-28,Consumer,1768,2
+2018-02-28,Energy,1690,2
+2018-02-28,FI,1763,9
+2018-02-28,Forest,2015,4
+2018-02-28,Health,1997,6
+2018-02-28,High Tech,2040,4
+2018-02-28,Insurance,1972,4
+2018-02-28,Leisure,2160,7
+2018-02-28,Metal,2039,9
+2018-02-28,Real Estate,2084,5
+2018-02-28,Telecom,2292,4
+2018-02-28,Transport,2343,8
+2018-02-28,Utility,2395,2
+2018-03-31,Consumer,1691,5
+2018-03-31,Energy,1660,4
+2018-03-31,FI,1695,7
+2018-03-31,Forest,1925,7
+2018-03-31,Health,1971,4
+2018-03-31,High Tech,1991,6
+2018-03-31,Insurance,1935,9
+2018-03-31,Leisure,2018,6
+2018-03-31,Metal,1968,6
+2018-03-31,Real Estate,2095,15
+2018-03-31,Telecom,2318,7
+2018-03-31,Transport,2190,12
+2018-03-31,Utility,2558,1
+2018-04-30,Consumer,1733,3
+2018-04-30,Energy,1923,7
+2018-04-30,FI,1873,5
+2018-04-30,Forest,1871,3
+2018-04-30,Health,1857,3
+2018-04-30,High Tech,1961,7
+2018-04-30,Insurance,1876,5
+2018-04-30,Leisure,1905,5
+2018-04-30,Metal,1990,6
+2018-04-30,Real Estate,2107,9
+2018-04-30,Telecom,2315,2
+2018-04-30,Transport,2291,10
+2018-04-30,Utility,2556,8
+2018-05-31,Consumer,1700,2
+2018-05-31,Energy,1928,8
+2018-05-31,FI,1854,10
+2018-05-31,Forest,1975,2
+2018-05-31,Health,2126,2
+2018-05-31,High Tech,1884,2
+2018-05-31,Insurance,2076,6
+2018-05-31,Leisure,1939,2
+2018-05-31,Metal,2170,5
+2018-05-31,Real Estate,2135,6
+2018-05-31,Telecom,2203,7
+2018-05-31,Transport,2368,9
+2018-05-31,Utility,2456,4
+2018-06-30,Consumer,1587,5
+2018-06-30,Energy,1713,4
+2018-06-30,FI,1936,2
+2018-06-30,Forest,1957,4
+2018-06-30,Health,2010,0
+2018-06-30,High Tech,2000,2
+2018-06-30,Insurance,1934,7
+2018-06-30,Leisure,2108,4
+2018-06-30,Metal,2109,4
+2018-06-30,Real Estate,2255,5
+2018-06-30,Telecom,2188,11
+2018-06-30,Transport,2345,8
+2018-06-30,Utility,2437,5
+2018-07-31,Consumer,1623,5
+2018-07-31,Energy,1896,9
+2018-07-31,FI,1846,2
+2018-07-31,Forest,1863,7
+2018-07-31,Health,1882,3
+2018-07-31,High Tech,1800,2
+2018-07-31,Insurance,1889,4
+2018-07-31,Leisure,1901,4
+2018-07-31,Metal,2034,7
+2018-07-31,Real Estate,2103,3
+2018-07-31,Telecom,2185,3
+2018-07-31,Transport,2329,11
+2018-07-31,Utility,2456,3
+2018-08-31,Consumer,1712,3
+2018-08-31,Energy,1896,4
+2018-08-31,FI,1897,6
+2018-08-31,Forest,1902,3
+2018-08-31,Health,1811,3
+2018-08-31,High Tech,1847,0
+2018-08-31,Insurance,2034,5
+2018-08-31,Leisure,1982,3
+2018-08-31,Metal,2119,2
+2018-08-31,Real Estate,2225,1
+2018-08-31,Telecom,2309,9
+2018-08-31,Transport,2372,3
+2018-08-31,Utility,2456,0
+2018-09-30,Consumer,1725,3
+2018-09-30,Energy,1787,10
+2018-09-30,FI,1858,6
+2018-09-30,Forest,1827,2
+2018-09-30,Health,1882,4
+2018-09-30,High Tech,1868,2
+2018-09-30,Insurance,1876,7
+2018-09-30,Leisure,2104,4
+2018-09-30,Metal,2129,4
+2018-09-30,Real Estate,2106,7
+2018-09-30,Telecom,2307,1
+2018-09-30,Transport,2275,7
+2018-09-30,Utility,2534,3
+2018-10-31,Consumer,1725,3
+2018-10-31,Energy,1807,3
+2018-10-31,FI,1827,8
+2018-10-31,Forest,1784,6
+2018-10-31,Health,1916,2
+2018-10-31,High Tech,1945,1
+2018-10-31,Insurance,1980,3
+2018-10-31,Leisure,1975,3
+2018-10-31,Metal,2049,6
+2018-10-31,Real Estate,2143,9
+2018-10-31,Telecom,2179,3
+2018-10-31,Transport,2366,3
+2018-10-31,Utility,2612,5
+2018-11-30,Consumer,1733,2
+2018-11-30,Energy,1685,10
+2018-11-30,FI,1798,6
+2018-11-30,Forest,1825,6
+2018-11-30,Health,1729,6
+2018-11-30,High Tech,1887,3
+2018-11-30,Insurance,1954,4
+2018-11-30,Leisure,2023,8
+2018-11-30,Metal,2039,5
+2018-11-30,Real Estate,2198,9
+2018-11-30,Telecom,2347,4
+2018-11-30,Transport,2433,7
+2018-11-30,Utility,2506,6
+2018-12-31,Consumer,1671,1
+2018-12-31,Energy,1644,7
+2018-12-31,FI,1761,4
+2018-12-31,Forest,1773,4
+2018-12-31,Health,1799,4
+2018-12-31,High Tech,1887,6
+2018-12-31,Insurance,1825,5
+2018-12-31,Leisure,1831,5
+2018-12-31,Metal,2142,1
+2018-12-31,Real Estate,2153,5
+2018-12-31,Telecom,2189,11
+2018-12-31,Transport,2490,9
+2018-12-31,Utility,2502,8
+2019-01-31,Consumer,1671,4
+2019-01-31,Energy,1657,1
+2019-01-31,FI,1691,8
+2019-01-31,Forest,1728,2
+2019-01-31,Health,1744,1
+2019-01-31,High Tech,1876,3
+2019-01-31,Insurance,1966,7
+2019-01-31,Leisure,2048,9
+2019-01-31,Metal,1987,5
+2019-01-31,Real Estate,2176,16
+2019-01-31,Telecom,2259,8
+2019-01-31,Transport,2380,13
+2019-01-31,Utility,2665,1
+2019-02-28,Consumer,1746,9
+2019-02-28,Energy,1678,6
+2019-02-28,FI,1809,8
+2019-02-28,Forest,1780,5
+2019-02-28,Health,1731,2
+2019-02-28,High Tech,1875,10
+2019-02-28,Insurance,1894,6
+2019-02-28,Leisure,2011,4
+2019-02-28,Metal,2014,6
+2019-02-28,Real Estate,2160,8
+2019-02-28,Telecom,2237,3
+2019-02-28,Transport,2367,9
+2019-02-28,Utility,2579,5
+2019-03-31,Consumer,1631,4
+2019-03-31,Energy,1600,11
+2019-03-31,FI,1667,14
+2019-03-31,Forest,1839,7
+2019-03-31,Health,1841,7
+2019-03-31,High Tech,1786,6
+2019-03-31,Insurance,1931,4
+2019-03-31,Leisure,2053,6
+2019-03-31,Metal,2145,4
+2019-03-31,Real Estate,2171,5
+2019-03-31,Telecom,2286,9
+2019-03-31,Transport,2435,6
+2019-03-31,Utility,2596,3
+2019-04-30,Consumer,1673,11
+2019-04-30,Energy,1678,9
+2019-04-30,FI,1793,5
+2019-04-30,Forest,1687,5
+2019-04-30,Health,1760,3
+2019-04-30,High Tech,1776,6
+2019-04-30,Insurance,1874,13
+2019-04-30,Leisure,1914,8
+2019-04-30,Metal,1962,9
+2019-04-30,Real Estate,2230,15
+2019-04-30,Telecom,2393,10
+2019-04-30,Transport,2366,14
+2019-04-30,Utility,2746,6
+2019-05-31,Consumer,1590,2
+2019-05-31,Energy,1718,12
+2019-05-31,FI,1649,7
+2019-05-31,Forest,1927,13
+2019-05-31,Health,1797,1
+2019-05-31,High Tech,1980,4
+2019-05-31,Insurance,1915,15
+2019-05-31,Leisure,1945,7
+2019-05-31,Metal,2051,6
+2019-05-31,Real Estate,2091,15
+2019-05-31,Telecom,2483,12
+2019-05-31,Transport,2542,12
+2019-05-31,Utility,2673,7
+2019-06-30,Consumer,1632,5
+2019-06-30,Energy,1806,11
+2019-06-30,FI,1700,10
+2019-06-30,Forest,1800,4
+2019-06-30,Health,1933,6
+2019-06-30,High Tech,1811,7
+2019-06-30,Insurance,1820,18
+2019-06-30,Leisure,1995,7
+2019-06-30,Metal,2169,22
+2019-06-30,Real Estate,2160,21
+2019-06-30,Telecom,2330,10
+2019-06-30,Transport,2547,12
+2019-06-30,Utility,2599,2
+2019-07-31,Consumer,1632,6
+2019-07-31,Energy,1704,14
+2019-07-31,FI,1713,15
+2019-07-31,Forest,1760,5
+2019-07-31,Health,1766,1
+2019-07-31,High Tech,1866,8
+2019-07-31,Insurance,1877,8
+2019-07-31,Leisure,1948,8
+2019-07-31,Metal,2045,12
+2019-07-31,Real Estate,2216,9
+2019-07-31,Telecom,2237,2
+2019-07-31,Transport,2452,8
+2019-07-31,Utility,2569,6
+2019-08-31,Consumer,1740,7
+2019-08-31,Energy,1734,16
+2019-08-31,FI,1841,7
+2019-08-31,Forest,1737,5
+2019-08-31,Health,1817,11
+2019-08-31,High Tech,1895,5
+2019-08-31,Insurance,1981,5
+2019-08-31,Leisure,2075,7
+2019-08-31,Metal,2103,8
+2019-08-31,Real Estate,2280,9
+2019-08-31,Telecom,2407,2
+2019-08-31,Transport,2488,10
+2019-08-31,Utility,2577,10
+2019-09-30,Consumer,1612,5
+2019-09-30,Energy,1726,4
+2019-09-30,FI,1618,7
+2019-09-30,Forest,1701,2
+2019-09-30,Health,1831,3
+2019-09-30,High Tech,1808,7
+2019-09-30,Insurance,1731,3
+2019-09-30,Leisure,2077,9
+2019-09-30,Metal,2144,8
+2019-09-30,Real Estate,2200,21
+2019-09-30,Telecom,2457,5
+2019-09-30,Transport,2504,8
+2019-09-30,Utility,2647,7
+2019-10-31,Consumer,1615,7
+2019-10-31,Energy,1512,3
+2019-10-31,FI,1763,14
+2019-10-31,Forest,1683,3
+2019-10-31,Health,1802,8
+2019-10-31,High Tech,1885,6
+2019-10-31,Insurance,1985,4
+2019-10-31,Leisure,2003,5
+2019-10-31,Metal,1977,8
+2019-10-31,Real Estate,2131,12
+2019-10-31,Telecom,2496,7
+2019-10-31,Transport,2555,6
+2019-10-31,Utility,2676,2
+2019-11-30,Consumer,1586,3
+2019-11-30,Energy,1704,4
+2019-11-30,FI,1755,12
+2019-11-30,Forest,1621,4
+2019-11-30,Health,1736,2
+2019-11-30,High Tech,1958,1
+2019-11-30,Insurance,1998,5
+2019-11-30,Leisure,2009,9
+2019-11-30,Metal,2191,6
+2019-11-30,Real Estate,2480,10
+2019-11-30,Telecom,2385,6
+2019-11-30,Transport,2472,8
+2019-11-30,Utility,2790,6
+2019-12-31,Consumer,1618,4
+2019-12-31,Energy,1610,4
+2019-12-31,FI,1546,7
+2019-12-31,Forest,1763,5
+2019-12-31,Health,1853,4
+2019-12-31,High Tech,1919,8
+2019-12-31,Insurance,1823,9
+2019-12-31,Leisure,2044,4
+2019-12-31,Metal,2113,8
+2019-12-31,Real Estate,2274,7
+2019-12-31,Telecom,2369,12
+2019-12-31,Transport,2525,5
+2019-12-31,Utility,2725,4
+2020-01-31,Consumer,1557,3
+2020-01-31,Energy,1707,7
+2020-01-31,FI,1760,12
+2020-01-31,Forest,1685,3
+2020-01-31,Health,1598,1
+2020-01-31,High Tech,1931,7
+2020-01-31,Insurance,1799,0
+2020-01-31,Leisure,2111,5
+2020-01-31,Metal,2079,5
+2020-01-31,Real Estate,2089,15
+2020-01-31,Telecom,2385,7
+2020-01-31,Transport,2615,7
+2020-01-31,Utility,2725,8
+2020-02-29,Consumer,1548,8
+2020-02-29,Energy,1643,9
+2020-02-29,FI,1744,11
+2020-02-29,Forest,1721,5
+2020-02-29,Health,1605,4
+2020-02-29,High Tech,1938,4
+2020-02-29,Insurance,1890,9
+2020-02-29,Leisure,2113,11
+2020-02-29,Metal,2244,10
+2020-02-29,Real Estate,2284,14
+2020-02-29,Telecom,2511,9
+2020-02-29,Transport,2623,8
+2020-02-29,Utility,2698,9
+2020-03-31,Consumer,1537,3
+2020-03-31,Energy,1683,3
+2020-03-31,FI,1647,13
+2020-03-31,Forest,1759,6
+2020-03-31,Health,1658,9
+2020-03-31,High Tech,1798,4
+2020-03-31,Insurance,1963,23
+2020-03-31,Leisure,2097,4
+2020-03-31,Metal,2139,11
+2020-03-31,Real Estate,2289,7
+2020-03-31,Telecom,2535,5
+2020-03-31,Transport,2530,8
+2020-03-31,Utility,2751,1
+2020-04-30,Consumer,1606,4
+2020-04-30,Energy,1573,5
+2020-04-30,FI,1743,17
+2020-04-30,Forest,1742,9
+2020-04-30,Health,1721,8
+2020-04-30,High Tech,1822,4
+2020-04-30,Insurance,1993,18
+2020-04-30,Leisure,2008,9
+2020-04-30,Metal,2113,10
+2020-04-30,Real Estate,2386,12
+2020-04-30,Telecom,2527,10
+2020-04-30,Transport,2612,4
+2020-04-30,Utility,2879,2
+2020-05-31,Consumer,1531,2
+2020-05-31,Energy,1609,7
+2020-05-31,FI,1628,9
+2020-05-31,Forest,1778,3
+2020-05-31,Health,1789,4
+2020-05-31,High Tech,1822,7
+2020-05-31,Insurance,1975,7
+2020-05-31,Leisure,2049,14
+2020-05-31,Metal,2128,11
+2020-05-31,Real Estate,2276,24
+2020-05-31,Telecom,2501,6
+2020-05-31,Transport,2741,18
+2020-05-31,Utility,2745,13
+2020-06-30,Consumer,1534,6
+2020-06-30,Energy,1628,11
+2020-06-30,FI,1608,10
+2020-06-30,Forest,1663,7
+2020-06-30,Health,1670,3
+2020-06-30,High Tech,1920,12
+2020-06-30,Insurance,1850,7
+2020-06-30,Leisure,2098,10
+2020-06-30,Metal,2243,14
+2020-06-30,Real Estate,2456,24
+2020-06-30,Telecom,2343,10
+2020-06-30,Transport,2559,19
+2020-06-30,Utility,2823,10
+2020-07-31,Consumer,1581,1
+2020-07-31,Energy,1653,14
+2020-07-31,FI,1653,15
+2020-07-31,Forest,1746,6
+2020-07-31,Health,1708,3
+2020-07-31,High Tech,1854,4
+2020-07-31,Insurance,1885,9
+2020-07-31,Leisure,2091,12
+2020-07-31,Metal,2230,19
+2020-07-31,Real Estate,2383,13
+2020-07-31,Telecom,2513,4
+2020-07-31,Transport,2612,9
+2020-07-31,Utility,2705,10
+2020-08-31,Consumer,1604,2
+2020-08-31,Energy,1546,8
+2020-08-31,FI,1667,10
+2020-08-31,Forest,1724,1
+2020-08-31,Health,1748,7
+2020-08-31,High Tech,1981,4
+2020-08-31,Insurance,1822,7
+2020-08-31,Leisure,2071,12
+2020-08-31,Metal,2286,12
+2020-08-31,Real Estate,2288,7
+2020-08-31,Telecom,2447,12
+2020-08-31,Transport,2666,14
+2020-08-31,Utility,2638,6
+2020-09-30,Consumer,1565,4
+2020-09-30,Energy,1563,7
+2020-09-30,FI,1628,7
+2020-09-30,Forest,1691,10
+2020-09-30,Health,1730,5
+2020-09-30,High Tech,1851,4
+2020-09-30,Insurance,2083,7
+2020-09-30,Leisure,2118,8
+2020-09-30,Metal,2209,9
+2020-09-30,Real Estate,2421,11
+2020-09-30,Telecom,2664,12
+2020-09-30,Transport,2622,15
+2020-09-30,Utility,2678,3
+2020-10-31,Consumer,1466,10
+2020-10-31,Energy,1551,8
+2020-10-31,FI,1672,12
+2020-10-31,Forest,1660,5
+2020-10-31,Health,1797,2
+2020-10-31,High Tech,1909,4
+2020-10-31,Insurance,1962,8
+2020-10-31,Leisure,2025,4
+2020-10-31,Metal,2204,11
+2020-10-31,Real Estate,2372,17
+2020-10-31,Telecom,2615,10
+2020-10-31,Transport,2656,14
+2020-10-31,Utility,2830,5
+2020-11-30,Consumer,1491,8
+2020-11-30,Energy,1484,11
+2020-11-30,FI,1624,13
+2020-11-30,Forest,1696,6
+2020-11-30,Health,1757,2
+2020-11-30,High Tech,1946,6
+2020-11-30,Insurance,1954,1
+2020-11-30,Leisure,2244,5
+2020-11-30,Metal,2163,9
+2020-11-30,Real Estate,2344,10
+2020-11-30,Telecom,2440,6
+2020-11-30,Transport,2664,8
+2020-11-30,Utility,2795,2
+2020-12-31,Consumer,1469,13
+2020-12-31,Energy,1634,8
+2020-12-31,FI,1665,6
+2020-12-31,Forest,1706,4
+2020-12-31,Health,1779,5
+2020-12-31,High Tech,1777,4
+2020-12-31,Insurance,2049,11
+2020-12-31,Leisure,2126,7
+2020-12-31,Metal,2264,6
+2020-12-31,Real Estate,2451,13
+2020-12-31,Telecom,2566,9
+2020-12-31,Transport,2626,4
+2020-12-31,Utility,2750,1
+2021-01-31,Consumer,1475,3
+2021-01-31,Energy,1467,5
+2021-01-31,FI,1571,14
+2021-01-31,Forest,1620,9
+2021-01-31,Health,1820,6
+2021-01-31,High Tech,1956,11
+2021-01-31,Insurance,1900,20
+2021-01-31,Leisure,2179,10
+2021-01-31,Metal,2415,9
+2021-01-31,Real Estate,2491,17
+2021-01-31,Telecom,2554,5
+2021-01-31,Transport,2573,12
+2021-01-31,Utility,2750,8
+2021-02-28,Consumer,1560,6
+2021-02-28,Energy,1585,9
+2021-02-28,FI,1637,12
+2021-02-28,Forest,1616,7
+2021-02-28,Health,1878,5
+2021-02-28,High Tech,1843,11
+2021-02-28,Insurance,2008,4
+2021-02-28,Leisure,2223,15
+2021-02-28,Metal,2274,17
+2021-02-28,Real Estate,2407,22
+2021-02-28,Telecom,2477,6
+2021-02-28,Transport,2584,16
+2021-02-28,Utility,2680,9
+2021-03-31,Consumer,1442,8
+2021-03-31,Energy,1538,10
+2021-03-31,FI,1596,16
+2021-03-31,Forest,1711,6
+2021-03-31,Health,1798,2
+2021-03-31,High Tech,1823,9
+2021-03-31,Insurance,2093,7
+2021-03-31,Leisure,2187,14
+2021-03-31,Metal,2101,12
+2021-03-31,Real Estate,2369,14
+2021-03-31,Telecom,2606,6
+2021-03-31,Transport,2711,14
+2021-03-31,Utility,2747,14
+2021-04-30,Consumer,1589,2
+2021-04-30,Energy,1593,22
+2021-04-30,FI,1627,11
+2021-04-30,Forest,1750,12
+2021-04-30,Health,1829,4
+2021-04-30,High Tech,2027,2
+2021-04-30,Insurance,2031,17
+2021-04-30,Leisure,2205,7
+2021-04-30,Metal,2296,15
+2021-04-30,Real Estate,2590,27
+2021-04-30,Telecom,2598,10
+2021-04-30,Transport,2706,8
+2021-04-30,Utility,2709,9
+2021-05-31,Consumer,1515,6
+2021-05-31,Energy,1607,18
+2021-05-31,FI,1656,18
+2021-05-31,Forest,1685,10
+2021-05-31,Health,1854,3
+2021-05-31,High Tech,1920,8
+2021-05-31,Insurance,1996,11
+2021-05-31,Leisure,2243,16
+2021-05-31,Metal,2263,15
+2021-05-31,Real Estate,2430,20
+2021-05-31,Telecom,2473,11
+2021-05-31,Transport,2660,15
+2021-05-31,Utility,2698,11
+2021-06-30,Consumer,1618,4
+2021-06-30,Energy,1478,10
+2021-06-30,FI,1558,19
+2021-06-30,Forest,1823,6
+2021-06-30,Health,1910,1
+2021-06-30,High Tech,1871,2
+2021-06-30,Insurance,2124,19
+2021-06-30,Leisure,2066,6
+2021-06-30,Metal,2273,8
+2021-06-30,Real Estate,2490,17
+2021-06-30,Telecom,2493,10
+2021-06-30,Transport,2604,6
+2021-06-30,Utility,2663,6
+2021-07-31,Consumer,1491,2
+2021-07-31,Energy,1554,5
+2021-07-31,FI,1603,6
+2021-07-31,Forest,1691,6
+2021-07-31,Health,1841,4
+2021-07-31,High Tech,1997,8
+2021-07-31,Insurance,2045,6
+2021-07-31,Leisure,2255,7
+2021-07-31,Metal,2259,12
+2021-07-31,Real Estate,2526,10
+2021-07-31,Telecom,2544,12
+2021-07-31,Transport,2637,9
+2021-07-31,Utility,2858,5
+2021-08-31,Consumer,1379,2
+2021-08-31,Energy,1491,10
+2021-08-31,FI,1645,14
+2021-08-31,Forest,1721,6
+2021-08-31,Health,1925,6
+2021-08-31,High Tech,1980,6
+2021-08-31,Insurance,2012,3
+2021-08-31,Leisure,2308,10
+2021-08-31,Metal,2307,21
+2021-08-31,Real Estate,2457,15
+2021-08-31,Telecom,2533,10
+2021-08-31,Transport,2689,7
+2021-08-31,Utility,2815,5
+2021-09-30,Consumer,1394,6
+2021-09-30,Energy,1615,4
+2021-09-30,FI,1553,12
+2021-09-30,Forest,1831,9
+2021-09-30,Health,1782,4
+2021-09-30,High Tech,1951,8
+2021-09-30,Insurance,2095,18
+2021-09-30,Leisure,2146,10
+2021-09-30,Metal,2371,8
+2021-09-30,Real Estate,2503,21
+2021-09-30,Telecom,2554,6
+2021-09-30,Transport,2620,9
+2021-09-30,Utility,2812,5
+2021-10-31,Consumer,1572,11
+2021-10-31,Energy,1600,6
+2021-10-31,FI,1718,13
+2021-10-31,Forest,1763,4
+2021-10-31,Health,1844,3
+2021-10-31,High Tech,1970,9
+2021-10-31,Insurance,2010,8
+2021-10-31,Leisure,2284,8
+2021-10-31,Metal,2450,18
+2021-10-31,Real Estate,2452,11
+2021-10-31,Telecom,2596,15
+2021-10-31,Transport,2749,12
+2021-10-31,Utility,2645,9
+2021-11-30,Consumer,1499,8
+2021-11-30,Energy,1453,12
+2021-11-30,FI,1558,4
+2021-11-30,Forest,1723,6
+2021-11-30,Health,1855,5
+2021-11-30,High Tech,1967,13
+2021-11-30,Insurance,2155,16
+2021-11-30,Leisure,2192,7
+2021-11-30,Metal,2270,10
+2021-11-30,Real Estate,2423,17
+2021-11-30,Telecom,2587,7
+2021-11-30,Transport,2688,7
+2021-11-30,Utility,2617,6
+2021-12-31,Consumer,1441,3
+2021-12-31,Energy,1519,12
+2021-12-31,FI,1483,4
+2021-12-31,Forest,1670,11
+2021-12-31,Health,1811,3
+2021-12-31,High Tech,1936,2
+2021-12-31,Insurance,2259,7
+2021-12-31,Leisure,2222,8
+2021-12-31,Metal,2408,6
+2021-12-31,Real Estate,2438,7
+2021-12-31,Telecom,2501,5
+2021-12-31,Transport,2661,11
+2021-12-31,Utility,2643,5
+2022-01-31,Consumer,1395,3
+2022-01-31,Energy,1539,4
+2022-01-31,FI,1655,5
+2022-01-31,Forest,1811,2
+2022-01-31,Health,1934,1
+2022-01-31,High Tech,1902,12
+2022-01-31,Insurance,2255,12
+2022-01-31,Leisure,2312,7
+2022-01-31,Metal,2444,13
+2022-01-31,Real Estate,2313,14
+2022-01-31,Telecom,2547,8
+2022-01-31,Transport,2633,12
+2022-01-31,Utility,2628,1
+2022-02-28,Consumer,1574,2
+2022-02-28,Energy,1533,2
+2022-02-28,FI,1702,5
+2022-02-28,Forest,1707,6
+2022-02-28,Health,1982,3
+2022-02-28,High Tech,2021,9
+2022-02-28,Insurance,2194,11
+2022-02-28,Leisure,2261,14
+2022-02-28,Metal,2363,9
+2022-02-28,Real Estate,2547,8
+2022-02-28,Telecom,2688,16
+2022-02-28,Transport,2646,17
+2022-02-28,Utility,2688,2
+2022-03-31,Consumer,1418,2
+2022-03-31,Energy,1452,8
+2022-03-31,FI,1581,10
+2022-03-31,Forest,1774,4
+2022-03-31,Health,1796,4
+2022-03-31,High Tech,2115,6
+2022-03-31,Insurance,2266,11
+2022-03-31,Leisure,2352,5
+2022-03-31,Metal,2513,10
+2022-03-31,Real Estate,2623,23
+2022-03-31,Telecom,2528,9
+2022-03-31,Transport,2669,11
+2022-03-31,Utility,2732,3
+2022-04-30,Consumer,1489,7
+2022-04-30,Energy,1520,5
+2022-04-30,FI,1610,8
+2022-04-30,Forest,1883,11
+2022-04-30,Health,2026,3
+2022-04-30,High Tech,1956,4
+2022-04-30,Insurance,2080,15
+2022-04-30,Leisure,2219,8
+2022-04-30,Metal,2359,16
+2022-04-30,Real Estate,2489,14
+2022-04-30,Telecom,2545,13
+2022-04-30,Transport,2615,13
+2022-04-30,Utility,2516,12
+2022-05-31,Consumer,1524,2
+2022-05-31,Energy,1496,3
+2022-05-31,FI,1742,10
+2022-05-31,Forest,1777,8
+2022-05-31,Health,1921,6
+2022-05-31,High Tech,2059,6
+2022-05-31,Insurance,2143,9
+2022-05-31,Leisure,2341,8
+2022-05-31,Metal,2433,18
+2022-05-31,Real Estate,2584,16
+2022-05-31,Telecom,2489,7
+2022-05-31,Transport,2570,11
+2022-05-31,Utility,2572,8
+2022-06-30,Consumer,1541,2
+2022-06-30,Energy,1576,4
+2022-06-30,FI,1694,7
+2022-06-30,Forest,1851,6
+2022-06-30,Health,2030,1
+2022-06-30,High Tech,2112,7
+2022-06-30,Insurance,2281,13
+2022-06-30,Leisure,2231,8
+2022-06-30,Metal,2409,9
+2022-06-30,Real Estate,2501,10
+2022-06-30,Telecom,2497,7
+2022-06-30,Transport,2537,8
+2022-06-30,Utility,2533,2
+2022-07-31,Consumer,1342,8
+2022-07-31,Energy,1578,8
+2022-07-31,FI,1650,15
+2022-07-31,Forest,1817,7
+2022-07-31,Health,1940,2
+2022-07-31,High Tech,1984,4
+2022-07-31,Insurance,2208,20
+2022-07-31,Leisure,2345,16
+2022-07-31,Metal,2270,13
+2022-07-31,Real Estate,2606,5
+2022-07-31,Telecom,2546,11
+2022-07-31,Transport,2640,4
+2022-07-31,Utility,2498,3
+2022-08-31,Consumer,1477,6
+2022-08-31,Energy,1610,10
+2022-08-31,FI,1676,9
+2022-08-31,Forest,1752,9
+2022-08-31,Health,1931,2
+2022-08-31,High Tech,2005,2
+2022-08-31,Insurance,2251,14
+2022-08-31,Leisure,2437,10
+2022-08-31,Metal,2417,8
+2022-08-31,Real Estate,2467,24
+2022-08-31,Telecom,2621,9
+2022-08-31,Transport,2509,12
+2022-08-31,Utility,2690,4
+2022-09-30,Consumer,1399,3
+2022-09-30,Energy,1572,8
+2022-09-30,FI,1698,10
+2022-09-30,Forest,1910,4
+2022-09-30,Health,1963,4
+2022-09-30,High Tech,2054,7
+2022-09-30,Insurance,2242,20
+2022-09-30,Leisure,2276,10
+2022-09-30,Metal,2184,8
+2022-09-30,Real Estate,2464,13
+2022-09-30,Telecom,2475,8
+2022-09-30,Transport,2562,4
+2022-09-30,Utility,2514,8
+2022-10-31,Consumer,1450,7
+2022-10-31,Energy,1593,13
+2022-10-31,FI,1708,12
+2022-10-31,Forest,1881,3
+2022-10-31,Health,2073,9
+2022-10-31,High Tech,2053,7
+2022-10-31,Insurance,2316,10
+2022-10-31,Leisure,2349,10
+2022-10-31,Metal,2451,10
+2022-10-31,Real Estate,2355,10
+2022-10-31,Telecom,2548,8
+2022-10-31,Transport,2585,9
+2022-10-31,Utility,2772,13
+2022-11-30,Consumer,1438,2
+2022-11-30,Energy,1597,9
+2022-11-30,FI,1616,15
+2022-11-30,Forest,1694,5
+2022-11-30,Health,2069,4
+2022-11-30,High Tech,2134,7
+2022-11-30,Insurance,2248,13
+2022-11-30,Leisure,2245,7
+2022-11-30,Metal,2464,12
+2022-11-30,Real Estate,2338,18
+2022-11-30,Telecom,2590,16
+2022-11-30,Transport,2632,9
+2022-11-30,Utility,2575,3
+2022-12-31,Consumer,1526,3
+2022-12-31,Energy,1634,16
+2022-12-31,FI,1681,15
+2022-12-31,Forest,1850,5
+2022-12-31,Health,2001,5
+2022-12-31,High Tech,2232,2
+2022-12-31,Insurance,2163,21
+2022-12-31,Leisure,2361,15
+2022-12-31,Metal,2481,20
+2022-12-31,Real Estate,2391,17
+2022-12-31,Telecom,2468,5
+2022-12-31,Transport,2540,8
+2022-12-31,Utility,2628,9
+2023-01-31,Consumer,1536,3
+2023-01-31,Energy,1637,12
+2023-01-31,FI,1802,28
+2023-01-31,Forest,1914,11
+2023-01-31,Health,1954,3
+2023-01-31,High Tech,2255,17
+2023-01-31,Insurance,2123,17
+2023-01-31,Leisure,2314,4
+2023-01-31,Metal,2425,11
+2023-01-31,Real Estate,2575,17
+2023-01-31,Telecom,2457,14
+2023-01-31,Transport,2602,12
+2023-01-31,Utility,2496,2
+2023-02-28,Consumer,1480,6
+2023-02-28,Energy,1569,12
+2023-02-28,FI,1705,18
+2023-02-28,Forest,1882,14
+2023-02-28,Health,2080,2
+2023-02-28,High Tech,2201,12
+2023-02-28,Insurance,2190,22
+2023-02-28,Leisure,2432,18
+2023-02-28,Metal,2422,13
+2023-02-28,Real Estate,2310,20
+2023-02-28,Telecom,2584,7
+2023-02-28,Transport,2561,16
+2023-02-28,Utility,2618,7
+2023-03-31,Consumer,1580,3
+2023-03-31,Energy,1626,11
+2023-03-31,FI,1799,9
+2023-03-31,Forest,1796,11
+2023-03-31,Health,1957,3
+2023-03-31,High Tech,2126,10
+2023-03-31,Insurance,2321,15
+2023-03-31,Leisure,2277,10
+2023-03-31,Metal,2370,11
+2023-03-31,Real Estate,2376,17
+2023-03-31,Telecom,2489,10
+2023-03-31,Transport,2454,11
+2023-03-31,Utility,2389,9
+2023-04-30,Consumer,1652,6
+2023-04-30,Energy,1629,12
+2023-04-30,FI,1672,13
+2023-04-30,Forest,1940,5
+2023-04-30,Health,2106,4
+2023-04-30,High Tech,2187,6
+2023-04-30,Insurance,2316,9
+2023-04-30,Leisure,2451,17
+2023-04-30,Metal,2361,13
+2023-04-30,Real Estate,2391,12
+2023-04-30,Telecom,2511,10
+2023-04-30,Transport,2504,14
+2023-04-30,Utility,2524,7
+2023-05-31,Consumer,1571,3
+2023-05-31,Energy,1587,15
+2023-05-31,FI,1829,19
+2023-05-31,Forest,1999,9
+2023-05-31,Health,2064,8
+2023-05-31,High Tech,2225,6
+2023-05-31,Insurance,2267,12
+2023-05-31,Leisure,2297,13
+2023-05-31,Metal,2380,10
+2023-05-31,Real Estate,2500,16
+2023-05-31,Telecom,2418,10
+2023-05-31,Transport,2446,10
+2023-05-31,Utility,2408,5
+2023-06-30,Consumer,1579,2
+2023-06-30,Energy,1659,6
+2023-06-30,FI,1803,8
+2023-06-30,Forest,1961,3
+2023-06-30,Health,2082,7
+2023-06-30,High Tech,2228,10
+2023-06-30,Insurance,2357,9
+2023-06-30,Leisure,2538,11
+2023-06-30,Metal,2376,9
+2023-06-30,Real Estate,2392,10
+2023-06-30,Telecom,2494,7
+2023-06-30,Transport,2490,11
+2023-06-30,Utility,2526,7
+2023-07-31,Consumer,1371,2
+2023-07-31,Energy,1734,5
+2023-07-31,FI,1755,2
+2023-07-31,Forest,1894,5
+2023-07-31,Health,2175,4
+2023-07-31,High Tech,2159,4
+2023-07-31,Insurance,2274,15
+2023-07-31,Leisure,2221,4
+2023-07-31,Metal,2495,11
+2023-07-31,Real Estate,2459,6
+2023-07-31,Telecom,2415,12
+2023-07-31,Transport,2447,17
+2023-07-31,Utility,2338,4
+2023-08-31,Consumer,1526,5
+2023-08-31,Energy,1546,6
+2023-08-31,FI,1781,9
+2023-08-31,Forest,1981,2
+2023-08-31,Health,2000,3
+2023-08-31,High Tech,2042,11
+2023-08-31,Insurance,2166,11
+2023-08-31,Leisure,2231,15
+2023-08-31,Metal,2328,8
+2023-08-31,Real Estate,2388,13
+2023-08-31,Telecom,2584,7
+2023-08-31,Transport,2524,14
+2023-08-31,Utility,2456,3
+2023-09-30,Consumer,1643,9
+2023-09-30,Energy,1758,13
+2023-09-30,FI,1831,6
+2023-09-30,Forest,1901,9
+2023-09-30,Health,2105,5
+2023-09-30,High Tech,2073,6
+2023-09-30,Insurance,2258,13
+2023-09-30,Leisure,2194,12
+2023-09-30,Metal,2332,10
+2023-09-30,Real Estate,2370,11
+2023-09-30,Telecom,2418,7
+2023-09-30,Transport,2421,6
+2023-09-30,Utility,2391,5
+2023-10-31,Consumer,1462,6
+2023-10-31,Energy,1679,7
+2023-10-31,FI,1750,17
+2023-10-31,Forest,2037,8
+2023-10-31,Health,2091,2
+2023-10-31,High Tech,2135,13
+2023-10-31,Insurance,2219,10
+2023-10-31,Leisure,2190,5
+2023-10-31,Metal,2245,1
+2023-10-31,Real Estate,2395,8
+2023-10-31,Telecom,2385,4
+2023-10-31,Transport,2558,4
+2023-10-31,Utility,2595,3
+2023-11-30,Consumer,1636,4
+2023-11-30,Energy,1618,5
+2023-11-30,FI,1854,16
+2023-11-30,Forest,2062,4
+2023-11-30,Health,2069,4
+2023-11-30,High Tech,2140,3
+2023-11-30,Insurance,2077,4
+2023-11-30,Leisure,2487,7
+2023-11-30,Metal,2324,8
+2023-11-30,Real Estate,2411,8
+2023-11-30,Telecom,2401,3
+2023-11-30,Transport,2352,1
+2023-11-30,Utility,2225,13
+2023-12-31,Consumer,1580,4
+2023-12-31,Energy,1812,17
+2023-12-31,FI,1877,8
+2023-12-31,Forest,1971,5
+2023-12-31,Health,2023,5
+2023-12-31,High Tech,2000,4
+2023-12-31,Insurance,2390,4
+2023-12-31,Leisure,2209,2
+2023-12-31,Metal,2412,14
+2023-12-31,Real Estate,2294,15
+2023-12-31,Telecom,2135,5
+2023-12-31,Transport,2323,11
+2023-12-31,Utility,2291,5
+2024-01-31,Consumer,1634,4
+2024-01-31,Energy,1690,14
+2024-01-31,FI,1795,8
+2024-01-31,Forest,2078,5
+2024-01-31,Health,2150,5
+2024-01-31,High Tech,2207,1
+2024-01-31,Insurance,2298,15
+2024-01-31,Leisure,2251,6
+2024-01-31,Metal,2388,7
+2024-01-31,Real Estate,2501,11
+2024-01-31,Telecom,2369,4
+2024-01-31,Transport,2383,10
+2024-01-31,Utility,2321,4
+2024-02-29,Consumer,1624,4
+2024-02-29,Energy,1737,10
+2024-02-29,FI,1846,17
+2024-02-29,Forest,2069,5
+2024-02-29,Health,1995,2
+2024-02-29,High Tech,2069,5
+2024-02-29,Insurance,2233,20
+2024-02-29,Leisure,2252,10
+2024-02-29,Metal,2472,8
+2024-02-29,Real Estate,2381,11
+2024-02-29,Telecom,2372,16
+2024-02-29,Transport,2389,7
+2024-02-29,Utility,2402,5
+2024-03-31,Consumer,1628,3
+2024-03-31,Energy,1784,11
+2024-03-31,FI,1930,20
+2024-03-31,Forest,2019,2
+2024-03-31,Health,2080,4
+2024-03-31,High Tech,2298,4
+2024-03-31,Insurance,2282,9
+2024-03-31,Leisure,2217,10
+2024-03-31,Metal,2313,11
+2024-03-31,Real Estate,2386,3
+2024-03-31,Telecom,2319,5
+2024-03-31,Transport,2287,14
+2024-03-31,Utility,2123,7
+2024-04-30,Consumer,1611,6
+2024-04-30,Energy,1765,6
+2024-04-30,FI,1832,9
+2024-04-30,Forest,1858,3
+2024-04-30,Health,2133,2
+2024-04-30,High Tech,2139,10
+2024-04-30,Insurance,2300,4
+2024-04-30,Leisure,2094,7
+2024-04-30,Metal,2354,3
+2024-04-30,Real Estate,2278,8
+2024-04-30,Telecom,2412,10
+2024-04-30,Transport,2372,10
+2024-04-30,Utility,2403,5
+2024-05-31,Consumer,1730,11
+2024-05-31,Energy,1650,8
+2024-05-31,FI,1864,7
+2024-05-31,Forest,2002,9
+2024-05-31,Health,2088,3
+2024-05-31,High Tech,2129,12
+2024-05-31,Insurance,2099,14
+2024-05-31,Leisure,2293,9
+2024-05-31,Metal,2471,7
+2024-05-31,Real Estate,2363,13
+2024-05-31,Telecom,2357,6
+2024-05-31,Transport,2312,7
+2024-05-31,Utility,2256,3
+2024-06-30,Consumer,1651,7
+2024-06-30,Energy,1726,9
+2024-06-30,FI,1840,6
+2024-06-30,Forest,1963,5
+2024-06-30,Health,1967,2
+2024-06-30,High Tech,2111,7
+2024-06-30,Insurance,2140,10
+2024-06-30,Leisure,2279,4
+2024-06-30,Metal,2378,6
+2024-06-30,Real Estate,2284,12
+2024-06-30,Telecom,2216,5
+2024-06-30,Transport,2330,4
+2024-06-30,Utility,2377,11
+2024-07-31,Consumer,1641,4
+2024-07-31,Energy,1867,5
+2024-07-31,FI,2001,8
+2024-07-31,Forest,1981,6
+2024-07-31,Health,2005,5
+2024-07-31,High Tech,1999,5
+2024-07-31,Insurance,2200,10
+2024-07-31,Leisure,2245,4
+2024-07-31,Metal,2340,8
+2024-07-31,Real Estate,2220,12
+2024-07-31,Telecom,2349,7
+2024-07-31,Transport,2388,5
+2024-07-31,Utility,2368,3
+2024-08-31,Consumer,1682,8
+2024-08-31,Energy,1849,5
+2024-08-31,FI,1913,9
+2024-08-31,Forest,1895,8
+2024-08-31,Health,2203,1
+2024-08-31,High Tech,2116,5
+2024-08-31,Insurance,2183,15
+2024-08-31,Leisure,2198,4
+2024-08-31,Metal,2282,11
+2024-08-31,Real Estate,2213,11
+2024-08-31,Telecom,2529,2
+2024-08-31,Transport,2427,2
+2024-08-31,Utility,2351,6
+2024-09-30,Consumer,1691,5
+2024-09-30,Energy,1849,10
+2024-09-30,FI,1852,13
+2024-09-30,Forest,2082,1
+2024-09-30,Health,2117,2
+2024-09-30,High Tech,2170,7
+2024-09-30,Insurance,2352,12
+2024-09-30,Leisure,2317,5
+2024-09-30,Metal,2335,7
+2024-09-30,Real Estate,2432,16
+2024-09-30,Telecom,2356,4
+2024-09-30,Transport,2245,6
+2024-09-30,Utility,2443,6
+2024-10-31,Consumer,1761,2
+2024-10-31,Energy,1762,7
+2024-10-31,FI,1857,13
+2024-10-31,Forest,2017,11
+2024-10-31,Health,1977,2
+2024-10-31,High Tech,2237,2
+2024-10-31,Insurance,2076,10
+2024-10-31,Leisure,2154,8
+2024-10-31,Metal,2191,10
+2024-10-31,Real Estate,2296,12
+2024-10-31,Telecom,2346,4
+2024-10-31,Transport,2373,12
+2024-10-31,Utility,2298,7
+2024-11-30,Consumer,1500,6
+2024-11-30,Energy,1819,7
+2024-11-30,FI,1936,18
+2024-11-30,Forest,1909,3
+2024-11-30,Health,2081,7
+2024-11-30,High Tech,2169,7
+2024-11-30,Insurance,1988,7
+2024-11-30,Leisure,2127,5
+2024-11-30,Metal,2049,6
+2024-11-30,Real Estate,2352,19
+2024-11-30,Telecom,2329,7
+2024-11-30,Transport,2423,7
+2024-11-30,Utility,2352,4
+2024-12-31,Consumer,1788,6
+2024-12-31,Energy,1707,5
+2024-12-31,FI,1847,11
+2024-12-31,Forest,1872,8
+2024-12-31,Health,2064,6
+2024-12-31,High Tech,1993,7
+2024-12-31,Insurance,2120,16
+2024-12-31,Leisure,2070,4
+2024-12-31,Metal,2200,16
+2024-12-31,Real Estate,2252,7
+2024-12-31,Telecom,2248,11
+2024-12-31,Transport,2296,14
+2024-12-31,Utility,2402,5
+2025-01-31,Consumer,1691,5
+2025-01-31,Energy,1730,17
+2025-01-31,FI,1882,21
+2025-01-31,Forest,1919,15
+2025-01-31,Health,1929,6
+2025-01-31,High Tech,2278,10
+2025-01-31,Insurance,2080,12
+2025-01-31,Leisure,2209,11
+2025-01-31,Metal,2219,9
+2025-01-31,Real Estate,2277,16
+2025-01-31,Telecom,2207,10
+2025-01-31,Transport,2321,16
+2025-01-31,Utility,2278,5
+2025-02-28,Consumer,1699,8
+2025-02-28,Energy,1804,16
+2025-02-28,FI,2004,24
+2025-02-28,Forest,1955,17
+2025-02-28,Health,2091,6
+2025-02-28,High Tech,2124,4
+2025-02-28,Insurance,2302,18
+2025-02-28,Leisure,2104,12
+2025-02-28,Metal,2207,24
+2025-02-28,Real Estate,2237,18
+2025-02-28,Telecom,2370,4
+2025-02-28,Transport,2230,12
+2025-02-28,Utility,2407,14
+2025-03-31,Consumer,1696,11
+2025-03-31,Energy,1770,25
+2025-03-31,FI,1790,20
+2025-03-31,Forest,1883,8
+2025-03-31,Health,2072,12
+2025-03-31,High Tech,2233,9
+2025-03-31,Insurance,2171,16
+2025-03-31,Leisure,2286,6
+2025-03-31,Metal,2113,33
+2025-03-31,Real Estate,2138,14
+2025-03-31,Telecom,2275,10
+2025-03-31,Transport,2240,26
+2025-03-31,Utility,2371,9
+2025-04-30,Consumer,1624,5
+2025-04-30,Energy,1888,24
+2025-04-30,FI,2012,20
+2025-04-30,Forest,1902,8
+2025-04-30,Health,2007,6
+2025-04-30,High Tech,2229,7
+2025-04-30,Insurance,2117,20
+2025-04-30,Leisure,2132,10
+2025-04-30,Metal,2160,13
+2025-04-30,Real Estate,2107,16
+2025-04-30,Telecom,2290,14
+2025-04-30,Transport,2451,16
+2025-04-30,Utility,2377,7
+2025-05-31,Consumer,1624,1
+2025-05-31,Energy,1780,10
+2025-05-31,FI,1911,13
+2025-05-31,Forest,2010,13
+2025-05-31,Health,2065,4
+2025-05-31,High Tech,2115,9
+2025-05-31,Insurance,2036,22
+2025-05-31,Leisure,2096,7
+2025-05-31,Metal,2042,20
+2025-05-31,Real Estate,2132,24
+2025-05-31,Telecom,2180,14
+2025-05-31,Transport,2377,14
+2025-05-31,Utility,2356,2
+2025-06-30,Consumer,1743,10
+2025-06-30,Energy,1813,18
+2025-06-30,FI,1930,18
+2025-06-30,Forest,1901,6
+2025-06-30,Health,1985,7
+2025-06-30,High Tech,2110,13
+2025-06-30,Insurance,2128,9
+2025-06-30,Leisure,2084,13
+2025-06-30,Metal,2143,3
+2025-06-30,Real Estate,2243,19
+2025-06-30,Telecom,2205,10
+2025-06-30,Transport,2239,9
+2025-06-30,Utility,2335,5
+2025-07-31,Consumer,1722,8
+2025-07-31,Energy,1663,26
+2025-07-31,FI,1854,8
+2025-07-31,Forest,2062,12
+2025-07-31,Health,2029,5
+2025-07-31,High Tech,1976,4
+2025-07-31,Insurance,2069,18
+2025-07-31,Leisure,2149,14
+2025-07-31,Metal,2048,9
+2025-07-31,Real Estate,2140,10
+2025-07-31,Telecom,2231,4
+2025-07-31,Transport,2226,6
+2025-07-31,Utility,2395,6
+2025-08-31,Consumer,1846,2
+2025-08-31,Energy,1838,11
+2025-08-31,FI,1859,10
+2025-08-31,Forest,1988,8
+2025-08-31,Health,1983,2
+2025-08-31,High Tech,1946,1
+2025-08-31,Insurance,1988,9
+2025-08-31,Leisure,2035,13
+2025-08-31,Metal,2170,16
+2025-08-31,Real Estate,2228,22
+2025-08-31,Telecom,2242,4
+2025-08-31,Transport,2314,7
+2025-08-31,Utility,2531,2
+2025-09-30,Consumer,1666,10
+2025-09-30,Energy,1897,10
+2025-09-30,FI,1876,11
+2025-09-30,Forest,1869,13
+2025-09-30,Health,1772,1
+2025-09-30,High Tech,2080,2
+2025-09-30,Insurance,2002,9
+2025-09-30,Leisure,2093,9
+2025-09-30,Metal,2105,7
+2025-09-30,Real Estate,2117,6
+2025-09-30,Telecom,2208,5
+2025-09-30,Transport,2314,8
+2025-09-30,Utility,2461,6
+2025-10-31,Consumer,1622,3
+2025-10-31,Energy,1798,6
+2025-10-31,FI,1953,6
+2025-10-31,Forest,1921,7
+2025-10-31,Health,2037,4
+2025-10-31,High Tech,2073,4
+2025-10-31,Insurance,2008,6
+2025-10-31,Leisure,2200,7
+2025-10-31,Metal,2051,3
+2025-10-31,Real Estate,2298,9
+2025-10-31,Telecom,2176,6
+2025-10-31,Transport,2318,6
+2025-10-31,Utility,2607,9
+2025-11-30,Consumer,1810,3
+2025-11-30,Energy,1749,3
+2025-11-30,FI,1905,17
+2025-11-30,Forest,1999,3
+2025-11-30,Health,1878,4
+2025-11-30,High Tech,2033,6
+2025-11-30,Insurance,2131,10
+2025-11-30,Leisure,1966,8
+2025-11-30,Metal,2162,6
+2025-11-30,Real Estate,2078,5
+2025-11-30,Telecom,2291,9
+2025-11-30,Transport,2266,10
+2025-11-30,Utility,2387,5
+2025-12-31,Consumer,1741,4
+2025-12-31,Energy,1799,3
+2025-12-31,FI,1896,22
+2025-12-31,Forest,2009,4
+2025-12-31,Health,1867,5
+2025-12-31,High Tech,2025,2
+2025-12-31,Insurance,2027,9
+2025-12-31,Leisure,1979,5
+2025-12-31,Metal,2082,7
+2025-12-31,Real Estate,2068,8
+2025-12-31,Telecom,2222,4
+2025-12-31,Transport,2289,14
+2025-12-31,Utility,2402,6

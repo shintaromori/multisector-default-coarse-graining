@@ -1,12 +1,33 @@
 # Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas
 
-This repository contains a minimal executable workflow for the paper
+This repository is for the paper
 
 **Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas**
 
 by Shintaro Mori.
 
-The purpose of this repository is to provide a compact paper-reproduction workflow for the final multisector specification used in the paper:
+## Repository Status
+
+This repository is currently under construction.
+
+The public reproduction workflow will be rebuilt from cleaned excerpts of the actual common-eps research notebooks used for the paper. The temporary demonstration notebooks and generated outputs that were previously present have been removed.
+
+The intended public workflow will keep the simple numbered-notebook style used in the related repository:
+
+```text
+00.ipynb
+01.ipynb
+02.ipynb
+03.ipynb
+04.ipynb
+05.ipynb
+```
+
+Replacement notebooks have not yet been added.
+
+## Model Scope
+
+The public workflow will focus on the final common-eps multisector specification:
 
 ```text
 R = 2 fixed-eigenmode AR(1)--Binomial state-space model
@@ -14,182 +35,17 @@ y_{t,s} = mu_s + lambda_{s1} F_{1,t} + lambda_{s2} F_{2,t} + eps_{t,s}
 eps_{t,s} ~ Normal(0, sigma_eps_common^2)
 ```
 
-Here `F1` is the market-wide default-risk factor and `F2` is the sector-rotation factor. The observation layer is Binomial.
+The old sector-specific residual model is not part of the intended public workflow.
 
-This repository keeps only the final common-eps workflow. Exploratory notebooks, debugging cells, failed variants, private paths, proprietary-data outputs, large cached traces, and old residual-scale variants are not included.
-
-## Repository structure
-
-```text
-temporal-coarse-graining-multisector-default-copulas/
-  README.md
-  LICENSE
-  requirements.txt
-
-  data/
-    SAMPLE.csv
-
-  00.ipynb
-  01.ipynb
-  02.ipynb
-  03.ipynb
-  04.ipynb
-  05.ipynb
-
-  pdata/
-    .gitkeep
-
-  figures/
-    .gitkeep
-
-  tables/
-    .gitkeep
-```
-
-## Data availability
+## Data Availability
 
 The empirical default data analyzed in the paper are not included in this repository. Proprietary S&P default data and outputs derived from those data cannot be redistributed.
 
-The file `data/SAMPLE.csv` is independently generated low-fidelity synthetic monthly multi-sector default-count data with the schema
+The file `data/SAMPLE.csv`, when present, is independently generated low-fidelity synthetic monthly multi-sector default-count data. It is provided only to document the expected public input schema and to support future workflow testing.
 
-```text
-date,sector,obligors,defaulted
-```
+`data/SAMPLE.csv` is not derived from, fitted to, or calibrated to the proprietary empirical data used in the paper, and it does not reproduce the paper's empirical numbers.
 
-`SAMPLE.csv` is provided only so that the notebooks execute end to end and demonstrate the public workflow. It is not derived from, fitted to, or calibrated to the proprietary empirical data used in the paper, and it does not reproduce the paper's empirical numbers.
-
-Researchers with access to comparable monthly default-count data can replace `data/SAMPLE.csv` with their own file using the same schema. The notebooks compute `default_rate` internally as `defaulted / obligors`.
-
-## Notebooks
-
-The notebooks should be run in the following order.
-
-### `00.ipynb`
-
-Generate low-fidelity synthetic monthly multi-sector default-count data and save it as `data/SAMPLE.csv`.
-
-### `01.ipynb`
-
-Data analysis and empirical coarse-graining diagnostics.
-
-Main outputs:
-
-```text
-tables/table1_data_construction_sector_summary.csv
-figures/figure1_empirical_variance_eigenvalue_scaling.png
-figures/figure10_quarterly_sector_default_rate_heatmap.png
-pdata/coarse_graining_summary.csv
-pdata/coarse_grained_default_counts.csv
-```
-
-### `02.ipynb`
-
-Empirical eigenmodes and PC score diagnostics.
-
-Main outputs:
-
-```text
-tables/table3_sector_level_summary_statistics.csv
-figures/figure2_leading_empirical_eigenvectors.png
-figures/figure3_empirical_pc_score_acfs.png
-pdata/monthly_sector_correlation.csv
-pdata/eigenmodes.csv
-pdata/pc_scores.csv
-pdata/pc_score_acf.csv
-pdata/eigenmode_summary.csv
-```
-
-### `03.ipynb`
-
-Factor selection using only common-eps fixed-eigenmode AR(1)--Binomial models. The notebook compares `R = 1, 2, 3, 4` and selects `R = 2` as the parsimonious and stable main specification.
-
-Main outputs:
-
-```text
-tables/table2_factor_selection_diagnostics.csv
-figures/figure4_factor_selection_eigenvalue_scaling.png
-pdata/factor_selection.csv
-pdata/selected_factor_dimension.json
-```
-
-### `04.ipynb`
-
-Final `R = 2` common-eps analysis:
-
-* fit or load the final `R = 2` common-eps model;
-* compute posterior-style diagnostics;
-* generate posterior predictive paths;
-* construct annual empirical/PPC correlation matrices;
-* construct posterior-implied rank copulas;
-* summarize sector-wise variance decomposition.
-
-Main outputs:
-
-```text
-tables/table4_sector_wise_ppc_variance_decomposition.csv
-tables/table5_common_eps_r2_diagnostics.csv
-figures/figure5_annual_empirical_ppc_correlation_matrices.png
-figures/figure6_posterior_mean_f1_f2_trajectory.png
-figures/figure7_posterior_implied_rank_copulas.png
-pdata/r2_common_eps_model.json
-pdata/r2_posterior_predictive_summary.csv
-pdata/copula_summary.csv
-pdata/copula_pseudo_observations.csv
-pdata/gaussian_copula_correlation.csv
-pdata/r2_temporal_coarse_graining.csv
-```
-
-### `05.ipynb`
-
-Annual `k = 12` forecast comparison for:
-
-```text
-B0 = Binomial-best static baseline
-B1 = Beta-Binomial-best static baseline
-B2 = One-factor dynamic common-eps model
-B3 = Two-factor dynamic common-eps model
-```
-
-At each forecast origin, fixed eigenmode loadings are recomputed using only the training window. Full-sample eigenvectors are not used in rolling forecasts.
-
-Main outputs:
-
-```text
-tables/table6_annual_portfolio_forecast_comparison.csv
-tables/table7_sector_level_annual_forecast_comparison.csv
-figures/figure8_annual_portfolio_forecast_diagnostics.png
-figures/figure9_sector_vector_forecast_diagnostics.png
-figures/figure11_additional_annual_portfolio_forecast_diagnostics.png
-pdata/annual_forecast_scores.csv
-```
-
-## Manuscript output map
-
-```text
-Figure 1: figures/figure1_empirical_variance_eigenvalue_scaling.png
-Figure 2: figures/figure2_leading_empirical_eigenvectors.png
-Figure 3: figures/figure3_empirical_pc_score_acfs.png
-Figure 4: figures/figure4_factor_selection_eigenvalue_scaling.png
-Figure 5: figures/figure5_annual_empirical_ppc_correlation_matrices.png
-Figure 6: figures/figure6_posterior_mean_f1_f2_trajectory.png
-Figure 7: figures/figure7_posterior_implied_rank_copulas.png
-Figure 8: figures/figure8_annual_portfolio_forecast_diagnostics.png
-Figure 9: figures/figure9_sector_vector_forecast_diagnostics.png
-Figure 10: figures/figure10_quarterly_sector_default_rate_heatmap.png
-Figure 11: figures/figure11_additional_annual_portfolio_forecast_diagnostics.png
-
-Table 1: tables/table1_data_construction_sector_summary.csv
-Table 2: tables/table2_factor_selection_diagnostics.csv
-Table 3: tables/table3_sector_level_summary_statistics.csv
-Table 4: tables/table4_sector_wise_ppc_variance_decomposition.csv
-Table 5: tables/table5_common_eps_r2_diagnostics.csv
-Table 6: tables/table6_annual_portfolio_forecast_comparison.csv
-Table 7: tables/table7_sector_level_annual_forecast_comparison.csv
-```
-
-## Input data format
-
-The notebooks expect `data/SAMPLE.csv` to have the following columns:
+The expected input schema is:
 
 ```text
 date,sector,obligors,defaulted
@@ -202,50 +58,38 @@ where:
 * `obligors` is the number of obligors in that sector-month;
 * `defaulted` is the number of defaults in that sector-month.
 
+## Current Repository Structure
+
+```text
+temporal-coarse-graining-multisector-default-copulas/
+  README.md
+  LICENSE
+  requirements.txt
+
+  data/
+    SAMPLE.csv
+
+  pdata/
+    .gitkeep
+
+  figures/
+    .gitkeep
+
+  tables/
+    .gitkeep
+```
+
 ## Installation
 
-The code was developed in Python. A typical environment can be prepared with:
+The eventual workflow will be developed in Python. A typical environment can be prepared with:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-The required packages are:
+## Reproducibility Note
 
-* `numpy`
-* `pandas`
-* `scipy`
-* `matplotlib`
-* `pymc`
-* `arviz`
-* `jupyter`
-
-## Running the analysis
-
-Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Then run:
-
-```text
-00.ipynb
-01.ipynb
-02.ipynb
-03.ipynb
-04.ipynb
-05.ipynb
-```
-
-The notebooks write processed files to `pdata/`, figures to `figures/`, and tables to `tables/`.
-
-## Reproducibility note
-
-The synthetic dataset is deterministic given the seed in `00.ipynb`. Simulation-based posterior predictive and forecast summaries may vary slightly across platforms, package versions, and random seeds.
-
-The sample data are intended for workflow testing only. The numerical values obtained from `SAMPLE.csv` should not be compared with the empirical results in the paper.
+This repository does not currently contain the public reproduction notebooks. The workflow will be added after the paper code is cleaned to remove private paths, exploratory variants, proprietary-data outputs, and large cached traces.
 
 ## Citation
 
