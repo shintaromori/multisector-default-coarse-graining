@@ -1,5 +1,14 @@
 # Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas
 
+This repository corresponds to the code repository described in the submitted manuscript as:
+
+https://github.com/shintaro-mori/multisector-default-coarse-graining
+
+The actual public repository is hosted at:
+
+https://github.com/shintaromori/multisector-default-coarse-graining
+
+
 This repository contains the analysis workflow for the paper:
 
 **Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas**
